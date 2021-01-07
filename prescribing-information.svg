@@ -2,7 +2,7 @@
     <div class="prescribing-info-box">
 
 <!-- coppying from desktop --> 
-<svg id="desktop" xmlns="http://www.w3.org/2000/svg" width="785.25" height="7836" viewBox="0 0 785.25 7836">
+<svg id="desktop" xmlns="http://www.w3.org/2000/svg" width="auto" height="7836" viewBox="0 0 auto 7836">
     <g id="desktop" transform="translate(0.75)">
         <g id="Group_21" data-name="Group 21" transform="translate(-335.75 -102)">
             <text id="These_highlights_do_not_include_all_the_information_needed_to_use_AKLIEF_Cream_safely_and_effectively._See_full_prescribing_information_for_AKLIEF_Cream._AKLIEF_trifarotene_cream_for_topical_use_Initial_U.S._Approval:_2019_-_-_INDICATIONS_AND" data-name="These highlights do not include all the information needed to use AKLIEF® Cream safely and effectively. See full prescribing information for AKLIEF Cream.AKLIEF (trifarotene) cream, for topical useInitial U.S. Approval: 2019————-————-——INDICATIONS AND" transform="translate(336 134)" font-size="16" class="sofiapro-bold" font-weight="700">
@@ -43,10 +43,10 @@
             <text id="HIGHLIGHTS_OF_PRESCRIBING_INFORMATION" data-name="HIGHLIGHTS OF PRESCRIBING INFORMATION" transform="translate(336 102)" font-size="16" class="sofiapro-bold" font-weight="700">
                 <tspan x="61.648" y="16">HIGHLIGHTS OF PRESCRIBING INFORMATION</tspan>
             </text>
-            <text id="_-_WARNINGS_AND_PRECAUTIONS_-" data-name="——-———————WARNINGS AND PRECAUTIONS—————————-" transform="translate(728 102)" font-size="16" class="sofiapro-bold" font-weight="700">
+            <text id="_-_WARNINGS_AND_PRECAUTIONS_-" data-name="——-———————WARNINGS AND PRECAUTIONS—————————-" transform="translate(850 102)" font-size="16" class="sofiapro-bold" font-weight="700">
                 <tspan x="1.552" y="16">——-———————WARNINGS AND PRECAUTIONS—————————-</tspan>
             </text>
-            <text id="_Skin_irritation:_Erythema_scaling_dryness_and_stinging_burning_may_be_experienced_with_use_of_AKLIEF_Cream._Use_a_moisturizer_from_the_initiation_of_treatment_and_if_appropriate_reduce_the_frequency_of_application_of_AKLIEF_Crea" data-name="•   Skin irritation: Erythema, scaling, dryness, and stinging/burning may be experienced with use of AKLIEF Cream. Use a moisturizer from the initiation of treatment, and, if appropriate, reduce the frequency of application of AKLIEF Crea" transform="translate(728 134)" font-size="16" font-family="SofiaProCondensed-Light, Sofia Pro Condensed" font-weight="300">
+            <text id="_Skin_irritation:_Erythema_scaling_dryness_and_stinging_burning_may_be_experienced_with_use_of_AKLIEF_Cream._Use_a_moisturizer_from_the_initiation_of_treatment_and_if_appropriate_reduce_the_frequency_of_application_of_AKLIEF_Crea" data-name="•   Skin irritation: Erythema, scaling, dryness, and stinging/burning may be experienced with use of AKLIEF Cream. Use a moisturizer from the initiation of treatment, and, if appropriate, reduce the frequency of application of AKLIEF Crea" transform="translate(850 134)" font-size="16" font-family="SofiaProCondensed-Light, Sofia Pro Condensed" font-weight="300">
                 <tspan x="0" y="16" xml:space="preserve">•   Skin irritation: Erythema, scaling, dryness, and stinging/burning </tspan>
                 <tspan x="0" y="35" xml:space="preserve">     may be experienced with use of AKLIEF Cream. Use a moisturizer </tspan>
                 <tspan x="0" y="54" xml:space="preserve">     from the initiation of treatment, and, if appropriate, reduce the </tspan>
@@ -94,7 +94,7 @@
                 <tspan x="0" y="282" xml:space="preserve">    8.5 Geriatric Use</tspan>
             </tspan>
         </text>
-        <text id="_11_DESCRIPTION_12_CLINICAL_PHARMACOLOGY_12.1_Mechanism_of_Action_12.2_Pharmacodynamics_12.3_Pharmacokinetics_13_NONCLINICAL_TOXICOLOGY_13.1_Carcinogenesis_Mutagenesis_Impairment_of_Fertility_14_CLINICAL_STUDIES_16_HOW_SUPPLIED_STORAGE_AND" data-name="11 DESCRIPTION 12 CLINICAL PHARMACOLOGY 12.1 Mechanism of Action 12.2 Pharmacodynamics 12.3 Pharmacokinetics 13 NONCLINICAL TOXICOLOGY 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility 14 CLINICAL STUDIES 16 HOW SUPPLIED/STORAGE AND" transform="translate(728 653)" font-size="16" class="sofiapro-bold" font-weight="700">
+        <text id="_11_DESCRIPTION_12_CLINICAL_PHARMACOLOGY_12.1_Mechanism_of_Action_12.2_Pharmacodynamics_12.3_Pharmacokinetics_13_NONCLINICAL_TOXICOLOGY_13.1_Carcinogenesis_Mutagenesis_Impairment_of_Fertility_14_CLINICAL_STUDIES_16_HOW_SUPPLIED_STORAGE_AND" data-name="11 DESCRIPTION 12 CLINICAL PHARMACOLOGY 12.1 Mechanism of Action 12.2 Pharmacodynamics 12.3 Pharmacokinetics 13 NONCLINICAL TOXICOLOGY 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility 14 CLINICAL STUDIES 16 HOW SUPPLIED/STORAGE AND" transform="translate(850 653)" font-size="16" class="sofiapro-bold" font-weight="700">
             <tspan x="0" y="16">11 DESCRIPTION</tspan>
             <tspan x="0" y="35">12 CLINICAL PHARMACOLOGY</tspan>
             <tspan font-family="SofiaProCondensed-Light, Sofia Pro Condensed" font-weight="300">
@@ -170,7 +170,8 @@
             <tspan x="0" y="16">Additional adverse reactions that were reported in more than one subject treated with AKLIEF Cream (and at a frequency &lt;1%) included </tspan>
             <tspan x="0" y="35">application site pain, application site dryness, application site discoloration, application site rash, application site swelling, application site </tspan>
             <tspan x="0" y="54">erosion, acne, dermatitis allergic, and erythema.</tspan>
-            <tspan x="0" y="73"></tspan><tspan x="0" y="92">In the one-year, open-label safety trial that included 453 subjects 9 years and older, with acne vulgaris of the face and trunk, the pattern of </tspan>
+            <tspan x="0" y="73"></tspan>
+            <tspan x="0" y="92">In the one-year, open-label safety trial that included 453 subjects 9 years and older, with acne vulgaris of the face and trunk, the pattern of </tspan>
             <tspan x="0" y="111">adverse reactions for AKLIEF Cream was similar to that experienced in the 12-week controlled trials. A total of 12.6% of subjects had at least </tspan>
             <tspan x="0" y="130">one adverse reaction during the trial, and 2.9% of subjects had an adverse reaction leading to treatment discontinuation. The most common </tspan>
             <tspan x="0" y="149">adverse reactions (≥ 1% of subjects) for the entire trial were application site pruritus (4.6%), application site irritation (4.2%), and sunburn </tspan>
@@ -196,8 +197,7 @@
                 <tspan x="0" y="168" xml:space="preserve">8   USE IN SPECIFIC POPULATIONS</tspan>
                 <tspan x="0" y="187" xml:space="preserve">     8.1   Pregnancy</tspan>
             </tspan>
-            <tspan x="0" y="206" xml:space="preserve">     </tspan>
-            <tspan y="206" text-decoration="underline">Risk Summary</tspan>
+            <tspan x="18" y="206" text-decoration="underline">Risk Summary</tspan>
         </text>
         <text id="Available_data_from_clinical_trials_with_AKLIEF_Cream_use_in_pregnant_women_have_not_identified_a_drug-associated_risk_of_major_birth_defects_miscarriage_or_adverse_maternal_or_fetal_outcomes._There_are_case_reports_of_major_birth_defects_similar_to_thos" data-name="Available data from clinical trials with AKLIEF Cream use in pregnant women have not identified a drug-associated risk of major birth defects, miscarriage or adverse maternal or fetal outcomes.  There are case reports of major birth defects similar to thos" transform="translate(352 2796)" font-size="16" font-family="SofiaProCondensed-Light, Sofia Pro Condensed" font-weight="300">
             <tspan x="0" y="16">Available data from clinical trials with AKLIEF Cream use in pregnant women have not identified a drug-associated risk of major birth </tspan>
@@ -411,7 +411,8 @@
                 <tspan x="0" y="92">Storage and Handling</tspan>
             </tspan>
             <tspan x="0" y="111">- Store at 20 to 25˚C (68 to 77˚F) with excursions permitted to 15°to 30°C (59° to 86°F).</tspan>
-            <tspan x="0" y="130">- Keep away from heat.</tspan><tspan x="0" y="149">- Keep out of reach of children.</tspan>
+            <tspan x="0" y="130">- Keep away from heat.</tspan>
+            <tspan x="0" y="149">- Keep out of reach of children.</tspan>
         </text>
         <text id="See_FDA-approved_patient_labeling_Patient_Information_._Advise_the_patient_to:_Cleanse_the_area_to_be_treated_pat_dry._Apply_AKLIEF_Cream_as_a_thin_layer_once_daily_in_the_evening_to_the_face_avoiding_the_eyes_lips_nasolabial_folds_and_m" data-name="See FDA-approved patient labeling (Patient Information). Advise the patient to: •   Cleanse the area to be treated; pat dry. Apply AKLIEF Cream as a thin layer once daily in the evening to the face, avoiding the eyes, lips, nasolabial folds, and m" transform="translate(352 6054)" font-size="16" font-family="SofiaProCondensed-Light, Sofia Pro Condensed" font-weight="300">
             <tspan x="0" y="16">See FDA-approved patient labeling (Patient Information).</tspan>
@@ -431,7 +432,7 @@
         <text id="_17_PATIENT_COUNSELING_INFORMATION" data-name="17  PATIENT COUNSELING INFORMATION" transform="translate(336 6034)" font-size="16" class="sofiapro-bold" font-weight="700">
             <tspan x="0" y="16" xml:space="preserve">17  PATIENT COUNSELING INFORMATION</tspan>
         </text>
-        <text id="FULL_PRESCRIBING_INFORMATION:_CONTENTS_" data-name="FULL PRESCRIBING INFORMATION: CONTENTS*" transform="translate(504 615)" font-size="16" class="sofiapro-bold" font-weight="700">
+        <text id="FULL_PRESCRIBING_INFORMATION:_CONTENTS_" data-name="FULL PRESCRIBING INFORMATION: CONTENTS*" transform="translate(578 615)" font-size="16" class="sofiapro-bold" font-weight="700">
             <tspan x="84.016" y="16">FULL PRESCRIBING INFORMATION: CONTENTS*</tspan>
         </text>
         <text id="FULL_PRESCRIBING_INFORMATION" data-name="FULL PRESCRIBING INFORMATION" transform="translate(504 981)" font-size="16" class="sofiapro-bold" font-weight="700">
@@ -439,12 +440,12 @@
         </text>
         <g id="Group_15" data-name="Group 15">
             <g id="Group_1" data-name="Group 1" transform="translate(336 1759.623)">
-                <rect id="Rectangle_1" data-name="Rectangle 1" width="768" height="107.721" fill="none" stroke="#1a1818" stroke-miterlimit="10" stroke-width="0.48"/>
-                <line id="Line_1" data-name="Line 1" x2="768" transform="translate(0 80.791)" fill="none" stroke="#1a1818" stroke-miterlimit="10" stroke-width="0.48"/>
-                <line id="Line_2" data-name="Line 2" x2="768" transform="translate(0 53.861)" fill="none" stroke="#1a1818" stroke-miterlimit="10" stroke-width="0.48"/>
-                <line id="Line_3" data-name="Line 3" x2="768" transform="translate(0 26.93)" fill="none" stroke="#1a1818" stroke-miterlimit="10" stroke-width="0.48"/>
-                <line id="Line_4" data-name="Line 4" y2="107.721" transform="translate(512)" fill="none" stroke="#1a1818" stroke-miterlimit="10" stroke-width="0.48"/>
-                <line id="Line_5" data-name="Line 5" y2="107.721" transform="translate(256)" fill="none" stroke="#1a1818" stroke-miterlimit="10" stroke-width="0.48"/>
+                <rect id="Rectangle_1" data-name="Rectangle 1" width="1000" height="107.721" fill="none" stroke="#1a1818" stroke-miterlimit="10" stroke-width="0.48"/>
+                <line id="Line_1" data-name="Line 1" x2="1000" transform="translate(0 80.791)" fill="none" stroke="#1a1818" stroke-miterlimit="10" stroke-width="0.48"/>
+                <line id="Line_2" data-name="Line 2" x2="1000" transform="translate(0 53.861)" fill="none" stroke="#1a1818" stroke-miterlimit="10" stroke-width="0.48"/>
+                <line id="Line_3" data-name="Line 3" x2="1000" transform="translate(0 26.93)" fill="none" stroke="#1a1818" stroke-miterlimit="10" stroke-width="0.48"/>
+                <line id="Line_4" data-name="Line 4" y2="107.721" transform="translate(350)" fill="none" stroke="#1a1818" stroke-miterlimit="10" stroke-width="0.48"/>
+                <line id="Line_5" data-name="Line 5" y2="107.721" transform="translate(644)" fill="none" stroke="#1a1818" stroke-miterlimit="10" stroke-width="0.48"/>
             </g>
             <text id="Preferred_Term_Application_site_irritation_Application_site_pruritus_Sunburn" data-name="Preferred Term Application site irritation Application site pruritus Sunburn" transform="translate(374 1763.335)" fill="#1a1818" font-size="16" class="sofiapro-bold" font-weight="700">
                 <tspan x="45.847" y="16">Preferred Term</tspan>
@@ -454,7 +455,7 @@
                     <tspan x="65.215" y="94">Sunburn</tspan>
                 </tspan>
             </text>
-            <text id="AKLIEF_Cream_N_1220_91_7.5_29_2.4_32_2.6_" data-name="AKLIEF Cream (N= 1220) 91 (7.5) 29 (2.4) 32 (2.6)" transform="translate(630.548 1763.335)" fill="#1a1818" font-size="16" class="sofiapro-bold" font-weight="700">
+            <text id="AKLIEF_Cream_N_1220_91_7.5_29_2.4_32_2.6_" data-name="AKLIEF Cream (N= 1220) 91 (7.5) 29 (2.4) 32 (2.6)" transform="translate(726.548 1763.335)" fill="#1a1818" font-size="16" class="sofiapro-bold" font-weight="700">
                 <tspan x="21.578" y="16">AKLIEF Cream (N= 1220)</tspan>
                 <tspan font-family="SofiaProCondensed-Light, Sofia Pro Condensed" font-weight="300">
                     <tspan x="70.898" y="42">91 (7.5)</tspan>
@@ -462,7 +463,7 @@
                     <tspan x="69.77" y="94">32 (2.6)</tspan>
                 </tspan>
             </text>
-            <text id="Vehicle_Cream_N_1200_4_0.3_10_0.8_6_0.5_" data-name="Vehicle Cream (N=1200) 4 (0.3) 10 (0.8) 6 (0.5)" transform="translate(888 1763.335)" fill="#1a1818" font-size="16" class="sofiapro-bold" font-weight="700">
+            <text id="Vehicle_Cream_N_1200_4_0.3_10_0.8_6_0.5_" data-name="Vehicle Cream (N=1200) 4 (0.3) 10 (0.8) 6 (0.5)" transform="translate(1041 1763.335)" fill="#1a1818" font-size="16" class="sofiapro-bold" font-weight="700">
                 <tspan x="21.175" y="16">Vehicle Cream (N=1200)</tspan>
                 <tspan font-family="SofiaProCondensed-Light, Sofia Pro Condensed" font-weight="300">
                     <tspan x="72.023" y="42">4 (0.3)</tspan>
@@ -491,24 +492,24 @@
             <tspan x="19.583" y="16">Stinging/</tspan>
             <tspan x="23.183" y="35">Burning</tspan>
         </text>
-        <text id="AKLIEF_Cream_N_1214_Maximum_Severity_during_Treatment" data-name="AKLIEF Cream N=1214 Maximum Severity during Treatment" transform="translate(427.775 2201)" font-size="16" class="sofiapro-bold" font-weight="700">
+        <text id="AKLIEF_Cream_N_1214_Maximum_Severity_during_Treatment" data-name="AKLIEF Cream N=1214 Maximum Severity during Treatment" transform="translate(472.775 2201)" font-size="16" class="sofiapro-bold" font-weight="700">
             <tspan x="101.002" y="16">AKLIEF Cream N=1214</tspan>
             <tspan x="58.794" y="35">Maximum Severity during Treatment</tspan>
         </text>
         <text id="Face" transform="translate(341.775 2214)" font-size="16" class="sofiapro-bold" font-weight="700">
             <tspan x="28.382" y="16">Face</tspan>
         </text>
-        <text id="Vehicle_Cream_N_1194_Maximum_Severity_during_Treatment_" data-name="Vehicle Cream N=1194 Maximum Severity during Treatment " transform="translate(808.675 2201)" font-size="16" class="sofiapro-bold" font-weight="700">
+        <text id="Vehicle_Cream_N_1194_Maximum_Severity_during_Treatment_" data-name="Vehicle Cream N=1194 Maximum Severity during Treatment " transform="translate(957.675 2201)" font-size="16" class="sofiapro-bold" font-weight="700">
             <tspan x="79.366" y="16">Vehicle Cream N=1194</tspan>
             <tspan x="38.294" y="35">Maximum Severity during Treatment</tspan>
         </text>
         <text id="Trunk" transform="translate(355 2401)" font-size="16" class="sofiapro-bold" font-weight="700">
             <tspan x="11.941" y="16">Trunk</tspan>
         </text>
-        <text id="N_1202" data-name="N=1202" transform="translate(540.775 2401)" fill="#1a1818" font-size="16" class="sofiapro-bold" font-weight="700">
+        <text id="N_1202" data-name="N=1202" transform="translate(605.775 2401)" fill="#1a1818" font-size="16" class="sofiapro-bold" font-weight="700">
             <tspan x="33.126" y="16">N=1202</tspan>
         </text>
-        <text id="N_1185" data-name="N=1185" transform="translate(882.675 2401)" fill="#1a1818" font-size="16" class="sofiapro-bold" font-weight="700">
+        <text id="N_1185" data-name="N=1185" transform="translate(1075 2401)" fill="#1a1818" font-size="16" class="sofiapro-bold" font-weight="700">
             <tspan x="33.598" y="16">N=1185</tspan>
         </text>
         <text id="Erythema_Scaling_Dryness" data-name="Erythema Scaling Dryness" transform="translate(350 2428)" fill="#1a1818" font-size="16" font-family="SofiaProCondensed-Light, Sofia Pro Condensed" font-weight="300">
@@ -516,46 +517,46 @@
             <tspan x="12.83" y="42.5">Scaling</tspan>
             <tspan x="10.87" y="69">Dryness</tspan>
         </text>
-        <text id="_26.5_29.7_32.9_26.1_" data-name="26.5% 29.7% 32.9% 26.1%" transform="translate(431.231 2430)" fill="#1a1818" font-size="16" font-family="SofiaProCondensed-Light, Sofia Pro Condensed" font-weight="300">
+        <text id="_26.5_29.7_32.9_26.1_" data-name="26.5% 29.7% 32.9% 26.1%" transform="translate(477.231 2430)" fill="#1a1818" font-size="16" font-family="SofiaProCondensed-Light, Sofia Pro Condensed" font-weight="300">
             <tspan x="35.031" y="16">26.5%</tspan>
             <tspan x="35.647" y="40.5">29.7%</tspan>
             <tspan x="35.215" y="65">32.9%</tspan>
             <tspan x="36.639" y="89.5">26.1%</tspan>
         </text>
-        <text id="_18.9_13.7_16.1_10.9_" data-name="18.9% 13.7% 16.1% 10.9% " transform="translate(546.408 2430)" fill="#1a1818" font-size="16" font-family="SofiaProCondensed-Light, Sofia Pro Condensed" font-weight="300">
+        <text id="_18.9_13.7_16.1_10.9_" data-name="18.9% 13.7% 16.1% 10.9% " transform="translate(611.408 2430)" fill="#1a1818" font-size="16" font-family="SofiaProCondensed-Light, Sofia Pro Condensed" font-weight="300">
             <tspan x="34.663" y="16">18.9%</tspan>
             <tspan x="35.423" y="40.5">13.7%</tspan>
             <tspan x="36.327" y="65">16.1%</tspan>
             <tspan x="34.711" y="89.5">10.9%</tspan>
         </text>
-        <text id="_5.2_1.7_1.8_4.3_" data-name="5.2% 1.7% 1.8% 4.3% " transform="translate(664.113 2430)" fill="#1a1818" font-size="16" font-family="SofiaProCondensed-Light, Sofia Pro Condensed" font-weight="300">
+        <text id="_5.2_1.7_1.8_4.3_" data-name="5.2% 1.7% 1.8% 4.3% " transform="translate(775.113 2430)" fill="#1a1818" font-size="16" font-family="SofiaProCondensed-Light, Sofia Pro Condensed" font-weight="300">
             <tspan x="26.207" y="16">5.2%</tspan>
             <tspan x="27.591" y="40.5">1.7%</tspan>
             <tspan x="27.111" y="65">1.8%</tspan>
             <tspan x="26.071" y="89.5">4.3%</tspan>
             <tspan x="37.887" y="114"></tspan>
         </text>
-        <text id="_12.7_13.2_17.8_9.2_" data-name="12.7% 13.2% 17.8% 9.2% " transform="translate(780.817 2430)" fill="#1a1818" font-size="16" font-family="SofiaProCondensed-Light, Sofia Pro Condensed" font-weight="300">
+        <text id="_12.7_13.2_17.8_9.2_" data-name="12.7% 13.2% 17.8% 9.2% " transform="translate(928.817 2430)" fill="#1a1818" font-size="16" font-family="SofiaProCondensed-Light, Sofia Pro Condensed" font-weight="300">
             <tspan x="21.495" y="16">12.7%</tspan>
             <tspan x="21.327" y="40.5">13.2%</tspan>
             <tspan x="21.703" y="65">17.8%</tspan>
             <tspan x="23.375" y="89.5">9.2%</tspan>
         </text>
-        <text id="_4.4_2.6_3.9_2.2_" data-name="4.4% 2.6% 3.9% 2.2%" transform="translate(903.45 2430)" fill="#1a1818" font-size="16" font-family="SofiaProCondensed-Light, Sofia Pro Condensed" font-weight="300">
+        <text id="_4.4_2.6_3.9_2.2_" data-name="4.4% 2.6% 3.9% 2.2%" transform="translate(1085.45 2430)" fill="#1a1818" font-size="16" font-family="SofiaProCondensed-Light, Sofia Pro Condensed" font-weight="300">
             <tspan x="25.777" y="16">4.4%</tspan>
             <tspan x="26.209" y="40.5">2.6%</tspan>
             <tspan x="25.993" y="65">3.9%</tspan>
             <tspan x="26.465" y="89.5">2.2%</tspan>
             <tspan x="37.817" y="114"></tspan>
         </text>
-        <text id="_0.4_0.1_0.1_0.5_" data-name="0.4% 0.1% 0.1% 0.5%" transform="translate(1014.225 2430)" fill="#1a1818" font-size="16" font-family="SofiaProCondensed-Light, Sofia Pro Condensed" font-weight="300">
+        <text id="_0.4_0.1_0.1_0.5_" data-name="0.4% 0.1% 0.1% 0.5%" transform="translate(1244.225 2430)" fill="#1a1818" font-size="16" font-family="SofiaProCondensed-Light, Sofia Pro Condensed" font-weight="300">
             <tspan x="26.903" y="16">0.4%</tspan>
             <tspan x="28.527" y="40.5">0.1%</tspan>
             <tspan x="28.527" y="65">0.1%</tspan>
             <tspan x="26.919" y="89.5">0.5%</tspan>
             <tspan x="38.887" y="114"></tspan>
         </text>
-        <text id="Mild_30.6_37.5_39_35.6_" data-name="Mild 30.6% 37.5% 39% 35.6%" transform="translate(445.231 2251)" fill="#1a1818" font-size="16" class="sofiapro-bold" font-weight="700">
+        <text id="Mild_30.6_37.5_39_35.6_" data-name="Mild 30.6% 37.5% 39% 35.6%" transform="translate(489.231 2251)" fill="#1a1818" font-size="16" class="sofiapro-bold" font-weight="700">
             <tspan fill="#000">
                 <tspan x="23.567" y="16">Mild</tspan>
             </tspan>
@@ -566,7 +567,7 @@
                 <tspan x="21.007" y="114">35.6%</tspan>
             </tspan>
         </text>
-        <text id="Moderate_28.4_27.1_29.7_20.6_" data-name="Moderate 28.4% 27.1% 29.7% 20.6%" transform="translate(558.408 2251)" fill="#1a1818" font-size="16" class="sofiapro-bold" font-weight="700">
+        <text id="Moderate_28.4_27.1_29.7_20.6_" data-name="Moderate 28.4% 27.1% 29.7% 20.6%" transform="translate(624.408 2251)" fill="#1a1818" font-size="16" class="sofiapro-bold" font-weight="700">
             <tspan fill="#000">
                 <tspan x="7.999" y="16">Moderate</tspan>
             </tspan>
@@ -577,7 +578,7 @@
                 <tspan x="20.895" y="114">20.6%</tspan>
             </tspan>
         </text>   
-        <text id="Severe_6.2_4.9_4.8_5.9_" data-name="Severe 6.2%4.9%4.8%5.9%" transform="translate(664.113 2251)" fill="#1a1818" font-size="16" class="sofiapro-bold" font-weight="700">
+        <text id="Severe_6.2_4.9_4.8_5.9_" data-name="Severe 6.2%4.9%4.8%5.9%" transform="translate(775.113 2251)" fill="#1a1818" font-size="16" class="sofiapro-bold" font-weight="700">
             <tspan fill="#000">
                 <tspan x="19.471" y="16">Severe</tspan>
             </tspan>
@@ -588,7 +589,7 @@
                 <tspan x="26.807" y="114">5.9%</tspan>
             </tspan>
         </text>
-        <text id="Mild_21_23.7_29.9_15.9_" data-name="Mild 21%23.7%29.9%15.9%" transform="translate(782.817 2251)" fill="#1a1818" font-size="16" class="sofiapro-bold" font-weight="700">
+        <text id="Mild_21_23.7_29.9_15.9_" data-name="Mild 21%23.7%29.9%15.9%" transform="translate(928.817 2251)" fill="#1a1818" font-size="16" class="sofiapro-bold" font-weight="700">
             <tspan fill="#000">
                 <tspan x="21.295" y="16">Mild </tspan>
             </tspan>
@@ -599,7 +600,7 @@
                 <tspan x="19.671" y="114">15.9%</tspan>
             </tspan>
         </text>
-        <text id="Moderate_6.8_5.9_6.8_3.8_" data-name="Moderate  6.8% 5.9% 6.8% 3.8%" transform="translate(898.45 2251)" fill="#1a1818" font-size="16" class="sofiapro-bold" font-weight="700">
+        <text id="Moderate_6.8_5.9_6.8_3.8_" data-name="Moderate  6.8% 5.9% 6.8% 3.8%" transform="translate(1085.45 2251)" fill="#1a1818" font-size="16" class="sofiapro-bold" font-weight="700">
             <tspan fill="#000">
                 <tspan x="9.999" y="16">Moderate </tspan>
             </tspan>
@@ -611,7 +612,7 @@
                 <tspan x="37.887" y="138.5"></tspan>
             </tspan>
         </text>
-        <text id="Severe_0.8_0.3_0.8_0.5_" data-name="Severe 0.8% 0.3% 0.8% 0.5%" transform="translate(1013.225 2251)" fill="#1a1818" font-size="16" class="sofiapro-bold" font-weight="700">
+        <text id="Severe_0.8_0.3_0.8_0.5_" data-name="Severe 0.8% 0.3% 0.8% 0.5%" transform="translate(1244.225 2251)" fill="#1a1818" font-size="16" class="sofiapro-bold" font-weight="700">
             <tspan fill="#000">
                 <tspan x="19.971" y="16">Severe</tspan>
             </tspan>
@@ -623,7 +624,7 @@
                 <tspan x="39.387" y="138.5"></tspan>
             </tspan>
         </text>
-        <g id="Group_8" data-name="Group 8" transform="translate(125 50.552)">
+        <g id="Group_8" data-name="Group 8" transform="translate(400 50.552)">
             <g id="Group_7" data-name="Group 7" transform="translate(685 3565)">
                 <path id="Path_1" data-name="Path 1" d="M1579.236,217.91v-8.536h1.158l4.484,6.7v-6.7h1.082v8.536H1584.8l-4.483-6.708v6.708Z" transform="translate(-1561.508 -179.45)" fill="#1a1818" fill-rule="evenodd"/>
                 <path id="Path_2" data-name="Path 2" d="M1596.794,236.306a3.406,3.406,0,0,0,.83,2.431,2.9,2.9,0,0,0,4.182-.007,3.631,3.631,0,0,0,.823-2.545,4.353,4.353,0,0,0-.353-1.82,2.688,2.688,0,0,0-1.032-1.205,2.767,2.767,0,0,0-1.523-.428,2.881,2.881,0,0,0-2.061.823A3.673,3.673,0,0,0,1596.794,236.306Zm-1.166-.016a4.637,4.637,0,0,1,1.143-3.329,3.878,3.878,0,0,1,2.947-1.2,4.1,4.1,0,0,1,2.13.565,3.691,3.691,0,0,1,1.447,1.575,5.1,5.1,0,0,1,.5,2.29,5.036,5.036,0,0,1-.523,2.326,3.594,3.594,0,0,1-1.487,1.552,4.251,4.251,0,0,1-2.071.526,4.039,4.039,0,0,1-2.156-.581,3.766,3.766,0,0,1-1.437-1.591A4.808,4.808,0,0,1,1595.628,236.29Z" transform="translate(-1524.35 -128.707)" fill="#1a1818" fill-rule="evenodd"/>
@@ -688,15 +689,15 @@
                     <tspan x="0" y="16">Table 3. Acne of the Face Efficacy Results at Week 12 (Intent-to-Treat; Multiple Imputation)</tspan>
                 </text>
                 <g id="Group_9" data-name="Group 9" transform="translate(337.625 5202)">
-                    <rect id="Rectangle_3" data-name="Rectangle 3" width="782.375" height="266.233" fill="none" stroke="#1a1818" stroke-miterlimit="10" stroke-width="0.5"/>
-                    <line id="Line_73" data-name="Line 73" x2="782.375" transform="translate(0 203.353)" fill="none" stroke="#1a1818" stroke-miterlimit="10" stroke-width="0.5"/>
-                    <line id="Line_74" data-name="Line 74" x2="782.375" transform="translate(0 139.473)" fill="none" stroke="#1a1818" stroke-miterlimit="10" stroke-width="0.5"/>
-                    <line id="Line_75" data-name="Line 75" x2="782.375" transform="translate(0 73.635)" fill="none" stroke="#1a1818" stroke-miterlimit="10" stroke-width="0.5"/>
-                    <line id="Line_76" data-name="Line 76" x2="530.5" transform="translate(251.875 27.151)" fill="none" stroke="#1a1818" stroke-miterlimit="10" stroke-width="0.5"/>
-                    <line id="Line_77" data-name="Line 77" y2="239.257" transform="translate(654.813 26.976)" fill="none" stroke="#1a1818" stroke-miterlimit="10" stroke-width="0.5"/>
-                    <line id="Line_78" data-name="Line 78" y2="266.233" transform="translate(520.5)" fill="none" stroke="#1a1818" stroke-miterlimit="10" stroke-width="0.5"/>
-                    <line id="Line_79" data-name="Line 79" y2="239.257" transform="translate(386.188 26.976)" fill="none" stroke="#1a1818" stroke-miterlimit="10" stroke-width="0.5"/>
-                    <line id="Line_80" data-name="Line 80" y2="266.233" transform="translate(251.875)" fill="none" stroke="#1a1818" stroke-miterlimit="10" stroke-width="0.5"/>
+                    <rect id="Rectangle_3" data-name="Rectangle 3" width="1025" height="266.233" fill="none" stroke="#1a1818" stroke-miterlimit="10" stroke-width="0.5"/>
+                    <line id="Line_73" data-name="Line 73" x2="1025" transform="translate(0 203.353)" fill="none" stroke="#1a1818" stroke-miterlimit="10" stroke-width="0.5"/>
+                    <line id="Line_74" data-name="Line 74" x2="1025" transform="translate(0 139.473)" fill="none" stroke="#1a1818" stroke-miterlimit="10" stroke-width="0.5"/>
+                    <line id="Line_75" data-name="Line 75" x2="1025" transform="translate(0 73.635)" fill="none" stroke="#1a1818" stroke-miterlimit="10" stroke-width="0.5"/>
+                    <line id="Line_76" data-name="Line 76" x2="698" transform="translate(325.875 27.151)" fill="none" stroke="#1a1818" stroke-miterlimit="10" stroke-width="0.5"/>
+                    <line id="Line_77" data-name="Line 77" y2="239.257" transform="translate(860.813 26.976)" fill="none" stroke="#1a1818" stroke-miterlimit="10" stroke-width="0.5"/>
+                    <line id="Line_78" data-name="Line 78" y2="266.233" transform="translate(667.5)" fill="none" stroke="#1a1818" stroke-miterlimit="10" stroke-width="0.5"/>
+                    <line id="Line_79" data-name="Line 79" y2="239.257" transform="translate(482.188 26.976)" fill="none" stroke="#1a1818" stroke-miterlimit="10" stroke-width="0.5"/>
+                    <line id="Line_80" data-name="Line 80" y2="325.233" transform="translate(325.875)" fill="none" stroke="#1a1818" stroke-miterlimit="10" stroke-width="0.5"/>
                 </g>
                 <text id="IGA_Success_At_least_a_2-grade_improvement_and_Clear_0_or_Almost_Clear_1_" data-name="IGA Success At least a 2-grade improvement and “Clear” (0) or “Almost Clear” (1)" transform="translate(351.625 5278.919)" fill="#1a1818" font-size="16" class="sofiapro-bold" font-weight="700">
                     <tspan fill="#000">
@@ -721,44 +722,44 @@
                         <tspan x="33.999" y="54">Change from Baseline</tspan>
                     </tspan>
                 </text>
-                <text id="Study_1" data-name="Study 1" transform="translate(724.983 5222.337)" font-size="16" class="sofiapro-bold" font-weight="700">
+                <text id="Study_1" data-name="Study 1" transform="translate(814.983 5222.337)" font-size="16" class="sofiapro-bold" font-weight="700">
                     <tspan x="-20.2" y="0">Study 1</tspan>
                 </text>
-                <text id="Study_2" data-name="Study 2" transform="translate(991.577 5222.337)" font-size="16" class="sofiapro-bold" font-weight="700">
+                <text id="Study_2" data-name="Study 2" transform="translate(1190.577 5222.337)" font-size="16" class="sofiapro-bold" font-weight="700">
                     <tspan x="-20.992" y="0">Study 2</tspan>
                 </text>
-                <text id="AKLIEF_Cream_N_612_" data-name="AKLIEF Cream (N= 612)" transform="translate(612 5231.47)" fill="#1a1818" font-size="16" font-family="SofiaProCondensed-Light, Sofia Pro Condensed" font-weight="300">
+                <text id="AKLIEF_Cream_N_612_" data-name="AKLIEF Cream (N= 612)" transform="translate(679 5231.47)" fill="#1a1818" font-size="16" font-family="SofiaProCondensed-Light, Sofia Pro Condensed" font-weight="300">
                     <tspan x="8.35" y="16">AKLIEF Cream </tspan>
                     <tspan x="24.414" y="35">(N= 612)</tspan>
                 </text>
-                <text id="Vehicle_Cream_N_596_" data-name="Vehicle Cream (N= 596)" transform="translate(746 5231.47)" fill="#1a1818" font-size="16" font-family="SofiaProCondensed-Light, Sofia Pro Condensed" font-weight="300">
+                <text id="Vehicle_Cream_N_596_" data-name="Vehicle Cream (N= 596)" transform="translate(851 5231.47)" fill="#1a1818" font-size="16" font-family="SofiaProCondensed-Light, Sofia Pro Condensed" font-weight="300">
                     <tspan x="6.886" y="16">Vehicle Cream</tspan>
                     <tspan x="22.838" y="35">(N= 596)</tspan>
                 </text>
-                <text id="AKLIEF_Cream_N_602_" data-name="AKLIEF Cream (N= 602)" transform="translate(878.245 5231.47)" fill="#1a1818" font-size="16" font-family="SofiaProCondensed-Light, Sofia Pro Condensed" font-weight="300">
+                <text id="AKLIEF_Cream_N_602_" data-name="AKLIEF Cream (N= 602)" transform="translate(1035.245 5231.47)" fill="#1a1818" font-size="16" font-family="SofiaProCondensed-Light, Sofia Pro Condensed" font-weight="300">
                     <tspan x="8.35" y="16">AKLIEF Cream </tspan>
                     <tspan x="23.046" y="35">(N= 602)</tspan>
                 </text>
-                <text id="Vehicle_Cream_N_610_" data-name="Vehicle Cream (N=610)" transform="translate(1010 5231.47)" fill="#1a1818" font-size="16" font-family="SofiaProCondensed-Light, Sofia Pro Condensed" font-weight="300">
+                <text id="Vehicle_Cream_N_610_" data-name="Vehicle Cream (N=610)" transform="translate(1213 5231.47)" fill="#1a1818" font-size="16" font-family="SofiaProCondensed-Light, Sofia Pro Condensed" font-weight="300">
                     <tspan x="6.886" y="16">Vehicle Cream</tspan>
                     <tspan x="25.606" y="35">(N=610)</tspan>
                 </text>
-              <text id="_29.4_-19.0_-54.4_-25.0_-49.7_" data-name="29.4%-19.0 (-54.4%)-25.0 (-49.7%)" transform="translate(612 5300)" fill="#1a1818" font-size="16" font-family="SofiaProCondensed-Light, Sofia Pro Condensed" font-weight="300">
+              <text id="_29.4_-19.0_-54.4_-25.0_-49.7_" data-name="29.4%-19.0 (-54.4%)-25.0 (-49.7%)" transform="translate(679 5300)" fill="#1a1818" font-size="16" font-family="SofiaProCondensed-Light, Sofia Pro Condensed" font-weight="300">
                 <tspan x="31.422" y="16">29.4%</tspan>
                 <tspan x="10.558" y="75">-19.0 (-54.4%)</tspan>
                 <tspan x="10.054" y="134">-25.0 (-49.7%)</tspan>
             </text>
-            <text id="_19.5_-15.4_-44.8_-17.9_-35.7_" data-name="19.5% -15.4 (-44.8%) -17.9 (-35.7%)" transform="translate(746 5300)" fill="#1a1818" font-size="16" font-family="SofiaProCondensed-Light, Sofia Pro Condensed" font-weight="300">
+            <text id="_19.5_-15.4_-44.8_-17.9_-35.7_" data-name="19.5% -15.4 (-44.8%) -17.9 (-35.7%)" transform="translate(851 5300)" fill="#1a1818" font-size="16" font-family="SofiaProCondensed-Light, Sofia Pro Condensed" font-weight="300">
                 <tspan x="32.398" y="16">19.5%</tspan>
                 <tspan x="10.278" y="75">-15.4 (-44.8%)</tspan>
                 <tspan x="11.958" y="134">-17.9 (-35.7%)</tspan>
             </text>
-            <text id="_42.3_-24.2_-66.2_-30.1_-57.7_" data-name=" 42.3% -24.2 (-66.2%) -30.1 (-57.7%)" transform="translate(878.245 5300)" fill="#1a1818" font-size="16" font-family="SofiaProCondensed-Light, Sofia Pro Condensed" font-weight="300">
+            <text id="_42.3_-24.2_-66.2_-30.1_-57.7_" data-name=" 42.3% -24.2 (-66.2%) -30.1 (-57.7%)" transform="translate(1035.245 5300)" fill="#1a1818" font-size="16" font-family="SofiaProCondensed-Light, Sofia Pro Condensed" font-weight="300">
                 <tspan x="30.102" y="16" xml:space="preserve"> 42.3%</tspan>
                 <tspan x="10.038" y="75">-24.2 (-66.2%)</tspan>
                 <tspan x="12.19" y="134">-30.1 (-57.7%)</tspan>
             </text>
-            <text id="_25.7_-18.7_-51.2_-21.6_-43.9_" data-name=" 25.7% -18.7 (-51.2%) -21.6 (-43.9%)" transform="translate(1010 5300)" fill="#1a1818" font-size="16" font-family="SofiaProCondensed-Light, Sofia Pro Condensed" font-weight="300">
+            <text id="_25.7_-18.7_-51.2_-21.6_-43.9_" data-name=" 25.7% -18.7 (-51.2%) -21.6 (-43.9%)" transform="translate(1216 5300)" fill="#1a1818" font-size="16" font-family="SofiaProCondensed-Light, Sofia Pro Condensed" font-weight="300">
                 <tspan x="30.214" y="16" xml:space="preserve"> 25.7%</tspan>
                 <tspan x="12.534" y="75">-18.7 (-51.2%)</tspan>
                 <tspan x="10.918" y="134">-21.6 (-43.9%)</tspan>
@@ -769,17 +770,17 @@
         <text id="_Means_presented_in_table_are_Least_Square_LS_means-2" data-name="*Means presented in table are Least Square (LS) means" transform="translate(336 5816.997)" fill="#1a1818" font-size="16" font-family="SofiaProCondensed-Light, Sofia Pro Condensed" font-weight="300">
             <tspan x="0" y="16">*Means presented in table are Least Square (LS) means</tspan>
         </text>
-            <g id="Group_18" data-name="Group 18" transform="translate(0 342)">
+        <g id="Group_18" data-name="Group 18" transform="translate(0 342)">
               <g id="Group_9-2" data-name="Group 9" transform="translate(337.625 5202)">
-                <rect id="Rectangle_3-2" data-name="Rectangle 3" width="782.375" height="266.233" fill="none" stroke="#1a1818" stroke-miterlimit="10" stroke-width="0.5"/>
-                <line id="Line_73-2" data-name="Line 73" x2="782.375" transform="translate(0 203.353)" fill="none" stroke="#1a1818" stroke-miterlimit="10" stroke-width="0.5"/>
-                <line id="Line_74-2" data-name="Line 74" x2="782.375" transform="translate(0 139.473)" fill="none" stroke="#1a1818" stroke-miterlimit="10" stroke-width="0.5"/>
-                <line id="Line_75-2" data-name="Line 75" x2="782.375" transform="translate(0 73.635)" fill="none" stroke="#1a1818" stroke-miterlimit="10" stroke-width="0.5"/>
-                <line id="Line_76-2" data-name="Line 76" x2="530.5" transform="translate(251.875 27.151)" fill="none" stroke="#1a1818" stroke-miterlimit="10" stroke-width="0.5"/>
-                <line id="Line_77-2" data-name="Line 77" y2="239.257" transform="translate(654.813 26.976)" fill="none" stroke="#1a1818" stroke-miterlimit="10" stroke-width="0.5"/>
-                <line id="Line_78-2" data-name="Line 78" y2="266.233" transform="translate(520.5)" fill="none" stroke="#1a1818" stroke-miterlimit="10" stroke-width="0.5"/>
-                <line id="Line_79-2" data-name="Line 79" y2="239.257" transform="translate(386.188 26.976)" fill="none" stroke="#1a1818" stroke-miterlimit="10" stroke-width="0.5"/>
-                <line id="Line_80-2" data-name="Line 80" y2="266.233" transform="translate(251.875)" fill="none" stroke="#1a1818" stroke-miterlimit="10" stroke-width="0.5"/>
+                <rect id="Rectangle_3-2" data-name="Rectangle 3" width="1025" height="266.233" fill="none" stroke="#1a1818" stroke-miterlimit="10" stroke-width="0.5"/>
+                <line id="Line_73-2" data-name="Line 73" x2="1025" transform="translate(0 203.353)" fill="none" stroke="#1a1818" stroke-miterlimit="10" stroke-width="0.5"/>
+                <line id="Line_74-2" data-name="Line 74" x2="1025" transform="translate(0 139.473)" fill="none" stroke="#1a1818" stroke-miterlimit="10" stroke-width="0.5"/>
+                <line id="Line_75-2" data-name="Line 75" x2="1025" transform="translate(0 73.635)" fill="none" stroke="#1a1818" stroke-miterlimit="10" stroke-width="0.5"/>
+                <line id="Line_76-2" data-name="Line 76" x2="698" transform="translate(325.875 27.151)" fill="none" stroke="#1a1818" stroke-miterlimit="10" stroke-width="0.5"/>
+                <line id="Line_77-2" data-name="Line 77" y2="239.257" transform="translate(860.813 26.976)" fill="none" stroke="#1a1818" stroke-miterlimit="10" stroke-width="0.5"/>
+                <line id="Line_78-2" data-name="Line 78" y2="266.233" transform="translate(667.5)" fill="none" stroke="#1a1818" stroke-miterlimit="10" stroke-width="0.5"/>
+                <line id="Line_79-2" data-name="Line 79" y2="239.257" transform="translate(482.188 26.976)" fill="none" stroke="#1a1818" stroke-miterlimit="10" stroke-width="0.5"/>
+                <line id="Line_80-2" data-name="Line 80" y2="266.233" transform="translate(325.875)" fill="none" stroke="#1a1818" stroke-miterlimit="10" stroke-width="0.5"/>
             </g>
             <text id="PGA_Success_At_least_a_2-grade_improvement_and_Clear_0_or_Almost_Clear_1_" data-name="PGA Success At least a 2-grade improvement and “Clear” (0) or “Almost Clear” (1)" transform="translate(351.625 5278.919)" fill="#1a1818" font-size="16" class="sofiapro-bold" font-weight="700">
                 <tspan fill="#000">
@@ -804,44 +805,44 @@
                     <tspan x="33.999" y="54">Change from Baseline</tspan>
                 </tspan>
             </text>
-            <text id="Study_1-2" data-name="Study 1" transform="translate(723.983 5222.337)" font-size="16" class="sofiapro-bold" font-weight="700">
+            <text id="Study_1-2" data-name="Study 1" transform="translate(814.983 5222.337)" font-size="16" class="sofiapro-bold" font-weight="700">
                 <tspan x="-20.2" y="0">Study 1</tspan>
             </text>
-            <text id="Study_2-2" data-name="Study 2" transform="translate(992.577 5222.337)" font-size="16" class="sofiapro-bold" font-weight="700">
+            <text id="Study_2-2" data-name="Study 2" transform="translate(1190.577 5222.337)" font-size="16" class="sofiapro-bold" font-weight="700">
                 <tspan x="-20.992" y="0">Study 2</tspan>
             </text>
-            <text id="AKLIEF_Cream_N_600_" data-name="AKLIEF Cream (N= 600)" transform="translate(612 5231.47)" fill="#1a1818" font-size="16" font-family="SofiaProCondensed-Light, Sofia Pro Condensed" font-weight="300">
+            <text id="AKLIEF_Cream_N_600_" data-name="AKLIEF Cream (N= 600)" transform="translate(679 5231.47)" fill="#1a1818" font-size="16" font-family="SofiaProCondensed-Light, Sofia Pro Condensed" font-weight="300">
                 <tspan x="8.35" y="16">AKLIEF Cream </tspan>
                 <tspan x="22.694" y="35">(N= 600)</tspan>
             </text>
-            <text id="Vehicle_Cream_N_585_" data-name="Vehicle Cream (N= 585)" transform="translate(746 5231.47)" fill="#1a1818" font-size="16" font-family="SofiaProCondensed-Light, Sofia Pro Condensed" font-weight="300">
+            <text id="Vehicle_Cream_N_585_" data-name="Vehicle Cream (N= 585)" transform="translate(851 5231.47)" fill="#1a1818" font-size="16" font-family="SofiaProCondensed-Light, Sofia Pro Condensed" font-weight="300">
                 <tspan x="6.886" y="16">Vehicle Cream</tspan>
                 <tspan x="22.782" y="35">(N= 585)</tspan>
             </text>
-            <text id="AKLIEF_Cream_N_598_" data-name="AKLIEF Cream (N= 598)" transform="translate(878.245 5231.47)" fill="#1a1818" font-size="16" font-family="SofiaProCondensed-Light, Sofia Pro Condensed" font-weight="300">
+            <text id="AKLIEF_Cream_N_598_" data-name="AKLIEF Cream (N= 598)" transform="translate(1035.245 5231.47)" fill="#1a1818" font-size="16" font-family="SofiaProCondensed-Light, Sofia Pro Condensed" font-weight="300">
                 <tspan x="8.35" y="16">AKLIEF Cream </tspan>
                 <tspan x="22.87" y="35">(N= 598)</tspan>
             </text>
-            <text id="Vehicle_Cream_N_609_" data-name="Vehicle Cream(N=609)" transform="translate(1010 5231.47)" fill="#1a1818" font-size="16" font-family="SofiaProCondensed-Light, Sofia Pro Condensed" font-weight="300">
+            <text id="Vehicle_Cream_N_609_" data-name="Vehicle Cream(N=609)" transform="translate(1213 5231.47)" fill="#1a1818" font-size="16" font-family="SofiaProCondensed-Light, Sofia Pro Condensed" font-weight="300">
                 <tspan x="6.886" y="16">Vehicle Cream</tspan>
                 <tspan x="24.238" y="35">(N=609)</tspan>
             </text>
-            <text id="_35.7_-21.4_-57.4_-21.9_-49.1_" data-name="35.7% -21.4 (-57.4%) -21.9 (-49.1%)" transform="translate(612 5300)" fill="#1a1818" font-size="16" font-family="SofiaProCondensed-Light, Sofia Pro Condensed" font-weight="300">
+            <text id="_35.7_-21.4_-57.4_-21.9_-49.1_" data-name="35.7% -21.4 (-57.4%) -21.9 (-49.1%)" transform="translate(679 5300)" fill="#1a1818" font-size="16" font-family="SofiaProCondensed-Light, Sofia Pro Condensed" font-weight="300">
                 <tspan x="31.574" y="16">35.7%</tspan>
                 <tspan x="11.742" y="75">-21.4 (-57.4%)</tspan>
                 <tspan x="12.414" y="134">-21.9 (-49.1%)</tspan>
             </text>
-            <text id="_25.0_-18.8_-50.0_-17.8_-40.3_" data-name="25.0% -18.8 (-50.0%) -17.8 (-40.3%)" transform="translate(746 5300)" fill="#1a1818" font-size="16" font-family="SofiaProCondensed-Light, Sofia Pro Condensed" font-weight="300">
+            <text id="_25.0_-18.8_-50.0_-17.8_-40.3_" data-name="25.0% -18.8 (-50.0%) -17.8 (-40.3%)" transform="translate(851 5300)" fill="#1a1818" font-size="16" font-family="SofiaProCondensed-Light, Sofia Pro Condensed" font-weight="300">
                 <tspan x="31.31" y="16">25.0%</tspan>
                 <tspan x="10.398" y="75">-18.8 (-50.0%)</tspan>
                 <tspan x="11.574" y="134">-17.8 (-40.3%)</tspan>
             </text>
-            <text id="_42.6_-25.5_-65.4_-25.9_-55.2_" data-name="42.6% -25.5 (-65.4%) -25.9 (-55.2%)" transform="translate(878.245 5300)" fill="#1a1818" font-size="16" font-family="SofiaProCondensed-Light, Sofia Pro Condensed" font-weight="300">
+            <text id="_42.6_-25.5_-65.4_-25.9_-55.2_" data-name="42.6% -25.5 (-65.4%) -25.9 (-55.2%)" transform="translate(1035.245 5300)" fill="#1a1818" font-size="16" font-family="SofiaProCondensed-Light, Sofia Pro Condensed" font-weight="300">
                 <tspan x="31.446" y="16">42.6%</tspan>
                 <tspan x="9.294" y="75">-25.5 (-65.4%)</tspan>
                 <tspan x="9.646" y="134">-25.9 (-55.2%)</tspan>
             </text>
-            <text id="_29.9_-19.8_-51.1_-20.8_-45.1_" data-name="29.9%-19.8 (-51.1%)-20.8 (-45.1%)" transform="translate(1010 5300)" fill="#1a1818" font-size="16" font-family="SofiaProCondensed-Light, Sofia Pro Condensed" font-weight="300">
+            <text id="_29.9_-19.8_-51.1_-20.8_-45.1_" data-name="29.9%-19.8 (-51.1%)-20.8 (-45.1%)" transform="translate(1216 5300)" fill="#1a1818" font-size="16" font-family="SofiaProCondensed-Light, Sofia Pro Condensed" font-weight="300">
                 <tspan x="31.366" y="16">29.9%</tspan>
                 <tspan x="13.51" y="75">-19.8 (-51.1%)</tspan>
                 <tspan x="10.966" y="134">-20.8 (-45.1%)</tspan>
@@ -851,32 +852,38 @@
             <tspan x="0" y="16">Table 4. Acne of the Trunk Efficacy Results at Week 12 (Intent-to-Treat on the Trunk; Multiple Imputation)</tspan>
         </text>
     </g>
-    <line id="Line_89" data-name="Line 89" x2="768.5" transform="translate(336 592.026)" fill="none" stroke="#1a1818" stroke-width="1"/>
-    <line id="Line_90" data-name="Line 90" x2="768.5" transform="translate(336 958.026)" fill="none" stroke="#1a1818" stroke-width="1"/>
+    <line id="Line_89" data-name="Line 89" x2="1000" transform="translate(336 592.026)" fill="none" stroke="#1a1818" stroke-width="1"/>
+    <line id="Line_90" data-name="Line 90" x2="1000" transform="translate(336 958.026)" fill="none" stroke="#1a1818" stroke-width="1"/>
     <g id="Group_4" data-name="Group 4" transform="translate(338 2230.643)">
-        <path id="Path_6" data-name="Path 6" d="M0-30.049H766v350.2H0Z" transform="translate(0 0)" fill="none" stroke="#1a1818" stroke-width="0.5"/>
-        <line id="Line_6" data-name="Line 6" x2="766" transform="translate(0 271.823)" fill="none" stroke="#1a1818" stroke-width="0.5"/>
-        <line id="Line_7" data-name="Line 7" x2="766" transform="translate(0 247.491)" fill="none" stroke="#1a1818" stroke-width="0.5"/>
-        <path id="Path_8" data-name="Path 8" d="M3.281,8.012H772.563" transform="translate(-3.281 214.752)" fill="none" stroke="#1a1818" stroke-width="0.5"/>
-        <line id="Line_9" data-name="Line 9" x2="766" transform="translate(0 195.012)" fill="none" stroke="#1a1818" stroke-width="0.5"/>
-        <line id="Line_10" data-name="Line 10" x2="766" transform="translate(0 67.273)" fill="none" stroke="#1a1818" stroke-width="0.5"/>
-        <path id="Path_10" data-name="Path 10" d="M0,0H766" transform="translate(0 163.349)" fill="none" stroke="#1a1818" stroke-width="0.5"/>
-        <line id="Line_12" data-name="Line 12" x2="766" transform="translate(0 118.61)" fill="none" stroke="#1a1818" stroke-width="0.5"/>
-        <line id="Line_13" data-name="Line 13" x2="766" transform="translate(0 92.87)" fill="none" stroke="#1a1818" stroke-width="0.5"/>
-        <line id="Line_14" data-name="Line 14" x2="766" transform="translate(0 41.092)" fill="none" stroke="#1a1818" stroke-width="0.5"/>
-        <path id="Path_7" data-name="Path 7" d="M2.816-17.01h766" transform="translate(0 32.331)" fill="none" stroke="#1a1818" stroke-width="0.5"/>
-        <line id="Line_16" data-name="Line 16" y2="125" transform="translate(659.225 194.857)" fill="none" stroke="#1a1818" stroke-width="0.5"/>
-        <line id="Line_17" data-name="Line 17" y2="148.027" transform="translate(656.225 15.322)" fill="none" stroke="#1a1818" stroke-width="0.5"/>
-        <line id="Line_18" data-name="Line 18" y2="125" transform="translate(541.143 194.857)" fill="none" stroke="#1a1818" stroke-width="0.5"/>
-        <line id="Line_19" data-name="Line 19" y2="148.027" transform="translate(541.143 15.322)" fill="none" stroke="#1a1818" stroke-width="0.5"/>
-        <line id="Line_20" data-name="Line 20" y2="350" transform="translate(425.714 -30.143)" fill="none" stroke="#1a1818" stroke-width="0.5"/>
-        <path id="Path_9" data-name="Path 9" d="M-17.208-38.222v125" transform="translate(327.286 233.079)" fill="none" stroke="#1a1818" stroke-width="0.5"/>
-        <line id="Line_22" data-name="Line 22" y2="148.027" transform="translate(310.286 15.322)" fill="none" stroke="#1a1818" stroke-width="0.5"/>
-        <line id="Line_23" data-name="Line 23" x1="0.357" y2="125" transform="translate(197.5 194.857)" fill="none" stroke="#1a1818" stroke-width="0.5"/>
-        <line id="Line_24" data-name="Line 24" y2="148.027" transform="translate(197.857 15.322)" fill="none" stroke="#1a1818" stroke-width="0.5"/>
-        <line id="Line_25" data-name="Line 25" x1="0.275" y2="350" transform="translate(90.5 -30.143)" fill="none" stroke="#1a1818" stroke-width="0.5"/>
+        <path id="Path_6" data-name="Path 6" d="M0-30.049H1000v350.2H0Z" transform="translate(0 0)" fill="none" stroke="#1a1818" stroke-width="0.5"/>
+        <line id="Line_6" data-name="Line 6" x2="1000" transform="translate(0 271.823)" fill="none" stroke="#1a1818" stroke-width="0.5"/>
+        <line id="Line_7" data-name="Line 7" x2="1000" transform="translate(0 247.491)" fill="none" stroke="#1a1818" stroke-width="0.5"/>
+        <path id="Path_8" data-name="Path 8" d="M3.281,8.012H1000.563" transform="translate(-3.281 214.752)" fill="none" stroke="#1a1818" stroke-width="0.5"/>
+        <line id="Line_9" data-name="Line 9" x2="1000" transform="translate(0 195.012)" fill="none" stroke="#1a1818" stroke-width="0.5"/>
+        <line id="Line_10" data-name="Line 10" x2="1000" transform="translate(0 67.273)" fill="none" stroke="#1a1818" stroke-width="0.5"/>
+        <path id="Path_10" data-name="Path 10" d="M0,0H1000" transform="translate(0 163.349)" fill="none" stroke="#1a1818" stroke-width="0.5"/>
+        <line id="Line_12" data-name="Line 12" x2="1000" transform="translate(0 118.61)" fill="none" stroke="#1a1818" stroke-width="0.5"/>
+        <line id="Line_13" data-name="Line 13" x2="1000" transform="translate(0 92.87)" fill="none" stroke="#1a1818" stroke-width="0.5"/>
+        <line id="Line_14" data-name="Line 14" x2="1000" transform="translate(0 41.092)" fill="none" stroke="#1a1818" stroke-width="0.5"/>
+        <path id="Path_7" data-name="Path 7" d="M2.816-17.01h1000" transform="translate(0 32.331)" fill="none" stroke="#1a1818" stroke-width="0.5"/>
+        <line id="Line_16" data-name="Line 16" y2="125" transform="translate(880.225 194.857)" fill="none" stroke="#1a1818" stroke-width="0.5"/>
+        <line id="Line_17" data-name="Line 17" y2="148.027" transform="translate(880.225 15.322)" fill="none" stroke="#1a1818" stroke-width="0.5"/>
+        <line id="Line_18" data-name="Line 18" y2="125" transform="translate(710.143 194.857)" fill="none" stroke="#1a1818" stroke-width="0.5"/>
+        <line id="Line_19" data-name="Line 19" y2="148.027" transform="translate(710.143 15.322)" fill="none" stroke="#1a1818" stroke-width="0.5"/>
+        <line id="Line_20" data-name="Line 20" y2="350" transform="translate(560.714 -30.143)" fill="none" stroke="#1a1818" stroke-width="0.5"/>
+        <path id="Path_9" data-name="Path 9" d="M-3.208-38.222v125" transform="translate(405.286 233.079)" fill="none" stroke="#1a1818" stroke-width="0.5"/>
+        <line id="Line_22" data-name="Line 22" y2="148.027" transform="translate(405.286 15.322)" fill="none" stroke="#1a1818" stroke-width="0.5"/>
+        <line id="Line_23" data-name="Line 23" x1="0.357" y2="125" transform="translate(255.5 194.857)" fill="none" stroke="#1a1818" stroke-width="0.5"/>
+        <line id="Line_24" data-name="Line 24" y2="148.027" transform="translate(255.857 15.322)" fill="none" stroke="#1a1818" stroke-width="0.5"/>
+        <line id="Line_25" data-name="Line 25" x1="0.275" y2="350" transform="translate(120.5 -30.143)" fill="none" stroke="#1a1818" stroke-width="0.5"/>
     </g>
 </g>
+    <text id="Marketed_by:_GALDERMA_LABORATORIES_L.P._Fort_Worth_Texas_76177_USA_All_trademarks_are_the_property_of_their_respective_owners._Made_in_Canada_This_Patient_Information_has_been_approved_by_the_U.S._Food_and_Drug_Administration._Issued:_10_2019_P54485-" data-name="Marketed by: GALDERMA LABORATORIES, L.P., Fort Worth, Texas 76177 USA All trademarks are the property of their respective owners. Made in Canada This Patient Information has been approved by the U.S. Food and Drug Administration. Issued: 10/2019P54485-" font-size="16" font-family="SofiaProCondensed-Light, Sofia Pro Condensed" font-weight="300" transform="translate(0 6221.643)">
+        <tspan x="0" y="12">Marketed by:</tspan>
+        <tspan x="0" y="31">GALDERMA LABORATORIES, L.P., Fort Worth, Texas 76177 USA</tspan>
+        <tspan x="0" y="50">All trademarks are the property of their respective owners.</tspan>
+        <tspan x="0" y="69">Made in Canada</tspan>
+    </text>
 <text id="Important:_AKLIEF_Cream_is_for_use_on_the_skin_only._Do_not_use_AKLIEF_Cream_in_your_mouth_eyes_or_vagina._What_is_AKLIEF_Cream_AKLIEF_Cream_is_a_prescription_medicine_used_on_the_skin_topical_to_treat_acne_vulgaris_in_people_9_years_of_age_and_olde" data-name="Important: AKLIEF Cream is for use on the skin only.  Do not use AKLIEF Cream in your mouth, eyes, or vagina.What is AKLIEF Cream?AKLIEF Cream is a prescription medicine used on the skin (topical) to treat acne vulgaris in people 9 years of age and olde" transform="translate(0.25 6393)" font-size="16" class="sofiapro-bold" font-weight="700">
     <tspan x="0" y="16">Important:</tspan>
     <tspan y="16" xml:space="preserve" font-family="SofiaProCondensed-Light, Sofia Pro Condensed" font-weight="300"> AKLIEF Cream is for use on the skin only.  Do not use AKLIEF Cream in your mouth, eyes, or vagina.</tspan>
@@ -930,7 +937,7 @@
     <tspan x="0" y="605">What should I avoid while using AKLIEF Cream?</tspan>
     <tspan font-family="SofiaProCondensed-Light, Sofia Pro Condensed" font-weight="300">
         <tspan x="0" y="624" xml:space="preserve">•   Minimize exposure to sunlight. You should avoid using sunlamps, tanning beds, and ultraviolet light during treatment with AKLIEF Cream. </tspan>
-        <tspan x="0" y="643" xml:space="preserve">     If you have to be in sunlight or are sensitive to sunlight, use a sunscreen with a SPF (sun protection factor) of 15 or more, and wear </tspan>
+        <tspan x="0" y="643" xml:space="preserve">     If you have to be in sunlight or are sensitive to sunlight, use a sunscreen with an SPF (sun protection factor) of 15 or more, and wear </tspan>
         <tspan x="0" y="662" xml:space="preserve">     protective clothing and a wide-brimmed hat to cover the treated areas.</tspan>
         <tspan x="0" y="681" xml:space="preserve">•   Avoid using AKLIEF Cream on skin areas with cuts, abrasions, eczema, or on sunburned skin.</tspan>
         <tspan x="0" y="700" xml:space="preserve">•   Avoid using skin products that may dry or irritate your skin, such as: </tspan>
@@ -956,7 +963,7 @@
         <tspan x="0" y="1004" xml:space="preserve">     The most common side effects of AKLIEF Cream include: itching and sunburn. </tspan>
         <tspan y="1004" class="sofiapro-bold" font-weight="700">See “What should I avoid while using AKLIEF Cream”.</tspan>
         <tspan x="0" y="1023" xml:space="preserve">     These are not all the possible side effects of AKLIEF Cream. For more information, ask your healthcare provider or pharmacist.</tspan>
-        <tspan x="0" y="1042" xml:space="preserve">     Call your doctor for medical advice about side effects. You may report side effects to FDA at 1-800-FDA-1088.</tspan>
+        <tspan x="0" y="1042" xml:space="preserve">     Call your doctor for medical advice about side effects. You may report side effects to the FDA at 1-800-FDA-1088.</tspan>
         <tspan x="0" y="1061" xml:space="preserve">     You may also report side effects to GALDERMA LABORATORIES, L.P. at 1-866-735-4137.</tspan><tspan x="0" y="1080"></tspan>
     </tspan>
     <tspan x="0" y="1099">How should I store AKLIEF Cream?</tspan>
@@ -983,8 +990,8 @@
     <tspan y="1346" xml:space="preserve" font-family="SofiaProCondensed-Light, Sofia Pro Condensed" font-weight="300"> allantoin, copolymer of acrylamide and sodium acryloyldimethyltaurate, dispersion 40% in isohexadecane, </tspan>
     <tspan x="0" y="1365" font-family="SofiaProCondensed-Light, Sofia Pro Condensed" font-weight="300">cyclomethicone, 5% ethanol, medium-chain triglycerides, phenoxyethanol, propylene glycol, purified water.</tspan>
 </text>
-<line id="Line_91" data-name="Line 91" x2="768.5" transform="translate(0 6327.026)" fill="none" stroke="#1a1818" stroke-width="1"/>
-<text id="Patient_Information_AKLIEF_trifarotene_cream" data-name="Patient Information AKLIEF® (trifarotene) cream" transform="translate(0.25 6344)" font-size="16" class="sofiapro-bold" font-weight="700">
+<line id="Line_91" data-name="Line 91" x2="1025" transform="translate(0 6327.026)" fill="none" stroke="#1a1818" stroke-width="1"/>
+<text id="Patient_Information_AKLIEF_trifarotene_cream" data-name="Patient Information AKLIEF® (trifarotene) cream" transform="translate(105.25 6344)" font-size="16" class="sofiapro-bold" font-weight="700">
     <tspan x="328.416" y="16">Patient Information </tspan>
     <tspan x="303.088" y="35">AKLIEF® (trifarotene) cream</tspan>
 </text>
@@ -1449,15 +1456,17 @@ Cream
 
 
 <svg xmlns="http://www.w3.org/2000/svg" width="768" height="180" viewBox="0 0 768 180">
-  <text id="Marketed_by:_GALDERMA_LABORATORIES_L.P._Fort_Worth_Texas_76177_USA_All_trademarks_are_the_property_of_their_respective_owners._Made_in_Canada_This_Patient_Information_has_been_approved_by_the_U.S._Food_and_Drug_Administration._Issued:_10_2019_P54485-" data-name="Marketed by:
-GALDERMA LABORATORIES, L.P., Fort Worth, Texas 76177 USA
-All trademarks are the property of their respective owners.
-Made in Canada
-
-This Patient Information has been approved by the U.S. Food and Drug Administration. 
-Issued: 10/2019
-
-P54485-" font-size="16" font-family="SofiaProCondensed-Light, Sofia Pro Condensed" font-weight="300"><tspan x="0" y="12">Marketed by:</tspan><tspan x="0" y="31">GALDERMA LABORATORIES, L.P., Fort Worth, Texas 76177 USA</tspan><tspan x="0" y="50">All trademarks are the property of their respective owners.</tspan><tspan x="0" y="69">Made in Canada</tspan><tspan x="0" y="88"></tspan><tspan x="0" y="107">This Patient Information has been approved by the U.S. Food and Drug Administration. </tspan><tspan x="0" y="126">Issued: 10/2019</tspan><tspan x="0" y="145"></tspan><tspan x="0" y="164">P54485-1</tspan></text>
+    <text id="Marketed_by:_GALDERMA_LABORATORIES_L.P._Fort_Worth_Texas_76177_USA_All_trademarks_are_the_property_of_their_respective_owners._Made_in_Canada_This_Patient_Information_has_been_approved_by_the_U.S._Food_and_Drug_Administration._Issued:_10_2019_P54485-" data-name="Marketed by: GALDERMA LABORATORIES, L.P., Fort Worth, Texas 76177 USA All trademarks are the property of their respective owners. Made in Canada This Patient Information has been approved by the U.S. Food and Drug Administration. Issued: 10/2019P54485-" font-size="16" font-family="SofiaProCondensed-Light, Sofia Pro Condensed" font-weight="300">
+        <tspan x="0" y="12">Marketed by:</tspan>
+        <tspan x="0" y="31">GALDERMA LABORATORIES, L.P., Fort Worth, Texas 76177 USA</tspan>
+        <tspan x="0" y="50">All trademarks are the property of their respective owners.</tspan>
+        <tspan x="0" y="69">Made in Canada</tspan>
+        <tspan x="0" y="88"></tspan>
+        <tspan x="0" y="107">This Patient Information has been approved by the U.S. Food and Drug Administration. </tspan>
+        <tspan x="0" y="126">Issued: 10/2019</tspan>
+        <tspan x="0" y="145"></tspan>
+        <tspan x="0" y="164">P54485-1</tspan>
+    </text>
 </svg>
 </div>
 </div>
