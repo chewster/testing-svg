@@ -432,10 +432,10 @@
         <text id="_17_PATIENT_COUNSELING_INFORMATION" data-name="17  PATIENT COUNSELING INFORMATION" transform="translate(336 6034)" font-size="16" class="sofiapro-bold" font-weight="700">
             <tspan x="0" y="16" xml:space="preserve">17  PATIENT COUNSELING INFORMATION</tspan>
         </text>
-        <text id="FULL_PRESCRIBING_INFORMATION:_CONTENTS_" data-name="FULL PRESCRIBING INFORMATION: CONTENTS*" transform="translate(578 615)" font-size="16" class="sofiapro-bold" font-weight="700">
+        <text id="FULL_PRESCRIBING_INFORMATION:_CONTENTS_" data-name="FULL PRESCRIBING INFORMATION: CONTENTS*" transform="translate(601 615)" font-size="16" class="sofiapro-bold" font-weight="700">
             <tspan x="84.016" y="16">FULL PRESCRIBING INFORMATION: CONTENTS*</tspan>
         </text>
-        <text id="FULL_PRESCRIBING_INFORMATION" data-name="FULL PRESCRIBING INFORMATION" transform="translate(504 981)" font-size="16" class="sofiapro-bold" font-weight="700">
+        <text id="FULL_PRESCRIBING_INFORMATION" data-name="FULL PRESCRIBING INFORMATION" transform="translate(601 981)" font-size="16" class="sofiapro-bold" font-weight="700">
             <tspan x="120.496" y="16">FULL PRESCRIBING INFORMATION</tspan>
         </text>
         <g id="Group_15" data-name="Group 15">
@@ -472,7 +472,9 @@
                 </tspan>
             </text>
             <text id="Table_1._Adverse_Reactions_Occurring_in_1.0_of_Subjects_with_Acne_Vulgaris_of_the_Face_and_Trunk_in_the_Two_12-week_Phase_3_Clinical_Trials" data-name="Table 1. Adverse Reactions Occurring in ≥ 1.0% of Subjects with Acne Vulgaris of the Face and Trunk in the Two 12-week Phase 3 Clinical Trials" transform="translate(336 1706)" fill="#1a1818" font-size="16" class="sofiapro-bold" font-weight="700">
-                <tspan x="0" y="16">Table 1. Adverse Reactions Occurring in ≥ 1.0% of Subjects with Acne Vulgaris of the Face </tspan>
+                <tspan x="0" y="16">Table 1. Adverse Reactions Occurring in</tspan>
+                <tspan font-weight="300"> ≥ </tspan>
+                <tspan>1.0% of Subjects with Acne Vulgaris of the Face </tspan>
                 <tspan x="0" y="35">and Trunk in the Two 12-week Phase 3 Clinical Trials</tspan>
             </text>
         </g>
@@ -697,25 +699,25 @@
                     <line id="Line_77" data-name="Line 77" y2="239.257" transform="translate(860.813 26.976)" fill="none" stroke="#1a1818" stroke-miterlimit="10" stroke-width="0.5"/>
                     <line id="Line_78" data-name="Line 78" y2="266.233" transform="translate(667.5)" fill="none" stroke="#1a1818" stroke-miterlimit="10" stroke-width="0.5"/>
                     <line id="Line_79" data-name="Line 79" y2="239.257" transform="translate(482.188 26.976)" fill="none" stroke="#1a1818" stroke-miterlimit="10" stroke-width="0.5"/>
-                    <line id="Line_80" data-name="Line 80" y2="325.233" transform="translate(325.875)" fill="none" stroke="#1a1818" stroke-miterlimit="10" stroke-width="0.5"/>
+                    <line id="Line_80" data-name="Line 80" y2="266.233" transform="translate(325.875)" fill="none" stroke="#1a1818" stroke-miterlimit="10" stroke-width="0.5"/>
                 </g>
-                <text id="IGA_Success_At_least_a_2-grade_improvement_and_Clear_0_or_Almost_Clear_1_" data-name="IGA Success At least a 2-grade improvement and “Clear” (0) or “Almost Clear” (1)" transform="translate(351.625 5278.919)" fill="#1a1818" font-size="16" class="sofiapro-bold" font-weight="700">
+                <text id="IGA_Success_At_least_a_2-grade_improvement_and_Clear_0_or_Almost_Clear_1_" data-name="IGA Success At least a 2-grade improvement and “Clear” (0) or “Almost Clear” (1)" transform="translate(352.625 5278.919)" fill="#1a1818" font-size="16" class="sofiapro-bold" font-weight="700">
                     <tspan fill="#000">
-                        <tspan x="79.743" y="16">IGA Success</tspan>
+                        <tspan x="102.743" y="16">IGA Success</tspan>
                     </tspan>
                     <tspan font-family="SofiaProCondensed-Light, Sofia Pro Condensed" font-weight="300">
                         <tspan x="14.463" y="35">At least a 2-grade improvement and </tspan>
                         <tspan x="30.367" y="54">“Clear” (0) or “Almost Clear” (1)</tspan>
                     </tspan>
                 </text>
-                <text id="Inflammatory_Lesions_Mean_Absolute_Percent_Change_from_Baseline" data-name="Inflammatory Lesions Mean* Absolute (Percent)  Change from Baseline" transform="translate(351.625 5344.919)" font-size="16" class="sofiapro-bold" font-weight="700">
+                <text id="Inflammatory_Lesions_Mean_Absolute_Percent_Change_from_Baseline" data-name="Inflammatory Lesions Mean* Absolute (Percent)  Change from Baseline" transform="translate(365.625 5344.919)" font-size="16" class="sofiapro-bold" font-weight="700">
                     <tspan x="52.839" y="16">Inflammatory Lesions</tspan>
                     <tspan font-family="SofiaProCondensed-Light, Sofia Pro Condensed" font-weight="300">
                         <tspan x="43.791" y="35">Mean* Absolute (Percent) </tspan>
                         <tspan x="52.999" y="54">Change from Baseline</tspan>
                     </tspan>
                 </text>
-                <text id="Non-inflammatory_Lesions_Mean_Absolute_Percent_Change_from_Baseline" data-name="Non-inflammatory Lesions Mean* Absolute (Percent)  Change from Baseline" transform="translate(370.625 5407.919)" font-size="16" class="sofiapro-bold" font-weight="700">
+                <text id="Non-inflammatory_Lesions_Mean_Absolute_Percent_Change_from_Baseline" data-name="Non-inflammatory Lesions Mean* Absolute (Percent)  Change from Baseline" transform="translate(383.5 5407.919)" font-size="16" class="sofiapro-bold" font-weight="700">
                     <tspan x="20.175" y="16">Non-inflammatory Lesions</tspan>
                     <tspan font-family="SofiaProCondensed-Light, Sofia Pro Condensed" font-weight="300">
                         <tspan x="24.791" y="35">Mean* Absolute (Percent) </tspan>
@@ -782,23 +784,23 @@
                 <line id="Line_79-2" data-name="Line 79" y2="239.257" transform="translate(482.188 26.976)" fill="none" stroke="#1a1818" stroke-miterlimit="10" stroke-width="0.5"/>
                 <line id="Line_80-2" data-name="Line 80" y2="266.233" transform="translate(325.875)" fill="none" stroke="#1a1818" stroke-miterlimit="10" stroke-width="0.5"/>
             </g>
-            <text id="PGA_Success_At_least_a_2-grade_improvement_and_Clear_0_or_Almost_Clear_1_" data-name="PGA Success At least a 2-grade improvement and “Clear” (0) or “Almost Clear” (1)" transform="translate(351.625 5278.919)" fill="#1a1818" font-size="16" class="sofiapro-bold" font-weight="700">
+            <text id="PGA_Success_At_least_a_2-grade_improvement_and_Clear_0_or_Almost_Clear_1_" data-name="PGA Success At least a 2-grade improvement and “Clear” (0) or “Almost Clear” (1)" transform="translate(352.625 5278.919)" fill="#1a1818" font-size="16" class="sofiapro-bold" font-weight="700">
                 <tspan fill="#000">
-                    <tspan x="77.959" y="16">PGA Success</tspan>
+                    <tspan x="102.743" y="16">PGA Success</tspan>
                 </tspan>
                 <tspan font-family="SofiaProCondensed-Light, Sofia Pro Condensed" font-weight="300">
                     <tspan x="14.463" y="35">At least a 2-grade improvement and </tspan>
                     <tspan x="30.367" y="54">“Clear” (0) or “Almost Clear” (1)</tspan>
                 </tspan>
             </text>
-            <text id="Inflammatory_Lesions_Mean_Absolute_Percent_Change_from_Baseline-2" data-name="Inflammatory Lesions Mean* Absolute (Percent)  Change from Baseline" transform="translate(351.625 5344.919)" font-size="16" class="sofiapro-bold" font-weight="700">
+            <text id="Inflammatory_Lesions_Mean_Absolute_Percent_Change_from_Baseline-2" data-name="Inflammatory Lesions Mean* Absolute (Percent)  Change from Baseline" transform="translate(364.625 5344.919)" font-size="16" class="sofiapro-bold" font-weight="700">
                 <tspan x="52.839" y="16">Inflammatory Lesions</tspan>
                 <tspan font-family="SofiaProCondensed-Light, Sofia Pro Condensed" font-weight="300">
                     <tspan x="43.791" y="35">Mean* Absolute (Percent) </tspan>
                     <tspan x="52.999" y="54">Change from Baseline</tspan>
                 </tspan>
             </text>
-            <text id="Non-inflammatory_Lesions_Mean_Absolute_Percent_Change_from_Baseline-2" data-name="Non-inflammatory Lesions Mean* Absolute (Percent)  Change from Baseline" transform="translate(370.625 5407.919)" font-size="16" class="sofiapro-bold" font-weight="700">
+            <text id="Non-inflammatory_Lesions_Mean_Absolute_Percent_Change_from_Baseline-2" data-name="Non-inflammatory Lesions Mean* Absolute (Percent)  Change from Baseline" transform="translate(383.5 5407.919)" font-size="16" class="sofiapro-bold" font-weight="700">
                 <tspan x="20.175" y="16">Non-inflammatory Lesions</tspan>
                 <tspan font-family="SofiaProCondensed-Light, Sofia Pro Condensed" font-weight="300">
                     <tspan x="24.791" y="35">Mean* Absolute (Percent) </tspan>
