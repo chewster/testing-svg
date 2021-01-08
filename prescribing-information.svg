@@ -1003,7 +1003,7 @@
 <!-- END OF COPYING FROM DESKTOP --> 
 
 <!-- testing something here --> 
-<svg id="mobile" class="mobile" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="813" height="13216" viewBox="0 0 813 13216">
+<svg id="mobile" class="mobile" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="813" height="13300" viewBox="0 0 813 13300">
     <text id="These_highlights_do_not_include_all_the_information_needed_to_use_AKLIEF_Cream_safely_and_effectively._See_full_prescribing_information_for_AKLIEF_Cream._AKLIEF_trifarotene_cream_for_topical_use_Initial_U.S._Approval:_2019_-_INDICATIONS_AND_U" data-name="These highlights do not include all the information needed to use AKLIEF® Cream safely and effectively. See full prescribing information for AKLIEF Cream.AKLIEF (trifarotene) cream, for topical useInitial U.S. Approval: 2019————-—————INDICATIONS AND U" transform="translate(46 142)" font-size="16" font-family="SofiaProCondensed-Bold, Sofia Pro Condensed" font-weight="700">
         <tspan x="0" y="16">These highlights do not include all the information needed </tspan>
         <tspan x="0" y="35">to use AKLIEF</tspan>
@@ -1128,29 +1128,663 @@
     <text id="Available_data_from_clinical_trials_with_AKLIEF_Cream_use_in_pregnant_women_have_not_identified_a_drug-associated_risk_of_major_birth_defects_miscarriage_or_adverse_maternal_or_fetal_outcomes._There_are_case_reports_of_major_birth_defects_similar_to_thos" data-name="Available data from clinical trials with AKLIEF Cream use in pregnant women have not identified a drug-associated risk of major birth defects, miscarriage or adverse maternal or fetal outcomes.  There are case reports of major birth defects similar to thos" transform="translate(61 4501)" font-size="16" font-family="SofiaProCondensed-Light, Sofia Pro Condensed" font-weight="300">
         <tspan x="0" y="16">Available data from clinical trials with AKLIEF Cream use in </tspan>
         <tspan x="0" y="35">pregnant women have not identified a drug-associated </tspan>
-        <tspan x="0" y="54">risk of major birth defects, miscarriage or adverse </tspan><tspan x="0" y="73" xml:space="preserve">maternal or fetal outcomes.  There are case reports of </tspan><tspan x="0" y="92">major birth defects similar to those seen in fetuses exposed </tspan><tspan x="0" y="111">to oral retinoids in pregnant women exposed to other </tspan><tspan x="0" y="130">topical retinoids, but these case reports do not establish a </tspan><tspan x="0" y="149">pattern or association with retinoid-related embryopathy.</tspan><tspan x="0" y="168">In animal reproduction studies, oral doses of trifarotene </tspan><tspan x="0" y="187">administered to pregnant rats and rabbits during </tspan><tspan x="0" y="206">organogenesis that resulted in systemic exposures more </tspan><tspan x="0" y="225">than 800 times the systemic exposure at the maximum </tspan><tspan x="0" y="244">recommended human dose (MRHD) of AKLIEF Cream </tspan><tspan x="0" y="263">resulted in adverse fetal effects, including fetal deaths and </tspan><tspan x="0" y="282">external, visceral, and skeletal malformations (see Data). </tspan><tspan x="0" y="301">The background risk of major birth defects and </tspan><tspan x="0" y="320">miscarriage for the indicated population is unknown. All </tspan><tspan x="0" y="339">pregnancies have a background risk of birth defect, loss, or </tspan><tspan x="0" y="358">other adverse outcomes. In the US general population, the </tspan><tspan x="0" y="377">estimated background risk of major birth defects and </tspan><tspan x="0" y="396">miscarriage in clinically recognized pregnancies is 2% to </tspan><tspan x="0" y="415">4% and 15% to 20%, respectively.</tspan><tspan text-decoration="underline"><tspan x="0" y="434">Data</tspan></tspan><tspan font-family="SofiaProCondensed-Lightitalic, Sofia Pro Condensed" font-style="italic"><tspan x="0" y="453">Animal Data</tspan></tspan><tspan x="0" y="472">Oral administration of trifarotene to pregnant rats during </tspan><tspan x="0" y="491">the period of organogenesis at doses that resulted in </tspan><tspan x="0" y="510">systemic exposures greater than 1600 times those in </tspan><tspan x="0" y="529">humans at the MRHD of AKLIEF Cream resulted in adverse </tspan><tspan x="0" y="548">fetal effects, including fetal deaths, reduced mean fetal </tspan><tspan x="0" y="567">weight, and external, visceral, and skeletal malformations.</tspan><tspan x="0" y="586">Oral administration of trifarotene to pregnant rabbits </tspan><tspan x="0" y="605">during the period of organogenesis at doses that resulted </tspan><tspan x="0" y="624">in systemic exposures at least 800 times those in humans </tspan><tspan x="0" y="643">at the MRHD of AKLIEF Cream resulted in adverse fetal </tspan><tspan x="0" y="662">effects, including defects of the tail, limbs, urogenital </tspan><tspan x="0" y="681">organs, and vertebral column.</tspan><tspan x="0" y="700">Trifarotene administered orally to female rats from </tspan><tspan x="0" y="719">gestation Day 6 to lactation Day 20, at doses that resulted </tspan><tspan x="0" y="738">in systemic exposures up to 594 times those in humans at </tspan><tspan x="0" y="757">the MRHD of AKLIEF Cream, had no effect on maternal </tspan><tspan x="0" y="776">function or behavior, including gestation, delivery, pup-</tspan><tspan x="0" y="795">rearing, lactation and nursing, or survival or development </tspan><tspan x="0" y="814">of pups. There were no effects of maternal treatment on </tspan><tspan x="0" y="833">behavior, learning, memory, or reproductive function of </tspan><tspan x="0" y="852">pups.</tspan><tspan font-family="SofiaProCondensed-Bold, Sofia Pro Condensed" font-weight="700"><tspan x="0" y="871" xml:space="preserve">8.2   Lactation</tspan></tspan><tspan text-decoration="underline"><tspan x="0" y="890">Risk Summary</tspan></tspan><tspan x="0" y="909">There are no data on the presence of trifarotene in human </tspan><tspan x="0" y="928">milk, the effects on the breastfed infant, or the effects on </tspan><tspan x="0" y="947">milk production. In animal studies, trifarotene was present </tspan><tspan x="0" y="966">in rat milk with oral administration of the drug. When a </tspan><tspan x="0" y="985">drug is present in animal milk, it is likely that the drug will </tspan><tspan x="0" y="1004">be present in human milk. It is possible that topical </tspan><tspan x="0" y="1023">administration of large amounts of trifarotene could result </tspan><tspan x="0" y="1042">in sufficient systemic absorption to produce detectable </tspan><tspan x="0" y="1061">quantities in human milk (see Clinical Considerations). The </tspan><tspan x="0" y="1080">developmental and health benefits of breastfeeding </tspan><tspan x="0" y="1099">should be considered along with the mother’s clinical need </tspan><tspan x="0" y="1118">for AKLIEF Cream and any potential adverse effects on the </tspan><tspan x="0" y="1137">breastfed infant from AKLIEF Cream or from the underlying </tspan><tspan x="0" y="1156">maternal condition.</tspan><tspan text-decoration="underline"><tspan x="0" y="1175">Clinical Considerations</tspan></tspan><tspan x="0" y="1194">To minimize potential exposure to the breastfed infant via </tspan><tspan x="0" y="1213">breastmilk, use AKLIEF Cream on the smallest area of skin </tspan><tspan x="0" y="1232">and for the shortest duration possible while breastfeeding. </tspan><tspan x="0" y="1251">Advise breastfeeding women not to apply AKLIEF Cream </tspan><tspan x="0" y="1270">directly to the nipple and areola to avoid direct infant </tspan><tspan x="0" y="1289">exposure.</tspan><tspan font-family="SofiaProCondensed-Bold, Sofia Pro Condensed" font-weight="700"><tspan x="0" y="1308" xml:space="preserve">8.4   Pediatric Use</tspan></tspan><tspan x="0" y="1327">Safety and effectiveness of AKLIEF Cream for the topical </tspan><tspan x="0" y="1346">treatment of acne vulgaris have been established in </tspan><tspan x="0" y="1365">pediatric patients age 9 years to 17 years based on </tspan><tspan x="0" y="1384">evidence from well-controlled clinical trials, long-term </tspan><tspan x="0" y="1403">safety trial, and a pharmacokinetic trial. A total of 897 </tspan><tspan x="0" y="1422">pediatric subjects aged 9 to 17 years received AKLIEF </tspan><tspan x="0" y="1441">Cream in the clinical trials [see Clinical Pharmacology </tspan><tspan x="0" y="1460">(12.3) and Clinical Studies (14)].</tspan><tspan x="0" y="1479">Safety and effectiveness of AKLIEF Cream have not been </tspan><tspan x="0" y="1498">established in pediatric subjects under the age of 9 years.</tspan><tspan font-family="SofiaProCondensed-Bold, Sofia Pro Condensed" font-weight="700"><tspan x="0" y="1517" xml:space="preserve">8.5   Geriatric use</tspan></tspan><tspan x="0" y="1536">Clinical trials of AKLIEF Cream did not include any subjects </tspan><tspan x="0" y="1555">aged 65 years and over to determine whether they </tspan><tspan x="0" y="1574">respond differently than younger subjects.</tspan></text>
-    <text id="_11_DESCRIPTION_AKLIEF_Cream_for_topical_administration_contains_0.005_50_mcg_g_trifarotene._Trifarotene_is_a_terphenyl_acid_derivative_and_is_a_retinoid._The_chemical_name_of_trifarotene_is_3_-tert-Butyl-4_-_2-hydroxy-ethoxy_-4_-pyrrolidin-1-yl-_1_1_3" data-name="11  DESCRIPTIONAKLIEF Cream for topical administration contains 0.005% (50 mcg/g) trifarotene. Trifarotene is a terphenyl acid derivative and is a retinoid. The chemical name of trifarotene is 3”-tert-Butyl-4’-(2-hydroxy-ethoxy)-4”-pyrrolidin-1-yl-[1,1’,3" transform="translate(45 6081)" font-size="16" font-family="SofiaProCondensed-Bold, Sofia Pro Condensed" font-weight="700"><tspan x="0" y="16" xml:space="preserve">11  DESCRIPTION</tspan><tspan font-family="SofiaProCondensed-Light, Sofia Pro Condensed" font-weight="300"><tspan x="0" y="35">AKLIEF Cream for topical administration contains 0.005% (50 </tspan><tspan x="0" y="54">mcg/g) trifarotene. Trifarotene is a terphenyl acid derivative </tspan><tspan x="0" y="73">and is a retinoid. The chemical name of trifarotene is 3”-tert-</tspan><tspan x="0" y="92">Butyl-4’-(2-hydroxy-ethoxy)-4”-pyrrolidin-1-yl-[1,1’,3’1”] </tspan><tspan x="0" y="111">terphenyl-4-carboxylic acid. Trifarotene has the molecular </tspan><tspan x="0" y="130">formula of C29H33NO4, the molecular weight of 459.58, and </tspan><tspan x="0" y="149">the following structural formula:</tspan></tspan></text>
-    <text id="Trifarotene_is_a_white_to_off-white_to_slightly_yellow_powder_with_the_melting_point_of_245_C._It_is_practically_insoluble_in_water_with_pKa1_of_5.69_and_pKa2_of_4.55._AKLIEF_trifarotene_Cream_0.005_contains_the_following_inactive_ingredients:_allantoin" data-name="Trifarotene is a white to off-white to slightly yellow powder with the melting point of 245°C. It is practically insoluble in water with pKa1 of 5.69 and pKa2 of 4.55. AKLIEF (trifarotene) Cream 0.005% contains the following inactive ingredients: allantoin" transform="translate(45 6398)" font-size="16" font-family="SofiaProCondensed-Light, Sofia Pro Condensed" font-weight="300"><tspan x="0" y="16">Trifarotene is a white to off-white to slightly yellow powder </tspan><tspan x="0" y="35">with the melting point of 245°C. It is practically insoluble in </tspan><tspan x="0" y="54">water with pKa1 of 5.69 and pKa2 of 4.55. AKLIEF (trifarotene) </tspan><tspan x="0" y="73">Cream 0.005% contains the following inactive ingredients: </tspan><tspan x="0" y="92">allantoin, copolymer of acrylamide and sodium </tspan><tspan x="0" y="111">acryloyldimethyltaurate, dispersion 40% in isohexadecane, </tspan><tspan x="0" y="130">cyclomethicone, 5% ethanol, medium-chain triglycerides, </tspan><tspan x="0" y="149">phenoxyethanol, propylene glycol, purified water.</tspan><tspan font-family="SofiaProCondensed-Bold, Sofia Pro Condensed" font-weight="700"><tspan x="0" y="170" xml:space="preserve">12  CLINICAL PHARMACOLOGY</tspan></tspan></text>
-    <text id="_13.1_Carcinogenesis_Mutagenesis_Impairment_of_Fertility_Trifarotene_was_not_carcinogenic_when_topically_applied_to_mice_daily_for_up_to_24_months_in_the_vehicle_of_the_product_AKLIEF_Cream_at_concentrations_of_0.0005_or_0.001_w_w._The_systemic_expo" data-name="13.1   Carcinogenesis, Mutagenesis, Impairment of Fertility Trifarotene was not carcinogenic when topically applied to mice daily for up to 24 months in the vehicle of the product (AKLIEF Cream) at concentrations of 0.0005% or 0.001% w/w. The systemic expo" transform="translate(61 7604)" font-size="16" font-family="SofiaProCondensed-Bold, Sofia Pro Condensed" font-weight="700"><tspan x="0" y="16" xml:space="preserve">13.1   Carcinogenesis, Mutagenesis, Impairment of </tspan><tspan x="0" y="35">Fertility</tspan><tspan font-family="SofiaProCondensed-Light, Sofia Pro Condensed" font-weight="300"><tspan x="0" y="56">Trifarotene was not carcinogenic when topically applied to </tspan><tspan x="0" y="75">mice daily for up to 24 months in the vehicle of the product </tspan><tspan x="0" y="94">(AKLIEF Cream) at concentrations of 0.0005% or 0.001% w/</tspan><tspan x="0" y="113">w. The systemic exposures at the highest doses evaluated </tspan><tspan x="0" y="132">in mice were approximately 82 (males) and 99 (females) </tspan><tspan x="0" y="151">times higher than the human exposure at the MRHD of </tspan><tspan x="0" y="170">AKLIEF Cream.</tspan><tspan x="0" y="191">Trifarotene was not carcinogenic when administered orally </tspan><tspan x="0" y="210">to rats daily for up to 24 months at doses up to 0.75 mg/kg/</tspan><tspan x="0" y="229">day in males and 0.2 mg/kg/day in females. The systemic </tspan><tspan x="0" y="248">exposures at the highest doses evaluated in rats were </tspan><tspan x="0" y="267">approximately 645 (males) and 1642 (females) times </tspan><tspan x="0" y="286">higher than the human exposure at the MRHD of AKLIEF </tspan><tspan x="0" y="305">Cream.</tspan><tspan x="0" y="326">Trifarotene was negative in an in vitro bacterial reverse </tspan><tspan x="0" y="345">mutation (Ames) assay, an in vitro micronucleus assay in </tspan><tspan x="0" y="364">primary human lymphocytes, an in vitro mouse lymphoma </tspan><tspan x="0" y="383">assay with L5178Y/TK+/- cells, and an in vivo micronucleus </tspan><tspan x="0" y="402">assay in rats.</tspan><tspan x="0" y="423">Trifarotene was assessed for effects on fertility or general </tspan><tspan x="0" y="442">reproductive function in rats. Males received trifarotene via </tspan><tspan x="0" y="461">oral gavage for 4 weeks prior to mating, during mating, </tspan><tspan x="0" y="480">and up to scheduled termination (approximately 6 weeks </tspan><tspan x="0" y="499">in total), and females were treated via oral gavage for 2 </tspan><tspan x="0" y="518">weeks prior to mating through Day 7 of gestation. No </tspan><tspan x="0" y="537">adverse effects on fertility or reproductive parameters, </tspan><tspan x="0" y="556">including sperm motility and concentration, were observed </tspan><tspan x="0" y="575">at the highest doses evaluated, which resulted in systemic </tspan><tspan x="0" y="594">exposures approximately 1755 (males) and 1726 (females) </tspan><tspan x="0" y="613">times higher than the human exposure at the MRHD of </tspan><tspan x="0" y="632">AKLIEF Cream.</tspan></tspan></text>
-    <text id="_14_CLINICAL_STUDIES" data-name="14  CLINICAL STUDIES" transform="translate(45 8243)" font-size="16" font-family="SofiaProCondensed-Bold, Sofia Pro Condensed" font-weight="700"><tspan x="0" y="16" xml:space="preserve">14  CLINICAL STUDIES</tspan></text>
-    <text id="AKLIEF_Cream_applied_once_daily_in_the_evening_was_evaluated_in_the_treatment_of_moderate_facial_and_truncal_acne_vulgaris_in_two_randomized_multicenter_parallel_group_double-blind_vehicle-controlled_trials_of_identical_design_Study_1_NCT02566369_an" data-name="AKLIEF Cream applied once daily in the evening was evaluated in the treatment of moderate facial and truncal acne vulgaris in two randomized, multicenter, parallel group, double-blind, vehicle-controlled trials of identical design, Study 1 (NCT02566369) an" transform="translate(61 8265)" font-size="16" font-family="SofiaProCondensed-Light, Sofia Pro Condensed" font-weight="300"><tspan x="0" y="16">AKLIEF Cream applied once daily in the evening was </tspan><tspan x="0" y="35">evaluated in the treatment of moderate facial and truncal </tspan><tspan x="0" y="54">acne vulgaris in two randomized, multicenter, parallel </tspan><tspan x="0" y="73">group, double-blind, vehicle-controlled trials of identical </tspan><tspan x="0" y="92">design, Study 1 (NCT02566369) and Study 2 </tspan><tspan x="0" y="111">(NCT02556788). The trials were conducted in a total of 2420 </tspan><tspan x="0" y="130">subjects aged 9 years and older, who were treated for up </tspan><tspan x="0" y="149">to 12 weeks with either AKLIEF Cream (1214 subjects) or </tspan><tspan x="0" y="168">vehicle cream (1206 subjects). Subjects were encouraged </tspan><tspan x="0" y="187">to use a moisturizer as desired, while allowing an interval </tspan><tspan x="0" y="206">of approximately 1 hour before or after the study treatment </tspan><tspan x="0" y="225">application.</tspan><tspan x="0" y="246">Acne severity was evaluated using a 5-point Investigator’s </tspan><tspan x="0" y="265">Global Assessment (IGA) scale for the face and a 5-point </tspan><tspan x="0" y="284">Physician’s Global Assessment (PGA) scale for the trunk </tspan><tspan x="0" y="303">with moderate acne vulgaris defined as a score of 3. </tspan><tspan x="0" y="322">Overall, 87% of subjects were Caucasian and 55% were </tspan><tspan x="0" y="341">female. Thirty-four (1.4%) subjects were 9 to 11 years of age, </tspan><tspan x="0" y="360">1128 (47%) subjects were 12 to 17 years of age, and 1258 </tspan><tspan x="0" y="379">(52%) subjects were 18 years and older. All subjects had </tspan><tspan x="0" y="398">moderate acne vulgaris on the face and 99% of subjects </tspan><tspan x="0" y="417">had moderate acne vulgaris on the trunk. At baseline, </tspan><tspan x="0" y="436">subjects had between 7 and 200 (average 36) </tspan><tspan x="0" y="455">inflammatory lesions on the face and between 0 and 220 </tspan><tspan x="0" y="474">(average 38) on the trunk. Additionally, subjects had 21 to </tspan><tspan x="0" y="493">305 (average 52) non-inflammatory lesions on the face </tspan><tspan x="0" y="512">and 0 to 260 (average 46) on the trunk.</tspan><tspan x="0" y="533">Success on the IGA/PGA scale was defined as achieving a </tspan><tspan x="0" y="552">score of 0 (clear) or 1 (almost clear) and at least a 2-grade </tspan><tspan x="0" y="571">improvement from baseline. The co-primary endpoints </tspan><tspan x="0" y="590">(evaluated on the face) were the percentage of subjects </tspan><tspan x="0" y="609">achieving success on the IGA scale, the mean absolute </tspan><tspan x="0" y="628">change in facial inflammatory lesion count from baseline, </tspan><tspan x="0" y="647">and the mean absolute change in facial non-inflammatory </tspan><tspan x="0" y="666">lesion count from baseline, all evaluated at Week 12. The </tspan><tspan x="0" y="685">co-secondary endpoints (evaluated on the trunk) were the </tspan><tspan x="0" y="704">percentage of subjects achieving success on the PGA scale, </tspan><tspan x="0" y="723">the mean absolute change in truncal inflammatory lesion </tspan><tspan x="0" y="742">count from baseline, and the mean absolute change in </tspan><tspan x="0" y="761">truncal non-inflammatory lesion count from baseline, all </tspan><tspan x="0" y="780">evaluated at Week 12. Efficacy results for acne on the face </tspan><tspan x="0" y="799">and trunk after 12 weeks of treatment are presented in </tspan><tspan x="0" y="818">Tables 3 and 4 respectively.</tspan></text>
-    <text id="_13_NONCLINICAL_TOXICOLOGY" data-name="13  NONCLINICAL TOXICOLOGY" transform="translate(45 7584)" font-size="16" font-family="SofiaProCondensed-Bold, Sofia Pro Condensed" font-weight="700"><tspan x="0" y="16" xml:space="preserve">13  NONCLINICAL TOXICOLOGY</tspan></text>
-    <text id="_12.1_Mechanism_of_Action_Trifarotene_is_an_agonist_of_retinoic_acid_receptors_RAR_with_particular_activity_at_the_gamma_subtype_of_RAR._Stimulation_of_RAR_results_in_modulation_of_target_genes_which_are_associated_with_various_processes_including_cel" data-name="12.1   Mechanism of Action Trifarotene is an agonist of retinoic acid receptors (RAR), with particular activity at the gamma subtype of RAR. Stimulation of RAR results in modulation of target genes which are associated with various processes, including cel" transform="translate(61 6573)" font-size="16" font-family="SofiaProCondensed-Bold, Sofia Pro Condensed" font-weight="700"><tspan x="0" y="16" xml:space="preserve">12.1   Mechanism of Action</tspan><tspan font-family="SofiaProCondensed-Light, Sofia Pro Condensed" font-weight="300"><tspan x="0" y="35">Trifarotene is an agonist of retinoic acid receptors (RAR), </tspan><tspan x="0" y="54">with particular activity at the gamma subtype of RAR. </tspan><tspan x="0" y="73">Stimulation of RAR results in modulation of target genes </tspan><tspan x="0" y="92">which are associated with various processes, including cell </tspan><tspan x="0" y="111">differentiation and mediation of inflammation. The exact </tspan><tspan x="0" y="130">process by which trifarotene ameliorates acne is unknown.</tspan></tspan><tspan x="0" y="149" xml:space="preserve">12.2   Pharmacodynamics</tspan><tspan font-family="SofiaProCondensed-Light, Sofia Pro Condensed" font-weight="300"><tspan x="0" y="168">At the approved recommended dosage, AKLIEF Cream </tspan><tspan x="0" y="187">does not prolong the QT interval to any clinically relevant </tspan><tspan x="0" y="206">extent.</tspan></tspan><tspan x="0" y="225" xml:space="preserve">12.3   Pharmacokinetics</tspan><tspan font-family="SofiaProCondensed-Light, Sofia Pro Condensed" font-weight="300"><tspan x="0" y="244">Pharmacokinetics of trifarotene was evaluated in a study </tspan><tspan x="0" y="263">involving 19 adult subjects with acne vulgaris following </tspan><tspan x="0" y="282">once daily application of AKLIEF Cream for 29 days (daily </tspan><tspan x="0" y="301">dose range 1.5 g/day to 2 g/day) to the face, shoulders, </tspan><tspan x="0" y="320">chest and upper back.</tspan></tspan><tspan font-family="SofiaProCondensed-Light, Sofia Pro Condensed" font-weight="300" text-decoration="underline"><tspan x="0" y="339">Absorption</tspan></tspan><tspan font-family="SofiaProCondensed-Light, Sofia Pro Condensed" font-weight="300"><tspan x="0" y="358">Systemic concentrations were at steady state following 2 </tspan><tspan x="0" y="377">weeks of treatment and were quantifiable in 7 subjects. </tspan><tspan x="0" y="396">Steady state Cmax ranged from below the limit of </tspan><tspan x="0" y="415">quantification (less than 5 pg/mL) to 10 pg/mL and </tspan><tspan x="0" y="434">AUC0-24h ranged from 75 to 104 pg.h/mL in adults. No </tspan><tspan x="0" y="453">drug accumulation is expected with long-term use.</tspan></tspan><tspan font-family="SofiaProCondensed-Light, Sofia Pro Condensed" font-weight="300" text-decoration="underline"><tspan x="0" y="472">Distribution</tspan></tspan><tspan font-family="SofiaProCondensed-Light, Sofia Pro Condensed" font-weight="300"><tspan x="0" y="491">Plasma protein binding is approximately 99.9%.</tspan></tspan><tspan font-family="SofiaProCondensed-Light, Sofia Pro Condensed" font-weight="300" text-decoration="underline"><tspan x="0" y="510">Elimination</tspan></tspan><tspan font-family="SofiaProCondensed-Light, Sofia Pro Condensed" font-weight="300"><tspan x="0" y="529">The terminal half-life ranged from 2 to 9 hours.</tspan></tspan><tspan font-family="SofiaProCondensed-Lightitalic, Sofia Pro Condensed" font-weight="300" font-style="italic"><tspan x="0" y="548">Metabolism</tspan></tspan><tspan font-family="SofiaProCondensed-Light, Sofia Pro Condensed" font-weight="300"><tspan x="0" y="567">Trifarotene is primarily metabolized by CYP2C9, CYP3A4, </tspan><tspan x="0" y="586">CYP2C8, and to a lesser extent by CYP2B6 in vitro.</tspan></tspan><tspan font-family="SofiaProCondensed-Lightitalic, Sofia Pro Condensed" font-weight="300" font-style="italic"><tspan x="0" y="605">Excretion</tspan></tspan><tspan font-family="SofiaProCondensed-Light, Sofia Pro Condensed" font-weight="300"><tspan x="0" y="624">Trifarotene is primarily excreted by the feces.</tspan></tspan><tspan font-family="SofiaProCondensed-Light, Sofia Pro Condensed" font-weight="300" text-decoration="underline"><tspan x="0" y="643">Specific Populations</tspan></tspan><tspan font-family="SofiaProCondensed-Lightitalic, Sofia Pro Condensed" font-weight="300" font-style="italic"><tspan x="0" y="662">Pediatric Patients</tspan></tspan><tspan font-family="SofiaProCondensed-Light, Sofia Pro Condensed" font-weight="300"><tspan x="0" y="681">Steady state Cmax ranged from less than 5 pg/mL to 9 pg/</tspan><tspan x="0" y="700">mL and AUC0-24h ranged from 89 to 106 pg.h/mL in </tspan><tspan x="0" y="719">pediatrics (10 to 17-years-old). Steady state conditions </tspan><tspan x="0" y="738">were achieved in patients following 2 weeks of topical </tspan><tspan x="0" y="757">administration. No drug accumulation is expected with </tspan><tspan x="0" y="776">long-term use.</tspan></tspan><tspan font-family="SofiaProCondensed-Light, Sofia Pro Condensed" font-weight="300" text-decoration="underline"><tspan x="0" y="795">Drug Interactions Studies</tspan></tspan><tspan font-family="SofiaProCondensed-Lightitalic, Sofia Pro Condensed" font-weight="300" font-style="italic"><tspan x="0" y="814">Clinical Studies and Model-Based Approaches</tspan></tspan><tspan font-family="SofiaProCondensed-Light, Sofia Pro Condensed" font-weight="300"><tspan x="0" y="833">No clinically significant differences in the </tspan><tspan x="0" y="852">pharmacokinetics of trifarotene were predicted when used </tspan><tspan x="0" y="871">concomitantly with fluconazole (a moderate CYP2C9 and </tspan><tspan x="0" y="890">CYP3A inhibitor).</tspan></tspan><tspan font-family="SofiaProCondensed-Lightitalic, Sofia Pro Condensed" font-weight="300" font-style="italic"><tspan x="0" y="909">In Vitro Studies</tspan><tspan x="0" y="928">Cytochrome P450 (CYP) Enzymes:</tspan><tspan y="928" xml:space="preserve" font-family="SofiaProCondensed-Light, Sofia Pro Condensed" font-style="normal"> AKLIEF Cream is not </tspan><tspan x="0" y="947" font-family="SofiaProCondensed-Light, Sofia Pro Condensed" font-style="normal">expected to inhibit CYP1A2, 2B6, 2C8, 2C9, 2C19, 2D6 and </tspan><tspan x="0" y="966" font-family="SofiaProCondensed-Light, Sofia Pro Condensed" font-style="normal">3A4, or induce CYP1A2, 2B6, and 3A4.</tspan><tspan x="0" y="985">Transporter Systems: </tspan><tspan y="985" font-family="SofiaProCondensed-Light, Sofia Pro Condensed" font-style="normal">AKLIEF Cream is not expected to </tspan><tspan x="0" y="1004" font-family="SofiaProCondensed-Light, Sofia Pro Condensed" font-style="normal">inhibit MATE, OATP, OAT, OCT, BCRP, P-gp, BSEP, or MPR.</tspan></tspan></text>
-    <text id="_16_HOW_SUPPLIED_STORAGE_AND_HANDLING" data-name="16  HOW SUPPLIED/STORAGE AND HANDLING" transform="translate(45 9930)" font-size="16" font-family="SofiaProCondensed-Bold, Sofia Pro Condensed" font-weight="700"><tspan x="0" y="16" xml:space="preserve">16  HOW SUPPLIED/STORAGE AND HANDLING</tspan></text>
-    <text id="AKLIEF_Cream_0.005_is_provided_as_a_white_cream_supplied_in_the_following_packaging_configurations_with_corresponding_NDC_numbers:_30-gram_pump_NDC_0299-5935-30_45-gram_pump_NDC_0299-5935-45_75-gram_pump_NDC_0299-5935-75_Storage_and_Handling_" data-name="AKLIEF Cream, 0.005% is provided as a white cream supplied in the following packaging configurations with corresponding NDC numbers: •   30-gram pump    NDC 0299-5935-30 •   45-gram pump    NDC 0299-5935-45 •   75-gram pump    NDC 0299-5935-75 Storage and Handling" transform="translate(61 9951)" font-size="16" font-family="SofiaProCondensed-Light, Sofia Pro Condensed" font-weight="300"><tspan x="0" y="16">AKLIEF Cream, 0.005% is provided as a white cream </tspan><tspan x="0" y="35">supplied in the following packaging configurations with </tspan><tspan x="0" y="54">corresponding NDC numbers:</tspan><tspan x="0" y="73" xml:space="preserve">•   30-gram pump  NDC 0299-5935-30</tspan><tspan x="0" y="92" xml:space="preserve">•   45-gram pump   NDC 0299-5935-45</tspan><tspan x="0" y="111" xml:space="preserve">•   75-gram pump  NDC 0299-5935-75</tspan><tspan text-decoration="underline"><tspan x="0" y="130">Storage and Handling</tspan></tspan><tspan x="0" y="149">- Store at 20 to 25˚C (68 to 77˚F) with excursions permitted </tspan><tspan x="0" y="168" xml:space="preserve">   to 15°to 30°C (59° to 86°F).</tspan><tspan x="0" y="187">- Keep away from heat.</tspan><tspan x="0" y="206">- Keep out of reach of children.</tspan></text>
-    <text id="See_FDA-approved_patient_labeling_Patient_Information_._Advise_the_patient_to:_Cleanse_the_area_to_be_treated_pat_dry._Apply_AKLIEF_Cream_as_a_thin_layer_once_daily_in_the_evening_to_the_face_avoiding_the_eyes_lips_nasolabial_folds_" data-name="See FDA-approved patient labeling (Patient Information). Advise the patient to:•   Cleanse the area to be treated; pat dry. Apply AKLIEF   Cream as a thin layer once daily in the evening to the  face, avoiding the eyes, lips, nasolabial folds, " transform="translate(61 10200)" font-size="16" font-family="SofiaProCondensed-Light, Sofia Pro Condensed" font-weight="300"><tspan x="0" y="16">See FDA-approved patient labeling (Patient Information).</tspan><tspan x="0" y="35">Advise the patient to:</tspan><tspan x="0" y="54" xml:space="preserve">•   Cleanse the area to be treated; pat dry. Apply AKLIEF   </tspan><tspan x="0" y="73" xml:space="preserve">     Cream as a thin layer once daily in the evening to the </tspan><tspan x="0" y="92" xml:space="preserve">     face, avoiding the eyes, lips, nasolabial folds, and </tspan><tspan x="0" y="111" xml:space="preserve">     mucous membranes. A thin layer of AKLIEF Cream may </tspan><tspan x="0" y="130" xml:space="preserve">     also be applied to the chest, shoulders, and back.</tspan><tspan x="0" y="149" xml:space="preserve">•   Avoid applying AKLIEF Cream to damaged skin (such as </tspan><tspan x="0" y="168" xml:space="preserve">     cuts, abrasions), eczematous areas, and sunburned </tspan><tspan x="0" y="187" xml:space="preserve">     skin.</tspan><tspan x="0" y="206" xml:space="preserve">•   Reduce the risk of such irritation, use a moisturizer from </tspan><tspan x="0" y="225" xml:space="preserve">     the start of treatment, and, if appropriate, reduce the </tspan><tspan x="0" y="244" xml:space="preserve">     frequency of application of AKLIEF Cream or suspend </tspan><tspan x="0" y="263" xml:space="preserve">     use temporarily. AKLIEF Cream may cause irritation such </tspan><tspan x="0" y="282" xml:space="preserve">     as erythema, scaling, dryness, and stinging or burning.</tspan><tspan x="0" y="301" xml:space="preserve">•   Minimize exposure to sunlight, including sunlamps and  </tspan><tspan x="0" y="320" xml:space="preserve">     phototherapy devices.</tspan><tspan x="0" y="339" xml:space="preserve">•   Use sunscreen products and protective apparel (e.g., </tspan><tspan x="0" y="358" xml:space="preserve">     hat) over treated areas when exposure to sunlight </tspan><tspan x="0" y="377" xml:space="preserve">     cannot be avoided.</tspan><tspan x="0" y="396" xml:space="preserve">•   Avoid concomitant use of other potentially irritating </tspan><tspan x="0" y="415" xml:space="preserve">     topical products (medicated or not).</tspan><tspan x="0" y="434" xml:space="preserve">•   Use AKLIEF Cream on the smallest area of skin and for </tspan><tspan x="0" y="453" xml:space="preserve">     the shortest duration possible while breastfeeding. </tspan><tspan x="0" y="472" xml:space="preserve">     Advise breastfeeding women not to apply AKLIEF Cream </tspan><tspan x="0" y="491" xml:space="preserve">     directly to the nipple and areola to avoid direct infant </tspan><tspan x="0" y="510" xml:space="preserve">     exposure.</tspan></text>
-    <text id="_17_PATIENT_COUNSELING_INFORMATION" data-name="17  PATIENT COUNSELING INFORMATION" transform="translate(45 10180)" font-size="16" font-family="SofiaProCondensed-Bold, Sofia Pro Condensed" font-weight="700"><tspan x="0" y="16" xml:space="preserve">17  PATIENT COUNSELING INFORMATION</tspan></text>
-    <text id="_1_INDICATIONS_AND_USAGE_AKLIEF_Cream_is_a_retinoid_indicated_for_the_topical_treatment_of_acne_vulgaris_in_patients_9_years_of_age_and_older._2_DOSAGE_AND_ADMINISTRATION_Apply_a_thin_layer_of_AKLIEF_Cream_to_the_affected_areas_" data-name="1   INDICATIONS AND USAGE AKLIEF Cream is a retinoid indicated for the topical  treatment of acne vulgaris in patients 9 years of age and  older. 2   DOSAGE AND ADMINISTRATION Apply a thin layer of AKLIEF Cream to the affected areas  " transform="translate(45 1711)" font-size="16" font-family="SofiaProCondensed-Bold, Sofia Pro Condensed" font-weight="700"><tspan x="0" y="16" xml:space="preserve">1   INDICATIONS AND USAGE</tspan><tspan font-family="SofiaProCondensed-Light, Sofia Pro Condensed" font-weight="300"><tspan x="0" y="35" xml:space="preserve">     AKLIEF Cream is a retinoid indicated for the topical </tspan><tspan x="0" y="54" xml:space="preserve">     treatment of acne vulgaris in patients 9 years of age and </tspan><tspan x="0" y="73" xml:space="preserve">     older.</tspan></tspan><tspan x="0" y="92" xml:space="preserve">2   DOSAGE AND ADMINISTRATION</tspan><tspan font-family="SofiaProCondensed-Light, Sofia Pro Condensed" font-weight="300"><tspan x="0" y="111" xml:space="preserve">     Apply a thin layer of AKLIEF Cream to the affected areas </tspan><tspan x="0" y="130" xml:space="preserve">     once daily, in the evening, on clean and dry skin.</tspan><tspan x="0" y="149" xml:space="preserve">     •   One pump actuation should be enough to cover the face </tspan><tspan x="0" y="168" xml:space="preserve">          (i.e., forehead, cheeks, nose, and chin).</tspan><tspan x="0" y="187" xml:space="preserve">     •   Two actuations of the pump should be enough to cover </tspan><tspan x="0" y="206" xml:space="preserve">          the upper trunk (i.e., reachable upper back, shoulders </tspan><tspan x="0" y="225" xml:space="preserve">          and chest). One additional pump actuation may be used </tspan><tspan x="0" y="244" xml:space="preserve">          for middle and lower back if acne is present.</tspan><tspan x="0" y="263" xml:space="preserve">     The use of a moisturizer is recommended as frequently as  </tspan><tspan x="0" y="282" xml:space="preserve">     needed from the initiation of treatment.</tspan><tspan x="0" y="301" xml:space="preserve">     Avoid contact with the eyes, lips, paranasal creases,</tspan><tspan x="0" y="320" xml:space="preserve">     mucous membranes.</tspan><tspan x="0" y="339" xml:space="preserve">     AKLIEF Cream is for topical use only. Not for oral,</tspan><tspan x="0" y="358" xml:space="preserve">     ophthalmic, or intravaginal use.</tspan></tspan><tspan x="0" y="377" xml:space="preserve">3   DOSAGE FORMS AND STRENGTHS</tspan><tspan font-family="SofiaProCondensed-Light, Sofia Pro Condensed" font-weight="300"><tspan x="0" y="396" xml:space="preserve">     Cream: 0.005%. Each gram of AKLIEF Cream contains 50 </tspan><tspan x="0" y="415" xml:space="preserve">     mcg of trifarotene in a white cream.</tspan></tspan><tspan x="0" y="434" xml:space="preserve">4   CONTRAINDICATIONS</tspan><tspan font-family="SofiaProCondensed-Light, Sofia Pro Condensed" font-weight="300"><tspan x="0" y="453" xml:space="preserve">     None</tspan></tspan><tspan x="0" y="472" xml:space="preserve">5   WARNINGS AND PRECAUTIONS</tspan><tspan x="0" y="491" xml:space="preserve">     5.1   Skin Irritation</tspan><tspan font-family="SofiaProCondensed-Light, Sofia Pro Condensed" font-weight="300"><tspan x="0" y="510" xml:space="preserve">     Patients using AKLIEF Cream may experience erythema, </tspan><tspan x="0" y="529" xml:space="preserve">     scaling, dryness, and stinging/burning. Maximum severity </tspan><tspan x="0" y="548" xml:space="preserve">     of these reactions typically occurred within the first 4 weeks </tspan><tspan x="0" y="567" xml:space="preserve">     of treatment, and severity decreased with continued use of </tspan><tspan x="0" y="586" xml:space="preserve">     the medication. Depending upon the severity of these </tspan><tspan x="0" y="605" xml:space="preserve">     adverse reactions, instruct patients to use a moisturizer, </tspan><tspan x="0" y="624" xml:space="preserve">     reduce the frequency of application of AKLIEF Cream, or </tspan><tspan x="0" y="643" xml:space="preserve">     suspend use temporarily. If severe reactions persist the </tspan><tspan x="0" y="662" xml:space="preserve">     treatment may be discontinued.</tspan><tspan x="0" y="681" xml:space="preserve">     Avoid application of AKLIEF Cream to cuts, abrasions, or </tspan><tspan x="0" y="700" xml:space="preserve">     eczematous or sunburned skin. Use of “waxing” as a </tspan><tspan x="0" y="719" xml:space="preserve">     depilatory method should be avoided on skin treated with </tspan><tspan x="0" y="738" xml:space="preserve">     AKLIEF Cream.</tspan></tspan><tspan x="0" y="757" xml:space="preserve">     5.2   Ultraviolet Light and Environmental Exposure</tspan><tspan font-family="SofiaProCondensed-Light, Sofia Pro Condensed" font-weight="300"><tspan x="0" y="776" xml:space="preserve">     Minimize unprotected exposure to ultraviolet rays </tspan><tspan x="0" y="795" xml:space="preserve">     (including sunlight and sunlamps) during treatment with </tspan><tspan x="0" y="814" xml:space="preserve">     AKLIEF Cream. Warn patients who normally experience </tspan><tspan x="0" y="833" xml:space="preserve">     high levels of sun exposure and those with inherent </tspan><tspan x="0" y="852" xml:space="preserve">     sensitivity to sun to exercise caution. Use of sunscreen </tspan><tspan x="0" y="871" xml:space="preserve">     products and protective clothing over treated areas is </tspan><tspan x="0" y="890" xml:space="preserve">     recommended when exposure cannot be avoided.</tspan></tspan><tspan x="0" y="909" xml:space="preserve">6   ADVERSE REACTIONS</tspan><tspan x="0" y="928" xml:space="preserve">     6.1   Clinical trials experience</tspan><tspan font-family="SofiaProCondensed-Light, Sofia Pro Condensed" font-weight="300"><tspan x="0" y="947" xml:space="preserve">     Because clinical trials are conducted under widely varying </tspan><tspan x="0" y="966" xml:space="preserve">     conditions, adverse reaction rates observed in the clinical </tspan><tspan x="0" y="985" xml:space="preserve">     trials of a drug cannot be directly compared with rates in </tspan><tspan x="0" y="1004" xml:space="preserve">     the clinical trials of another drug and may not reflect rates </tspan><tspan x="0" y="1023" xml:space="preserve">     observed in practice. In the three Phase 3 clinical trials, a </tspan><tspan x="0" y="1042" xml:space="preserve">     total of 1673 subjects with acne vulgaris on the face and </tspan><tspan x="0" y="1061" xml:space="preserve">     trunk, 9 years and older were exposed to AKLIEF Cream. </tspan><tspan x="0" y="1080" xml:space="preserve">     Of these, 1220 subjects were treated once daily for up to 12 </tspan><tspan x="0" y="1099" xml:space="preserve">     weeks and 453 were treated once daily for up to 1 year.</tspan><tspan x="0" y="1118"></tspan><tspan x="0" y="1137" xml:space="preserve">     Adverse reactions reported in the 2 randomized, double-</tspan><tspan x="0" y="1156" xml:space="preserve">     blind, vehicle-controlled 12-week clinical trials in ≥1.0% of </tspan><tspan x="0" y="1175" xml:space="preserve">     subjects treated with AKLIEF Cream (and for which the rate </tspan><tspan x="0" y="1194" xml:space="preserve">     exceeded the rate for vehicle), as well as the corresponding </tspan><tspan x="0" y="1213" xml:space="preserve">     rates reported in subjects treated with the vehicle cream </tspan><tspan x="0" y="1232" xml:space="preserve">     are presented in Table 1.</tspan></tspan></text>
-    <text id="FULL_PRESCRIBING_INFORMATION" data-name="FULL PRESCRIBING INFORMATION" transform="translate(0 1686)" font-size="16" font-family="SofiaProCondensed-Bold, Sofia Pro Condensed" font-weight="700"><tspan x="120.496" y="16">FULL PRESCRIBING INFORMATION</tspan></text>
-    <text id="Table_1._Adverse_Reactions_Occurring_in_1.0_of_Subjects_with_Acne_Vulgaris_of_the_Face_and_Trunk_in_the_Two_12-week_Phase_3_Clinical_Trials" data-name="Table 1. Adverse Reactions Occurring in ≥ 1.0% of Subjects with Acne Vulgaris of the Face and Trunk in the Two 12-week Phase 3 Clinical Trials" transform="translate(45 2975)" fill="#1a1818" font-size="16" font-family="SofiaProCondensed-Bold, Sofia Pro Condensed" font-weight="700"><tspan x="0" y="16">Table 1. Adverse Reactions Occurring in ≥ 1.0% of Subjects </tspan><tspan x="0" y="35">with Acne Vulgaris of the Face and Trunk in the Two 12-week </tspan><tspan x="0" y="54">Phase 3 Clinical Trials</tspan></text>
-    <text id="Table_2._Application_Site_Tolerability_Reactions_at_Any_Post_Baseline_Visit" data-name="Table 2. Application Site Tolerability Reactions at Any Post Baseline Visit" transform="translate(45 3735.074)" fill="#1a1818" font-size="16" font-family="SofiaProCondensed-Bold, Sofia Pro Condensed" font-weight="700" letter-spacing="-0.01em"><tspan x="0" y="16">Table 2. Application Site Tolerability Reactions at Any Post </tspan><tspan x="0" y="35">Baseline Visit</tspan></text>
-    <text id="Table_3._Acne_of_the_Face_Efficacy_Results_at_Week_12_Intent-to-Treat_Multiple_Imputation_" data-name="Table 3. Acne of the Face Efficacy Results at Week 12 (Intent-to-Treat; Multiple Imputation)" transform="translate(45 9101)" font-size="16" font-family="SofiaProCondensed-Bold, Sofia Pro Condensed" font-weight="700"><tspan x="0" y="16">Table 3. Acne of the Face Efficacy Results at Week 12 </tspan><tspan x="0" y="35">(Intent-to-Treat; Multiple Imputation)</tspan></text>
-    <text id="Table_4._Acne_of_the_Trunk_Efficacy_Results_at_Week_12_Intent-to-Treat_on_the_Trunk_Multiple_Imputation_" data-name="Table 4. Acne of the Trunk Efficacy Results at Week 12 (Intent-to-Treat on the Trunk; Multiple Imputation)" transform="translate(45 9516)" font-size="16" font-family="SofiaProCondensed-Bold, Sofia Pro Condensed" font-weight="700"><tspan x="0" y="16">Table 4. Acne of the Trunk Efficacy Results at Week 12 </tspan><tspan x="0" y="35">(Intent-to-Treat on the Trunk; Multiple Imputation)</tspan></text>
-    <text id="Important:_AKLIEF_Cream_is_for_use_on_the_skin_only._Do_not_use_AKLIEF_Cream_in_your_mouth_eyes_or_vagina._What_is_AKLIEF_Cream_AKLIEF_Cream_is_a_prescription_medicine_used_on_the_skin_topical_to_treat_acne_vulgaris_in_people_9_years_of_age_and_olde" data-name="Important: AKLIEF Cream is for use on the skin only.  Do not use AKLIEF Cream in your mouth, eyes, or vagina. What is AKLIEF Cream?AKLIEF Cream is a prescription medicine used on the skin (topical) to treat acne vulgaris in people 9 years of age and olde" transform="translate(45 10807)" font-size="16" font-family="SofiaProCondensed-Bold, Sofia Pro Condensed" font-weight="700"><tspan x="0" y="16">Important:</tspan><tspan y="16" xml:space="preserve" font-family="SofiaProCondensed-Light, Sofia Pro Condensed" font-weight="300"> AKLIEF Cream is for use on the skin only.  Do not </tspan><tspan x="0" y="35" font-family="SofiaProCondensed-Light, Sofia Pro Condensed" font-weight="300">use AKLIEF Cream in your mouth, eyes, or vagina.</tspan><tspan font-family="SofiaProCondensed-Light, Sofia Pro Condensed" font-weight="300"><tspan x="0" y="54"></tspan></tspan><tspan x="0" y="73">What is AKLIEF Cream?</tspan><tspan font-family="SofiaProCondensed-Light, Sofia Pro Condensed" font-weight="300"><tspan x="0" y="92">AKLIEF Cream is a prescription medicine used on the skin </tspan><tspan x="0" y="111">(topical) to treat acne vulgaris in people 9 years of age and </tspan><tspan x="0" y="130">older.</tspan><tspan x="0" y="149">It is not known if AKLIEF Cream is safe and effective in children </tspan><tspan x="0" y="168">younger than 9 years old.</tspan><tspan x="0" y="187"></tspan></tspan><tspan x="0" y="206">Before using AKLIEF Cream, tell your healthcare provider </tspan><tspan x="0" y="225">about all of your medical conditions, including if you:</tspan><tspan font-family="SofiaProCondensed-Light, Sofia Pro Condensed" font-weight="300"><tspan x="0" y="244" xml:space="preserve">•   have skin problems, including eczema, cuts or sunburn</tspan><tspan x="0" y="263" xml:space="preserve">•   are pregnant or planning to become pregnant. It is not </tspan><tspan x="0" y="282" xml:space="preserve">     known if AKLIEF Cream will harm your unborn baby.</tspan><tspan x="0" y="301" xml:space="preserve">•   are breastfeeding or plan to breastfeed. It is not known if </tspan><tspan x="0" y="320" xml:space="preserve">     AKLIEF Cream passes into your breast milk. Breastfeeding </tspan><tspan x="0" y="339" xml:space="preserve">     women should use AKLIEF Cream on the smallest area of </tspan><tspan x="0" y="358" xml:space="preserve">     skin and for the shortest time needed while breastfeeding. </tspan><tspan x="0" y="377" xml:space="preserve">     Do not apply AKLIEF Cream to the nipple and areola to </tspan><tspan x="0" y="396" xml:space="preserve">     avoid contact with your baby.</tspan></tspan><tspan x="0" y="415">Tell your healthcare provider about all the medicines you </tspan><tspan x="0" y="434">take,</tspan><tspan y="434" xml:space="preserve" font-family="SofiaProCondensed-Light, Sofia Pro Condensed" font-weight="300"> including prescription and over-the-counter medicines, </tspan><tspan x="0" y="453" font-family="SofiaProCondensed-Light, Sofia Pro Condensed" font-weight="300">vitamins and herbal supplements.</tspan><tspan font-family="SofiaProCondensed-Light, Sofia Pro Condensed" font-weight="300"><tspan x="0" y="472">Especially tell your healthcare provider if you use any other </tspan><tspan x="0" y="491">medicine for acne.</tspan><tspan x="0" y="510"></tspan></tspan><tspan x="0" y="529">How should I use AKLIEF Cream?</tspan><tspan font-family="SofiaProCondensed-Light, Sofia Pro Condensed" font-weight="300"><tspan x="0" y="548" xml:space="preserve">•   Use AKLIEF Cream exactly as your healthcare provider tells </tspan><tspan x="0" y="567" xml:space="preserve">     you to use it. Apply a thin layer of AKLIEF Cream over the </tspan><tspan x="0" y="586" xml:space="preserve">     affected areas 1 time each day, in the evening.</tspan></tspan><tspan x="0" y="605">Applying AKLIEF Cream:</tspan><tspan font-family="SofiaProCondensed-Light, Sofia Pro Condensed" font-weight="300"><tspan x="0" y="624" xml:space="preserve">•   Wash the area where the cream will be applied and pat </tspan><tspan x="0" y="643" xml:space="preserve">     dry.</tspan><tspan x="0" y="662" xml:space="preserve">•   If you receive a sample tube of AKLIEF Cream, follow your </tspan><tspan x="0" y="681" xml:space="preserve">     healthcare provider’s instructions about how much to </tspan><tspan x="0" y="700" xml:space="preserve">     apply.</tspan><tspan x="0" y="719" xml:space="preserve">•   AKLIEF Cream comes in a pump.</tspan><tspan x="0" y="738" xml:space="preserve">    -   Press down on (depress) the pump 1 time to dispense a </tspan><tspan x="0" y="757" xml:space="preserve">         small amount of AKLIEF Cream and spread a thin layer </tspan><tspan x="0" y="776" xml:space="preserve">         over your face (forehead, cheeks, nose, and chin). Avoid </tspan><tspan x="0" y="795" xml:space="preserve">         contact with your eyes, lips, mouth, and the corners of </tspan><tspan x="0" y="814" xml:space="preserve">         your nose.</tspan><tspan x="0" y="833" xml:space="preserve">    -   Press down on the pump 2 times to dispense enough </tspan><tspan x="0" y="852" xml:space="preserve">         AKLIEF Cream to apply a thin layer to cover your upper </tspan><tspan x="0" y="871" xml:space="preserve">         trunk (the area of your upper back that you can reach, </tspan><tspan x="0" y="890" xml:space="preserve">         shoulders, and chest). One more pump may be used to </tspan><tspan x="0" y="909" xml:space="preserve">         apply a thin layer of AKLIEF Cream to your middle and </tspan><tspan x="0" y="928" xml:space="preserve">         lower back, if acne is present.</tspan><tspan x="0" y="947" xml:space="preserve">•   When you begin treatment with AKLIEF Cream, you should </tspan><tspan x="0" y="966" xml:space="preserve">     begin applying a moisturizer on your skin as often as </tspan><tspan x="0" y="985" xml:space="preserve">     needed. </tspan><tspan y="985" font-family="SofiaProCondensed-Bold, Sofia Pro Condensed" font-weight="700">See “Local skin irritation”</tspan><tspan y="985" xml:space="preserve"> below.</tspan><tspan x="0" y="1004"></tspan></tspan><tspan x="0" y="1023">What should I avoid while using AKLIEF Cream?</tspan><tspan font-family="SofiaProCondensed-Light, Sofia Pro Condensed" font-weight="300"><tspan x="0" y="1042" xml:space="preserve">•   Minimize exposure to sunlight. You should avoid using </tspan><tspan x="0" y="1061" xml:space="preserve">     sunlamps, tanning beds, and ultraviolet light during </tspan><tspan x="0" y="1080" xml:space="preserve">     treatment with AKLIEF Cream. </tspan><tspan x="0" y="1099" xml:space="preserve">     If you have to be in sunlight or are sensitive to sunlight, use </tspan><tspan x="0" y="1118" xml:space="preserve">     a sunscreen with a SPF (sun protection factor) of 15 or </tspan><tspan x="0" y="1137" xml:space="preserve">     more, and wear protective clothing and a wide-brimmed </tspan><tspan x="0" y="1156" xml:space="preserve">     hat to cover the treated areas.</tspan><tspan x="0" y="1175" xml:space="preserve">•   Avoid using AKLIEF Cream on skin areas with cuts, </tspan><tspan x="0" y="1194" xml:space="preserve">    abrasions, eczema, or on sunburned skin.</tspan><tspan x="0" y="1213" xml:space="preserve">•   Avoid using skin products that may dry or irritate your skin, </tspan><tspan x="0" y="1232" xml:space="preserve">    such as: </tspan><tspan x="0" y="1251" xml:space="preserve">    -   medicated or abrasive soaps and cleansers</tspan><tspan x="0" y="1270" xml:space="preserve">    -   soaps, cleansers, and cosmetics that have strong skin </tspan><tspan x="0" y="1289" xml:space="preserve">         drying effects</tspan><tspan x="0" y="1308" xml:space="preserve">    -   products that contain high amounts of alcohol</tspan><tspan x="0" y="1327" xml:space="preserve">•   Avoid the use of “waxing” as a hair removal method on skin </tspan><tspan x="0" y="1346" xml:space="preserve">    treated with AKLIEF Cream.</tspan><tspan x="0" y="1365"></tspan></tspan><tspan x="0" y="1384">What are the possible side effects of AKLIEF Cream?</tspan><tspan font-family="SofiaProCondensed-Light, Sofia Pro Condensed" font-weight="300"><tspan x="0" y="1403">AKLIEF Cream may cause serious side effects including:</tspan><tspan x="0" y="1422" xml:space="preserve">•   </tspan><tspan y="1422" font-family="SofiaProCondensed-Bold, Sofia Pro Condensed" font-weight="700">Local skin irritation.</tspan><tspan y="1422" xml:space="preserve"> Local skin reactions are common with </tspan><tspan x="0" y="1441" xml:space="preserve">     AKLIEF Cream, are most likely to happen during the first 4 </tspan><tspan x="0" y="1460" xml:space="preserve">     weeks of treatment and may decrease with continued use </tspan><tspan x="0" y="1479" xml:space="preserve">     of AKLIEF Cream. Signs and symptoms of local skin </tspan><tspan x="0" y="1498" xml:space="preserve">     reactions include:</tspan><tspan x="0" y="1517" xml:space="preserve">      -   redness      - dryness</tspan><tspan x="0" y="1536" xml:space="preserve">      -   scaling       - stinging or burning</tspan><tspan x="0" y="1555" xml:space="preserve">     To help reduce your risk of developing these local skin </tspan><tspan x="0" y="1574" xml:space="preserve">     reactions, when you begin treatment with AKLIEF Cream, </tspan><tspan x="0" y="1593" xml:space="preserve">     you should begin applying a moisturizer on your skin as </tspan><tspan x="0" y="1612" xml:space="preserve">     often as needed. </tspan><tspan x="0" y="1631" xml:space="preserve">     Tell your healthcare provider if you develop symptoms of a </tspan><tspan x="0" y="1650" xml:space="preserve">     local skin reaction. Your doctor may tell you to use AKLIEF </tspan><tspan x="0" y="1669" xml:space="preserve">     Cream less often, or temporarily, or permanently stop your </tspan><tspan x="0" y="1688" xml:space="preserve">     treatment with AKLIEF Cream.</tspan><tspan x="0" y="1707" xml:space="preserve">     The most common side effects of AKLIEF Cream include: </tspan><tspan x="0" y="1726" xml:space="preserve">     itching and sunburn. </tspan><tspan y="1726" font-family="SofiaProCondensed-Bold, Sofia Pro Condensed" font-weight="700">See “What should I avoid while using </tspan></tspan><tspan x="0" y="1745" xml:space="preserve">      AKLIEF Cream”.</tspan><tspan font-family="SofiaProCondensed-Light, Sofia Pro Condensed" font-weight="300"><tspan x="0" y="1764" xml:space="preserve">     These are not all the possible side effects of AKLIEF Cream. </tspan><tspan x="0" y="1783" xml:space="preserve">     For more information, ask your healthcare provider or </tspan><tspan x="0" y="1802" xml:space="preserve">     pharmacist.</tspan><tspan x="0" y="1821" xml:space="preserve">     Call your doctor for medical advice about side effects. You </tspan><tspan x="0" y="1840" xml:space="preserve">     may report side effects to FDA at 1-800-FDA-1088.</tspan><tspan x="0" y="1859" xml:space="preserve">     You may also report side effects to GALDERMA </tspan><tspan x="0" y="1878" xml:space="preserve">     LABORATORIES, L.P. at 1-866-735-4137.</tspan><tspan x="0" y="1897"></tspan></tspan><tspan x="0" y="1916">How should I store AKLIEF Cream?</tspan><tspan font-family="SofiaProCondensed-Light, Sofia Pro Condensed" font-weight="300"><tspan x="0" y="1935">• Store AKLIEF Cream at room temperature, 68° to 77° F (20° to </tspan><tspan x="0" y="1954" xml:space="preserve">   25°C).</tspan><tspan x="0" y="1973">• Keep AKLIEF Cream away from heat.</tspan><tspan x="0" y="1992">• If you receive a sample tube of AKLIEF Cream from your </tspan><tspan x="0" y="2011">healthcare provider, keep the tube tightly closed.</tspan></tspan><tspan x="0" y="2030">Keep AKLIEF Cream and all medicines out of the reach of </tspan><tspan x="0" y="2049">children.</tspan><tspan font-family="SofiaProCondensed-Light, Sofia Pro Condensed" font-weight="300"><tspan x="0" y="2068"></tspan></tspan><tspan x="0" y="2087">General information about the safe and effective use of </tspan><tspan x="0" y="2106">AKLIEF Cream.</tspan><tspan font-family="SofiaProCondensed-Light, Sofia Pro Condensed" font-weight="300"><tspan x="0" y="2125">Medicines are sometimes prescribed for purposes other than </tspan><tspan x="0" y="2144">those listed in a Patient Information Leaflet. Do not use AKLIEF </tspan><tspan x="0" y="2163">Cream for a condition for which it was not prescribed. Do not </tspan><tspan x="0" y="2182">give AKLIEF Cream to other people, even if they have the </tspan><tspan x="0" y="2201">same symptoms you have. It may harm them. You can ask </tspan><tspan x="0" y="2220">your pharmacist or healthcare provider for information about </tspan><tspan x="0" y="2239">AKLIEF Cream that is written for health professionals.</tspan><tspan x="0" y="2258"></tspan></tspan><tspan x="0" y="2277">What are the ingredients in AKLIEF Cream?</tspan><tspan x="0" y="2296">Active ingredient: </tspan><tspan y="2296" font-family="SofiaProCondensed-Light, Sofia Pro Condensed" font-weight="300">trifarotene</tspan><tspan x="0" y="2315">Inactive ingredients:</tspan><tspan y="2315" xml:space="preserve" font-family="SofiaProCondensed-Light, Sofia Pro Condensed" font-weight="300"> allantoin, copolymer of acrylamide and </tspan><tspan x="0" y="2334" font-family="SofiaProCondensed-Light, Sofia Pro Condensed" font-weight="300">sodium acryloyldimethyltaurate, dispersion 40% in </tspan><tspan x="0" y="2353" font-family="SofiaProCondensed-Light, Sofia Pro Condensed" font-weight="300">isohexadecane, cyclomethicone, 5% ethanol, medium-chain </tspan><tspan x="0" y="2372" font-family="SofiaProCondensed-Light, Sofia Pro Condensed" font-weight="300">triglycerides, phenoxyethanol, propylene glycol, purified </tspan><tspan x="0" y="2391" font-family="SofiaProCondensed-Light, Sofia Pro Condensed" font-weight="300">water.</tspan></text>
-    <line id="Line_91" data-name="Line 91" x2="340" transform="translate(45.5 10741.026)" fill="none" stroke="#1a1818" stroke-width="1"/>
-    <text id="Patient_Information_AKLIEF_trifarotene_cream" data-name="Patient Information AKLIEF® (trifarotene) cream" transform="translate(66 10758)" font-size="16" font-family="SofiaProCondensed-Bold, Sofia Pro Condensed" font-weight="700"><tspan x="101.416" y="16">Patient Information </tspan><tspan x="76.088" y="35">AKLIEF® (trifarotene) cream</tspan></text>
-    <text id="_-_WARNINGS_AND_PRECAUTIONS_-" data-name="——-—————WARNINGS AND PRECAUTIONS————–———-" transform="translate(45 592)" font-size="16" font-family="SofiaProCondensed-Bold, Sofia Pro Condensed" font-weight="700"><tspan x="1.552" y="16">——-—————WARNINGS AND PRECAUTIONS————–———-</tspan></text>
-    <text id="_Skin_irritation:_Erythema_scaling_dryness_and_stinging_burning_may_be_experienced_with_use_of_AKLIEF_Cream._Use_a_moisturizer_from_the_initiation_of_treatment_and_if_appropriate_reduce_the_frequency_of_application_of_AKLIEF_" data-name="•   Skin irritation: Erythema, scaling, dryness, and stinging/ burning may be experienced with use of AKLIEF Cream.  Use a moisturizer from the initiation of treatment, and, if  appropriate, reduce the frequency of application of AKLIEF " transform="translate(45 624)" font-size="16" font-family="SofiaProCondensed-Light, Sofia Pro Condensed" font-weight="300"><tspan x="0" y="16" xml:space="preserve">•   Skin irritation: Erythema, scaling, dryness, and stinging/</tspan><tspan x="0" y="35" xml:space="preserve">     burning may be experienced with use of AKLIEF Cream. </tspan><tspan x="0" y="54" xml:space="preserve">     Use a moisturizer from the initiation of treatment, and, if </tspan><tspan x="0" y="73" xml:space="preserve">     appropriate, reduce the frequency of application of AKLIEF </tspan><tspan x="0" y="92" xml:space="preserve">     Cream, suspend or discontinue use. (5.1)</tspan><tspan x="0" y="111" xml:space="preserve">•   Ultraviolet Light and Environmental Exposure: Minimize </tspan><tspan x="0" y="130" xml:space="preserve">     exposure to sunlight and sunlamps. Use sunscreen and </tspan><tspan x="0" y="149" xml:space="preserve">     protective clothing over treated areas when exposure </tspan><tspan x="0" y="168" xml:space="preserve">     cannot be avoided. (5.2)</tspan><tspan font-family="SofiaProCondensed-Bold, Sofia Pro Condensed" font-weight="700"><tspan x="0" y="187"></tspan><tspan x="0" y="206">—————-————ADVERSE REACTIONS——————————</tspan></tspan><tspan x="0" y="225">Most common adverse reactions (incidence ≥ 1%) in patients </tspan><tspan x="0" y="244">treated with AKLIEF Cream were application site irritation, </tspan><tspan x="0" y="263">application site pruritus, and sunburn (6).</tspan><tspan x="0" y="282"></tspan><tspan font-family="SofiaProCondensed-Bold, Sofia Pro Condensed" font-weight="700"><tspan x="0" y="301">To report SUSPECTED ADVERSE REACTIONS, contact </tspan><tspan x="0" y="320">Galderma Laboratories, L.P. at 1-866-735-4137 or </tspan><tspan x="0" y="339">FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.</tspan><tspan x="0" y="358">See 17 for PATIENT COUNSELING INFORMATION </tspan><tspan x="0" y="377" xml:space="preserve">and FDA-approved patient labeling.                       </tspan><tspan x="0" y="396">Revised: 10/2019</tspan><tspan x="0" y="415"></tspan></tspan></text>
+        <tspan x="0" y="54">risk of major birth defects, miscarriage or adverse </tspan>
+        <tspan x="0" y="73" xml:space="preserve">maternal or fetal outcomes.  There are case reports of </tspan>
+        <tspan x="0" y="92">major birth defects similar to those seen in fetuses exposed </tspan>
+        <tspan x="0" y="111">to oral retinoids in pregnant women exposed to other </tspan>
+        <tspan x="0" y="130">topical retinoids, but these case reports do not establish a </tspan>
+        <tspan x="0" y="149">pattern or association with retinoid-related embryopathy.</tspan>
+        <tspan x="0" y="168">In animal reproduction studies, oral doses of trifarotene </tspan>
+        <tspan x="0" y="187">administered to pregnant rats and rabbits during </tspan>
+        <tspan x="0" y="206">organogenesis that resulted in systemic exposures more </tspan>
+        <tspan x="0" y="225">than 800 times the systemic exposure at the maximum </tspan>
+        <tspan x="0" y="244">recommended human dose (MRHD) of AKLIEF Cream </tspan>
+        <tspan x="0" y="263">resulted in adverse fetal effects, including fetal deaths and </tspan>
+        <tspan x="0" y="282">external, visceral, and skeletal malformations (see Data). </tspan>
+        <tspan x="0" y="301">The background risk of major birth defects and </tspan>
+        <tspan x="0" y="320">miscarriage for the indicated population is unknown. All </tspan>
+        <tspan x="0" y="339">pregnancies have a background risk of birth defect, loss, or </tspan>
+        <tspan x="0" y="358">other adverse outcomes. In the US general population, the </tspan>
+        <tspan x="0" y="377">estimated background risk of major birth defects and </tspan>
+        <tspan x="0" y="396">miscarriage in clinically recognized pregnancies is 2% to </tspan>
+        <tspan x="0" y="415">4% and 15% to 20%, respectively.</tspan>
+        <tspan text-decoration="underline">
+            <tspan x="0" y="434">Data</tspan>
+        </tspan>
+        <tspan font-family="SofiaProCondensed-Lightitalic, Sofia Pro Condensed" font-style="italic">
+            <tspan x="0" y="453">Animal Data</tspan>
+        </tspan>
+        <tspan x="0" y="472">Oral administration of trifarotene to pregnant rats during </tspan>
+        <tspan x="0" y="491">the period of organogenesis at doses that resulted in </tspan>
+        <tspan x="0" y="510">systemic exposures greater than 1600 times those in </tspan>
+        <tspan x="0" y="529">humans at the MRHD of AKLIEF Cream resulted in adverse </tspan>
+        <tspan x="0" y="548">fetal effects, including fetal deaths, reduced mean fetal </tspan>
+        <tspan x="0" y="567">weight, and external, visceral, and skeletal malformations.</tspan>
+        <tspan x="0" y="586">Oral administration of trifarotene to pregnant rabbits </tspan>
+        <tspan x="0" y="605">during the period of organogenesis at doses that resulted </tspan>
+        <tspan x="0" y="624">in systemic exposures at least 800 times those in humans </tspan>
+        <tspan x="0" y="643">at the MRHD of AKLIEF Cream resulted in adverse fetal </tspan>
+        <tspan x="0" y="662">effects, including defects of the tail, limbs, urogenital </tspan>
+        <tspan x="0" y="681">organs, and vertebral column.</tspan>
+        <tspan x="0" y="700">Trifarotene administered orally to female rats from </tspan>
+        <tspan x="0" y="719">gestation Day 6 to lactation Day 20, at doses that resulted </tspan>
+        <tspan x="0" y="738">in systemic exposures up to 594 times those in humans at </tspan>
+        <tspan x="0" y="757">the MRHD of AKLIEF Cream, had no effect on maternal </tspan>
+        <tspan x="0" y="776">function or behavior, including gestation, delivery, pup-</tspan>
+        <tspan x="0" y="795">rearing, lactation and nursing, or survival or development </tspan>
+        <tspan x="0" y="814">of pups. There were no effects of maternal treatment on </tspan>
+        <tspan x="0" y="833">behavior, learning, memory, or reproductive function of </tspan>
+        <tspan x="0" y="852">pups.</tspan>
+        <tspan font-family="SofiaProCondensed-Bold, Sofia Pro Condensed" font-weight="700">
+            <tspan x="0" y="871" xml:space="preserve">8.2   Lactation</tspan>
+        </tspan>
+        <tspan text-decoration="underline">
+            <tspan x="0" y="890">Risk Summary</tspan>
+        </tspan>
+        <tspan x="0" y="909">There are no data on the presence of trifarotene in human </tspan>
+        <tspan x="0" y="928">milk, the effects on the breastfed infant, or the effects on </tspan>
+        <tspan x="0" y="947">milk production. In animal studies, trifarotene was present </tspan>
+        <tspan x="0" y="966">in rat milk with oral administration of the drug. When a </tspan>
+        <tspan x="0" y="985">drug is present in animal milk, it is likely that the drug will </tspan>
+        <tspan x="0" y="1004">be present in human milk. It is possible that topical </tspan>
+        <tspan x="0" y="1023">administration of large amounts of trifarotene could result </tspan>
+        <tspan x="0" y="1042">in sufficient systemic absorption to produce detectable </tspan>
+        <tspan x="0" y="1061">quantities in human milk (see Clinical Considerations). The </tspan>
+        <tspan x="0" y="1080">developmental and health benefits of breastfeeding </tspan>
+        <tspan x="0" y="1099">should be considered along with the mother’s clinical need </tspan>
+        <tspan x="0" y="1118">for AKLIEF Cream and any potential adverse effects on the </tspan>
+        <tspan x="0" y="1137">breastfed infant from AKLIEF Cream or from the underlying </tspan>
+        <tspan x="0" y="1156">maternal condition.</tspan>
+        <tspan text-decoration="underline">
+            <tspan x="0" y="1175">Clinical Considerations</tspan>
+        </tspan>
+        <tspan x="0" y="1194">To minimize potential exposure to the breastfed infant via </tspan>
+        <tspan x="0" y="1213">breastmilk, use AKLIEF Cream on the smallest area of skin </tspan>
+        <tspan x="0" y="1232">and for the shortest duration possible while breastfeeding. </tspan>
+        <tspan x="0" y="1251">Advise breastfeeding women not to apply AKLIEF Cream </tspan>
+        <tspan x="0" y="1270">directly to the nipple and areola to avoid direct infant </tspan>
+        <tspan x="0" y="1289">exposure.</tspan>
+        <tspan font-family="SofiaProCondensed-Bold, Sofia Pro Condensed" font-weight="700">
+            <tspan x="0" y="1308" xml:space="preserve">8.4   Pediatric Use</tspan>
+        </tspan>
+        <tspan x="0" y="1327">Safety and effectiveness of AKLIEF Cream for the topical </tspan>
+        <tspan x="0" y="1346">treatment of acne vulgaris have been established in </tspan>
+        <tspan x="0" y="1365">pediatric patients age 9 years to 17 years based on </tspan>
+        <tspan x="0" y="1384">evidence from well-controlled clinical trials, long-term </tspan>
+        <tspan x="0" y="1403">safety trial, and a pharmacokinetic trial. A total of 897 </tspan>
+        <tspan x="0" y="1422">pediatric subjects aged 9 to 17 years received AKLIEF </tspan>
+        <tspan x="0" y="1441">Cream in the clinical trials [see Clinical Pharmacology </tspan>
+        <tspan x="0" y="1460">(12.3) and Clinical Studies (14)].</tspan>
+        <tspan x="0" y="1479">Safety and effectiveness of AKLIEF Cream have not been </tspan>
+        <tspan x="0" y="1498">established in pediatric subjects under the age of 9 years.</tspan>
+        <tspan font-family="SofiaProCondensed-Bold, Sofia Pro Condensed" font-weight="700">
+            <tspan x="0" y="1517" xml:space="preserve">8.5   Geriatric use</tspan>
+        </tspan>
+        <tspan x="0" y="1536">Clinical trials of AKLIEF Cream did not include any subjects </tspan>
+        <tspan x="0" y="1555">aged 65 years and over to determine whether they </tspan>
+        <tspan x="0" y="1574">respond differently than younger subjects.</tspan>
+    </text>
+    <text id="_11_DESCRIPTION_AKLIEF_Cream_for_topical_administration_contains_0.005_50_mcg_g_trifarotene._Trifarotene_is_a_terphenyl_acid_derivative_and_is_a_retinoid._The_chemical_name_of_trifarotene_is_3_-tert-Butyl-4_-_2-hydroxy-ethoxy_-4_-pyrrolidin-1-yl-_1_1_3" data-name="11  DESCRIPTIONAKLIEF Cream for topical administration contains 0.005% (50 mcg/g) trifarotene. Trifarotene is a terphenyl acid derivative and is a retinoid. The chemical name of trifarotene is 3”-tert-Butyl-4’-(2-hydroxy-ethoxy)-4”-pyrrolidin-1-yl-[1,1’,3" transform="translate(45 6081)" font-size="16" font-family="SofiaProCondensed-Bold, Sofia Pro Condensed" font-weight="700">
+        <tspan x="0" y="16" xml:space="preserve">11  DESCRIPTION</tspan>
+        <tspan font-family="SofiaProCondensed-Light, Sofia Pro Condensed" font-weight="300">
+            <tspan x="0" y="35">AKLIEF Cream for topical administration contains 0.005% (50 </tspan>
+            <tspan x="0" y="54">mcg/g) trifarotene. Trifarotene is a terphenyl acid derivative </tspan>
+            <tspan x="0" y="73">and is a retinoid. The chemical name of trifarotene is 3”-tert-</tspan>
+            <tspan x="0" y="92">Butyl-4’-(2-hydroxy-ethoxy)-4”-pyrrolidin-1-yl-[1,1’,3’1”] </tspan>
+            <tspan x="0" y="111">terphenyl-4-carboxylic acid. Trifarotene has the molecular </tspan>
+            <tspan x="0" y="130">formula of C29H33NO4, the molecular weight of 459.58, and </tspan>
+            <tspan x="0" y="149">the following structural formula:</tspan>
+        </tspan>
+    </text>
+    <text id="Trifarotene_is_a_white_to_off-white_to_slightly_yellow_powder_with_the_melting_point_of_245_C._It_is_practically_insoluble_in_water_with_pKa1_of_5.69_and_pKa2_of_4.55._AKLIEF_trifarotene_Cream_0.005_contains_the_following_inactive_ingredients:_allantoin" data-name="Trifarotene is a white to off-white to slightly yellow powder with the melting point of 245°C. It is practically insoluble in water with pKa1 of 5.69 and pKa2 of 4.55. AKLIEF (trifarotene) Cream 0.005% contains the following inactive ingredients: allantoin" transform="translate(45 6398)" font-size="16" font-family="SofiaProCondensed-Light, Sofia Pro Condensed" font-weight="300">
+        <tspan x="0" y="16">Trifarotene is a white to off-white to slightly yellow powder </tspan>
+        <tspan x="0" y="35">with the melting point of 245°C. It is practically insoluble in </tspan>
+        <tspan x="0" y="54">water with pKa1 of 5.69 and pKa2 of 4.55. AKLIEF (trifarotene) </tspan>
+        <tspan x="0" y="73">Cream 0.005% contains the following inactive ingredients: </tspan>
+        <tspan x="0" y="92">allantoin, copolymer of acrylamide and sodium </tspan>
+        <tspan x="0" y="111">acryloyldimethyltaurate, dispersion 40% in isohexadecane, </tspan>
+        <tspan x="0" y="130">cyclomethicone, 5% ethanol, medium-chain triglycerides, </tspan>
+        <tspan x="0" y="149">phenoxyethanol, propylene glycol, purified water.</tspan>
+        <tspan font-family="SofiaProCondensed-Bold, Sofia Pro Condensed" font-weight="700">
+            <tspan x="0" y="170" xml:space="preserve">12  CLINICAL PHARMACOLOGY</tspan>
+        </tspan>
+    </text>
+    <text id="_13.1_Carcinogenesis_Mutagenesis_Impairment_of_Fertility_Trifarotene_was_not_carcinogenic_when_topically_applied_to_mice_daily_for_up_to_24_months_in_the_vehicle_of_the_product_AKLIEF_Cream_at_concentrations_of_0.0005_or_0.001_w_w._The_systemic_expo" data-name="13.1   Carcinogenesis, Mutagenesis, Impairment of Fertility Trifarotene was not carcinogenic when topically applied to mice daily for up to 24 months in the vehicle of the product (AKLIEF Cream) at concentrations of 0.0005% or 0.001% w/w. The systemic expo" transform="translate(61 7604)" font-size="16" font-family="SofiaProCondensed-Bold, Sofia Pro Condensed" font-weight="700">
+        <tspan x="0" y="16" xml:space="preserve">13.1   Carcinogenesis, Mutagenesis, Impairment of </tspan>
+        <tspan x="0" y="35">Fertility</tspan>
+        <tspan font-family="SofiaProCondensed-Light, Sofia Pro Condensed" font-weight="300">
+            <tspan x="0" y="56">Trifarotene was not carcinogenic when topically applied to </tspan>
+            <tspan x="0" y="75">mice daily for up to 24 months in the vehicle of the product </tspan>
+            <tspan x="0" y="94">(AKLIEF Cream) at concentrations of 0.0005% or 0.001% w/</tspan>
+            <tspan x="0" y="113">w. The systemic exposures at the highest doses evaluated </tspan>
+            <tspan x="0" y="132">in mice were approximately 82 (males) and 99 (females) </tspan>
+            <tspan x="0" y="151">times higher than the human exposure at the MRHD of </tspan>
+            <tspan x="0" y="170">AKLIEF Cream.</tspan>
+            <tspan x="0" y="191">Trifarotene was not carcinogenic when administered orally </tspan>
+            <tspan x="0" y="210">to rats daily for up to 24 months at doses up to 0.75 mg/kg/</tspan>
+            <tspan x="0" y="229">day in males and 0.2 mg/kg/day in females. The systemic </tspan>
+            <tspan x="0" y="248">exposures at the highest doses evaluated in rats were </tspan>
+            <tspan x="0" y="267">approximately 645 (males) and 1642 (females) times </tspan>
+            <tspan x="0" y="286">higher than the human exposure at the MRHD of AKLIEF </tspan>
+            <tspan x="0" y="305">Cream.</tspan>
+            <tspan x="0" y="326">Trifarotene was negative in an in vitro bacterial reverse </tspan>
+            <tspan x="0" y="345">mutation (Ames) assay, an in vitro micronucleus assay in </tspan>
+            <tspan x="0" y="364">primary human lymphocytes, an in vitro mouse lymphoma </tspan>
+            <tspan x="0" y="383">assay with L5178Y/TK+/- cells, and an in vivo micronucleus </tspan>
+            <tspan x="0" y="402">assay in rats.</tspan>
+            <tspan x="0" y="423">Trifarotene was assessed for effects on fertility or general </tspan>
+            <tspan x="0" y="442">reproductive function in rats. Males received trifarotene via </tspan>
+            <tspan x="0" y="461">oral gavage for 4 weeks prior to mating, during mating, </tspan>
+            <tspan x="0" y="480">and up to scheduled termination (approximately 6 weeks </tspan>
+            <tspan x="0" y="499">in total), and females were treated via oral gavage for 2 </tspan>
+            <tspan x="0" y="518">weeks prior to mating through Day 7 of gestation. No </tspan>
+            <tspan x="0" y="537">adverse effects on fertility or reproductive parameters, </tspan>
+            <tspan x="0" y="556">including sperm motility and concentration, were observed </tspan>
+            <tspan x="0" y="575">at the highest doses evaluated, which resulted in systemic </tspan>
+            <tspan x="0" y="594">exposures approximately 1755 (males) and 1726 (females) </tspan>
+            <tspan x="0" y="613">times higher than the human exposure at the MRHD of </tspan>
+            <tspan x="0" y="632">AKLIEF Cream.</tspan>
+        </tspan>
+    </text>
+    <text id="_14_CLINICAL_STUDIES" data-name="14  CLINICAL STUDIES" transform="translate(45 8243)" font-size="16" font-family="SofiaProCondensed-Bold, Sofia Pro Condensed" font-weight="700">
+        <tspan x="0" y="16" xml:space="preserve">14  CLINICAL STUDIES</tspan>
+    </text>
+    <text id="AKLIEF_Cream_applied_once_daily_in_the_evening_was_evaluated_in_the_treatment_of_moderate_facial_and_truncal_acne_vulgaris_in_two_randomized_multicenter_parallel_group_double-blind_vehicle-controlled_trials_of_identical_design_Study_1_NCT02566369_an" data-name="AKLIEF Cream applied once daily in the evening was evaluated in the treatment of moderate facial and truncal acne vulgaris in two randomized, multicenter, parallel group, double-blind, vehicle-controlled trials of identical design, Study 1 (NCT02566369) an" transform="translate(61 8265)" font-size="16" font-family="SofiaProCondensed-Light, Sofia Pro Condensed" font-weight="300">
+        <tspan x="0" y="16">AKLIEF Cream applied once daily in the evening was </tspan>
+        <tspan x="0" y="35">evaluated in the treatment of moderate facial and truncal </tspan>
+        <tspan x="0" y="54">acne vulgaris in two randomized, multicenter, parallel </tspan>
+        <tspan x="0" y="73">group, double-blind, vehicle-controlled trials of identical </tspan>
+        <tspan x="0" y="92">design, Study 1 (NCT02566369) and Study 2 </tspan>
+        <tspan x="0" y="111">(NCT02556788). The trials were conducted in a total of 2420 </tspan>
+        <tspan x="0" y="130">subjects aged 9 years and older, who were treated for up </tspan>
+        <tspan x="0" y="149">to 12 weeks with either AKLIEF Cream (1214 subjects) or </tspan>
+        <tspan x="0" y="168">vehicle cream (1206 subjects). Subjects were encouraged </tspan>
+        <tspan x="0" y="187">to use a moisturizer as desired, while allowing an interval </tspan>
+        <tspan x="0" y="206">of approximately 1 hour before or after the study treatment </tspan>
+        <tspan x="0" y="225">application.</tspan>
+        <tspan x="0" y="246">Acne severity was evaluated using a 5-point Investigator’s </tspan>
+        <tspan x="0" y="265">Global Assessment (IGA) scale for the face and a 5-point </tspan>
+        <tspan x="0" y="284">Physician’s Global Assessment (PGA) scale for the trunk </tspan>
+        <tspan x="0" y="303">with moderate acne vulgaris defined as a score of 3. </tspan>
+        <tspan x="0" y="322">Overall, 87% of subjects were Caucasian and 55% were </tspan>
+        <tspan x="0" y="341">female. Thirty-four (1.4%) subjects were 9 to 11 years of age, </tspan>
+        <tspan x="0" y="360">1128 (47%) subjects were 12 to 17 years of age, and 1258 </tspan>
+        <tspan x="0" y="379">(52%) subjects were 18 years and older. All subjects had </tspan>
+        <tspan x="0" y="398">moderate acne vulgaris on the face and 99% of subjects </tspan>
+        <tspan x="0" y="417">had moderate acne vulgaris on the trunk. At baseline, </tspan>
+        <tspan x="0" y="436">subjects had between 7 and 200 (average 36) </tspan>
+        <tspan x="0" y="455">inflammatory lesions on the face and between 0 and 220 </tspan>
+        <tspan x="0" y="474">(average 38) on the trunk. Additionally, subjects had 21 to </tspan>
+        <tspan x="0" y="493">305 (average 52) non-inflammatory lesions on the face </tspan>
+        <tspan x="0" y="512">and 0 to 260 (average 46) on the trunk.</tspan>
+        <tspan x="0" y="533">Success on the IGA/PGA scale was defined as achieving a </tspan>
+        <tspan x="0" y="552">score of 0 (clear) or 1 (almost clear) and at least a 2-grade </tspan>
+        <tspan x="0" y="571">improvement from baseline. The co-primary endpoints </tspan>
+        <tspan x="0" y="590">(evaluated on the face) were the percentage of subjects </tspan>
+        <tspan x="0" y="609">achieving success on the IGA scale, the mean absolute </tspan>
+        <tspan x="0" y="628">change in facial inflammatory lesion count from baseline, </tspan>
+        <tspan x="0" y="647">and the mean absolute change in facial non-inflammatory </tspan>
+        <tspan x="0" y="666">lesion count from baseline, all evaluated at Week 12. The </tspan>
+        <tspan x="0" y="685">co-secondary endpoints (evaluated on the trunk) were the </tspan>
+        <tspan x="0" y="704">percentage of subjects achieving success on the PGA scale, </tspan>
+        <tspan x="0" y="723">the mean absolute change in truncal inflammatory lesion </tspan>
+        <tspan x="0" y="742">count from baseline, and the mean absolute change in </tspan>
+        <tspan x="0" y="761">truncal non-inflammatory lesion count from baseline, all </tspan>
+        <tspan x="0" y="780">evaluated at Week 12. Efficacy results for acne on the face </tspan>
+        <tspan x="0" y="799">and trunk after 12 weeks of treatment are presented in </tspan>
+        <tspan x="0" y="818">Tables 3 and 4 respectively.</tspan>
+    </text>
+    <text id="_13_NONCLINICAL_TOXICOLOGY" data-name="13  NONCLINICAL TOXICOLOGY" transform="translate(45 7584)" font-size="16" font-family="SofiaProCondensed-Bold, Sofia Pro Condensed" font-weight="700">
+        <tspan x="0" y="16" xml:space="preserve">13  NONCLINICAL TOXICOLOGY</tspan>
+    </text>
+    <text id="_12.1_Mechanism_of_Action_Trifarotene_is_an_agonist_of_retinoic_acid_receptors_RAR_with_particular_activity_at_the_gamma_subtype_of_RAR._Stimulation_of_RAR_results_in_modulation_of_target_genes_which_are_associated_with_various_processes_including_cel" data-name="12.1   Mechanism of Action Trifarotene is an agonist of retinoic acid receptors (RAR), with particular activity at the gamma subtype of RAR. Stimulation of RAR results in modulation of target genes which are associated with various processes, including cel" transform="translate(61 6573)" font-size="16" font-family="SofiaProCondensed-Bold, Sofia Pro Condensed" font-weight="700">
+        <tspan x="0" y="16" xml:space="preserve">12.1   Mechanism of Action</tspan>
+        <tspan font-family="SofiaProCondensed-Light, Sofia Pro Condensed" font-weight="300">
+            <tspan x="0" y="35">Trifarotene is an agonist of retinoic acid receptors (RAR), </tspan>
+            <tspan x="0" y="54">with particular activity at the gamma subtype of RAR. </tspan>
+            <tspan x="0" y="73">Stimulation of RAR results in modulation of target genes </tspan>
+            <tspan x="0" y="92">which are associated with various processes, including cell </tspan>
+            <tspan x="0" y="111">differentiation and mediation of inflammation. The exact </tspan>
+            <tspan x="0" y="130">process by which trifarotene ameliorates acne is unknown.</tspan>
+        </tspan>
+        <tspan x="0" y="149" xml:space="preserve">12.2   Pharmacodynamics</tspan>
+        <tspan font-family="SofiaProCondensed-Light, Sofia Pro Condensed" font-weight="300">
+            <tspan x="0" y="168">At the approved recommended dosage, AKLIEF Cream </tspan>
+            <tspan x="0" y="187">does not prolong the QT interval to any clinically relevant </tspan>
+            <tspan x="0" y="206">extent.</tspan>
+        </tspan>
+        <tspan x="0" y="225" xml:space="preserve">12.3   Pharmacokinetics</tspan>
+        <tspan font-family="SofiaProCondensed-Light, Sofia Pro Condensed" font-weight="300">
+            <tspan x="0" y="244">Pharmacokinetics of trifarotene was evaluated in a study </tspan>
+            <tspan x="0" y="263">involving 19 adult subjects with acne vulgaris following </tspan>
+            <tspan x="0" y="282">once daily application of AKLIEF Cream for 29 days (daily </tspan>
+            <tspan x="0" y="301">dose range 1.5 g/day to 2 g/day) to the face, shoulders, </tspan>
+            <tspan x="0" y="320">chest and upper back.</tspan>
+        </tspan>
+        <tspan font-family="SofiaProCondensed-Light, Sofia Pro Condensed" font-weight="300" text-decoration="underline">
+            <tspan x="0" y="339">Absorption</tspan>
+        </tspan>
+        <tspan font-family="SofiaProCondensed-Light, Sofia Pro Condensed" font-weight="300">
+            <tspan x="0" y="358">Systemic concentrations were at steady state following 2 </tspan>
+            <tspan x="0" y="377">weeks of treatment and were quantifiable in 7 subjects. </tspan>
+            <tspan x="0" y="396">Steady state Cmax ranged from below the limit of </tspan>
+            <tspan x="0" y="415">quantification (less than 5 pg/mL) to 10 pg/mL and </tspan>
+            <tspan x="0" y="434">AUC0-24h ranged from 75 to 104 pg.h/mL in adults. No </tspan>
+            <tspan x="0" y="453">drug accumulation is expected with long-term use.</tspan>
+        </tspan>
+        <tspan font-family="SofiaProCondensed-Light, Sofia Pro Condensed" font-weight="300" text-decoration="underline">
+            <tspan x="0" y="472">Distribution</tspan>
+        </tspan>
+        <tspan font-family="SofiaProCondensed-Light, Sofia Pro Condensed" font-weight="300">
+            <tspan x="0" y="491">Plasma protein binding is approximately 99.9%.</tspan>
+        </tspan>
+        <tspan font-family="SofiaProCondensed-Light, Sofia Pro Condensed" font-weight="300" text-decoration="underline">
+            <tspan x="0" y="510">Elimination</tspan>
+        </tspan>
+        <tspan font-family="SofiaProCondensed-Light, Sofia Pro Condensed" font-weight="300">
+            <tspan x="0" y="529">The terminal half-life ranged from 2 to 9 hours.</tspan>
+        </tspan>
+        <tspan font-family="SofiaProCondensed-Lightitalic, Sofia Pro Condensed" font-weight="300" font-style="italic">
+            <tspan x="0" y="548">Metabolism</tspan>
+        </tspan>
+        <tspan font-family="SofiaProCondensed-Light, Sofia Pro Condensed" font-weight="300">
+            <tspan x="0" y="567">Trifarotene is primarily metabolized by CYP2C9, CYP3A4, </tspan>
+            <tspan x="0" y="586">CYP2C8, and to a lesser extent by CYP2B6 in vitro.</tspan>
+        </tspan>
+        <tspan font-family="SofiaProCondensed-Lightitalic, Sofia Pro Condensed" font-weight="300" font-style="italic">
+            <tspan x="0" y="605">Excretion</tspan>
+        </tspan>
+        <tspan font-family="SofiaProCondensed-Light, Sofia Pro Condensed" font-weight="300">
+            <tspan x="0" y="624">Trifarotene is primarily excreted by the feces.</tspan>
+        </tspan>
+        <tspan font-family="SofiaProCondensed-Light, Sofia Pro Condensed" font-weight="300" text-decoration="underline">
+            <tspan x="0" y="643">Specific Populations</tspan>
+        </tspan>
+        <tspan font-family="SofiaProCondensed-Lightitalic, Sofia Pro Condensed" font-weight="300" font-style="italic">
+            <tspan x="0" y="662">Pediatric Patients</tspan>
+        </tspan>
+        <tspan font-family="SofiaProCondensed-Light, Sofia Pro Condensed" font-weight="300">
+            <tspan x="0" y="681">Steady state Cmax ranged from less than 5 pg/mL to 9 pg/</tspan>
+            <tspan x="0" y="700">mL and AUC0-24h ranged from 89 to 106 pg.h/mL in </tspan>
+            <tspan x="0" y="719">pediatrics (10 to 17-years-old). Steady state conditions </tspan>
+            <tspan x="0" y="738">were achieved in patients following 2 weeks of topical </tspan>
+            <tspan x="0" y="757">administration. No drug accumulation is expected with </tspan>
+            <tspan x="0" y="776">long-term use.</tspan>
+        </tspan>
+        <tspan font-family="SofiaProCondensed-Light, Sofia Pro Condensed" font-weight="300" text-decoration="underline">
+            <tspan x="0" y="795">Drug Interactions Studies</tspan>
+        </tspan>
+        <tspan font-family="SofiaProCondensed-Lightitalic, Sofia Pro Condensed" font-weight="300" font-style="italic">
+            <tspan x="0" y="814">Clinical Studies and Model-Based Approaches</tspan>
+        </tspan>
+        <tspan font-family="SofiaProCondensed-Light, Sofia Pro Condensed" font-weight="300">
+            <tspan x="0" y="833">No clinically significant differences in the </tspan>
+            <tspan x="0" y="852">pharmacokinetics of trifarotene were predicted when used </tspan>
+            <tspan x="0" y="871">concomitantly with fluconazole (a moderate CYP2C9 and </tspan>
+            <tspan x="0" y="890">CYP3A inhibitor).</tspan>
+        </tspan>
+        <tspan font-family="SofiaProCondensed-Lightitalic, Sofia Pro Condensed" font-weight="300" font-style="italic">
+            <tspan x="0" y="909">In Vitro Studies</tspan>
+            <tspan x="0" y="928">Cytochrome P450 (CYP) Enzymes:</tspan>
+            <tspan y="928" xml:space="preserve" font-family="SofiaProCondensed-Light, Sofia Pro Condensed" font-style="normal"> AKLIEF Cream is not </tspan>
+            <tspan x="0" y="947" font-family="SofiaProCondensed-Light, Sofia Pro Condensed" font-style="normal">expected to inhibit CYP1A2, 2B6, 2C8, 2C9, 2C19, 2D6 and </tspan>
+            <tspan x="0" y="966" font-family="SofiaProCondensed-Light, Sofia Pro Condensed" font-style="normal">3A4, or induce CYP1A2, 2B6, and 3A4.</tspan>
+            <tspan x="0" y="985">Transporter Systems: </tspan>
+            <tspan y="985" font-family="SofiaProCondensed-Light, Sofia Pro Condensed" font-style="normal">AKLIEF Cream is not expected to </tspan>
+            <tspan x="0" y="1004" font-family="SofiaProCondensed-Light, Sofia Pro Condensed" font-style="normal">inhibit MATE, OATP, OAT, OCT, BCRP, P-gp, BSEP, or MPR.</tspan>
+        </tspan>
+    </text>
+    <text id="_16_HOW_SUPPLIED_STORAGE_AND_HANDLING" data-name="16  HOW SUPPLIED/STORAGE AND HANDLING" transform="translate(45 9930)" font-size="16" font-family="SofiaProCondensed-Bold, Sofia Pro Condensed" font-weight="700">
+        <tspan x="0" y="16" xml:space="preserve">16  HOW SUPPLIED/STORAGE AND HANDLING</tspan>
+    </text>
+    <text id="AKLIEF_Cream_0.005_is_provided_as_a_white_cream_supplied_in_the_following_packaging_configurations_with_corresponding_NDC_numbers:_30-gram_pump_NDC_0299-5935-30_45-gram_pump_NDC_0299-5935-45_75-gram_pump_NDC_0299-5935-75_Storage_and_Handling_" data-name="AKLIEF Cream, 0.005% is provided as a white cream supplied in the following packaging configurations with corresponding NDC numbers: •   30-gram pump    NDC 0299-5935-30 •   45-gram pump    NDC 0299-5935-45 •   75-gram pump    NDC 0299-5935-75 Storage and Handling" transform="translate(61 9951)" font-size="16" font-family="SofiaProCondensed-Light, Sofia Pro Condensed" font-weight="300">
+        <tspan x="0" y="16">AKLIEF Cream, 0.005% is provided as a white cream </tspan>
+        <tspan x="0" y="35">supplied in the following packaging configurations with </tspan>
+        <tspan x="0" y="54">corresponding NDC numbers:</tspan>
+        <tspan x="0" y="73" xml:space="preserve">•   30-gram pump  NDC 0299-5935-30</tspan>
+        <tspan x="0" y="92" xml:space="preserve">•   45-gram pump   NDC 0299-5935-45</tspan>
+        <tspan x="0" y="111" xml:space="preserve">•   75-gram pump  NDC 0299-5935-75</tspan>
+        <tspan text-decoration="underline">
+            <tspan x="0" y="130">Storage and Handling</tspan>
+        </tspan>
+        <tspan x="0" y="149">- Store at 20 to 25˚C (68 to 77˚F) with excursions permitted </tspan>
+        <tspan x="0" y="168" xml:space="preserve">   to 15°to 30°C (59° to 86°F).</tspan>
+        <tspan x="0" y="187">- Keep away from heat.</tspan>
+        <tspan x="0" y="206">- Keep out of reach of children.</tspan>
+    </text>
+    <text id="See_FDA-approved_patient_labeling_Patient_Information_._Advise_the_patient_to:_Cleanse_the_area_to_be_treated_pat_dry._Apply_AKLIEF_Cream_as_a_thin_layer_once_daily_in_the_evening_to_the_face_avoiding_the_eyes_lips_nasolabial_folds_" data-name="See FDA-approved patient labeling (Patient Information). Advise the patient to:•   Cleanse the area to be treated; pat dry. Apply AKLIEF   Cream as a thin layer once daily in the evening to the  face, avoiding the eyes, lips, nasolabial folds, " transform="translate(61 10200)" font-size="16" font-family="SofiaProCondensed-Light, Sofia Pro Condensed" font-weight="300">
+        <tspan x="0" y="16">See FDA-approved patient labeling (Patient Information).</tspan>
+        <tspan x="0" y="35">Advise the patient to:</tspan><tspan x="0" y="54" xml:space="preserve">•   Cleanse the area to be treated; pat dry. Apply AKLIEF   </tspan><tspan x="0" y="73" xml:space="preserve">     Cream as a thin layer once daily in the evening to the </tspan>
+        <tspan x="0" y="92" xml:space="preserve">     face, avoiding the eyes, lips, nasolabial folds, and </tspan>
+        <tspan x="0" y="111" xml:space="preserve">     mucous membranes. A thin layer of AKLIEF Cream may </tspan>
+        <tspan x="0" y="130" xml:space="preserve">     also be applied to the chest, shoulders, and back.</tspan>
+        <tspan x="0" y="149" xml:space="preserve">•   Avoid applying AKLIEF Cream to damaged skin (such as </tspan>
+        <tspan x="0" y="168" xml:space="preserve">     cuts, abrasions), eczematous areas, and sunburned </tspan>
+        <tspan x="0" y="187" xml:space="preserve">     skin.</tspan>
+        <tspan x="0" y="206" xml:space="preserve">•   Reduce the risk of such irritation, use a moisturizer from </tspan>
+        <tspan x="0" y="225" xml:space="preserve">     the start of treatment, and, if appropriate, reduce the </tspan>
+        <tspan x="0" y="244" xml:space="preserve">     frequency of application of AKLIEF Cream or suspend </tspan>
+        <tspan x="0" y="263" xml:space="preserve">     use temporarily. AKLIEF Cream may cause irritation such </tspan>
+        <tspan x="0" y="282" xml:space="preserve">     as erythema, scaling, dryness, and stinging or burning.</tspan>
+        <tspan x="0" y="301" xml:space="preserve">•   Minimize exposure to sunlight, including sunlamps and  </tspan>
+        <tspan x="0" y="320" xml:space="preserve">     phototherapy devices.</tspan>
+        <tspan x="0" y="339" xml:space="preserve">•   Use sunscreen products and protective apparel (e.g., </tspan>
+        <tspan x="0" y="358" xml:space="preserve">     hat) over treated areas when exposure to sunlight </tspan>
+        <tspan x="0" y="377" xml:space="preserve">     cannot be avoided.</tspan>
+        <tspan x="0" y="396" xml:space="preserve">•   Avoid concomitant use of other potentially irritating </tspan>
+        <tspan x="0" y="415" xml:space="preserve">     topical products (medicated or not).</tspan>
+        <tspan x="0" y="434" xml:space="preserve">•   Use AKLIEF Cream on the smallest area of skin and for </tspan>
+        <tspan x="0" y="453" xml:space="preserve">     the shortest duration possible while breastfeeding. </tspan>
+        <tspan x="0" y="472" xml:space="preserve">     Advise breastfeeding women not to apply AKLIEF Cream </tspan>
+        <tspan x="0" y="491" xml:space="preserve">     directly to the nipple and areola to avoid direct infant </tspan>
+        <tspan x="0" y="510" xml:space="preserve">     exposure.</tspan>
+    </text>
+    <text id="Marketed_by:_GALDERMA_LABORATORIES_L.P._Fort_Worth_Texas_76177_USA_All_trademarks_are_the_property_of_their_respective_owners._Made_in_Canada_This_Patient_Information_has_been_approved_by_the_U.S._Food_and_Drug_Administration._Issued:_10_2019_P54485-" data-name="Marketed by: GALDERMA LABORATORIES, L.P., Fort Worth, Texas 76177 USA All trademarks are the property of their respective owners. Made in Canada This Patient Information has been approved by the U.S. Food and Drug Administration. Issued: 10/2019P54485-" font-size="16" font-family="SofiaProCondensed-Light, Sofia Pro Condensed" font-weight="300" transform="translate(61 10725.10200)">
+        <tspan x="0" y="12">Marketed by:</tspan>
+        <tspan x="0" y="31">GALDERMA LABORATORIES, L.P., Fort Worth, Texas 76177 USA</tspan>
+        <tspan x="0" y="50">All trademarks are the property of their respective owners.</tspan>
+        <tspan x="0" y="69">Made in Canada</tspan>
+    </text>
+    <text id="_17_PATIENT_COUNSELING_INFORMATION" data-name="17  PATIENT COUNSELING INFORMATION" transform="translate(45 10180)" font-size="16" font-family="SofiaProCondensed-Bold, Sofia Pro Condensed" font-weight="700">
+        <tspan x="0" y="16" xml:space="preserve">17  PATIENT COUNSELING INFORMATION</tspan>
+    </text>
+    <text id="_1_INDICATIONS_AND_USAGE_AKLIEF_Cream_is_a_retinoid_indicated_for_the_topical_treatment_of_acne_vulgaris_in_patients_9_years_of_age_and_older._2_DOSAGE_AND_ADMINISTRATION_Apply_a_thin_layer_of_AKLIEF_Cream_to_the_affected_areas_" data-name="1   INDICATIONS AND USAGE AKLIEF Cream is a retinoid indicated for the topical  treatment of acne vulgaris in patients 9 years of age and  older. 2   DOSAGE AND ADMINISTRATION Apply a thin layer of AKLIEF Cream to the affected areas  " transform="translate(45 1711)" font-size="16" font-family="SofiaProCondensed-Bold, Sofia Pro Condensed" font-weight="700">
+        <tspan x="0" y="16" xml:space="preserve">1   INDICATIONS AND USAGE</tspan>
+        <tspan font-family="SofiaProCondensed-Light, Sofia Pro Condensed" font-weight="300">
+            <tspan x="0" y="35" xml:space="preserve">     AKLIEF Cream is a retinoid indicated for the topical </tspan>
+            <tspan x="0" y="54" xml:space="preserve">     treatment of acne vulgaris in patients 9 years of age and </tspan>
+            <tspan x="0" y="73" xml:space="preserve">     older.</tspan>
+        </tspan>
+        <tspan x="0" y="92" xml:space="preserve">2   DOSAGE AND ADMINISTRATION</tspan>
+        <tspan font-family="SofiaProCondensed-Light, Sofia Pro Condensed" font-weight="300">
+            <tspan x="0" y="111" xml:space="preserve">     Apply a thin layer of AKLIEF Cream to the affected areas </tspan>
+            <tspan x="0" y="130" xml:space="preserve">     once daily, in the evening, on clean and dry skin.</tspan>
+            <tspan x="0" y="149" xml:space="preserve">     •   One pump actuation should be enough to cover the face </tspan>
+            <tspan x="0" y="168" xml:space="preserve">          (i.e., forehead, cheeks, nose, and chin).</tspan>
+            <tspan x="0" y="187" xml:space="preserve">     •   Two actuations of the pump should be enough to cover </tspan>
+            <tspan x="0" y="206" xml:space="preserve">          the upper trunk (i.e., reachable upper back, shoulders </tspan>
+            <tspan x="0" y="225" xml:space="preserve">          and chest). One additional pump actuation may be used </tspan>
+            <tspan x="0" y="244" xml:space="preserve">          for middle and lower back if acne is present.</tspan>
+            <tspan x="0" y="263" xml:space="preserve">     The use of a moisturizer is recommended as frequently as  </tspan>
+            <tspan x="0" y="282" xml:space="preserve">     needed from the initiation of treatment.</tspan>
+            <tspan x="0" y="301" xml:space="preserve">     Avoid contact with the eyes, lips, paranasal creases,</tspan>
+            <tspan x="0" y="320" xml:space="preserve">     mucous membranes.</tspan>
+            <tspan x="0" y="339" xml:space="preserve">     AKLIEF Cream is for topical use only. Not for oral,</tspan>
+            <tspan x="0" y="358" xml:space="preserve">     ophthalmic, or intravaginal use.</tspan>
+        </tspan>
+        <tspan x="0" y="377" xml:space="preserve">3   DOSAGE FORMS AND STRENGTHS</tspan>
+        <tspan font-family="SofiaProCondensed-Light, Sofia Pro Condensed" font-weight="300">
+            <tspan x="0" y="396" xml:space="preserve">     Cream: 0.005%. Each gram of AKLIEF Cream contains 50 </tspan>
+            <tspan x="0" y="415" xml:space="preserve">     mcg of trifarotene in a white cream.</tspan>
+        </tspan>
+        <tspan x="0" y="434" xml:space="preserve">4   CONTRAINDICATIONS</tspan>
+        <tspan font-family="SofiaProCondensed-Light, Sofia Pro Condensed" font-weight="300">
+            <tspan x="0" y="453" xml:space="preserve">     None</tspan>
+        </tspan>
+        <tspan x="0" y="472" xml:space="preserve">5   WARNINGS AND PRECAUTIONS</tspan>
+        <tspan x="0" y="491" xml:space="preserve">     5.1   Skin Irritation</tspan>
+        <tspan font-family="SofiaProCondensed-Light, Sofia Pro Condensed" font-weight="300">
+            <tspan x="0" y="510" xml:space="preserve">     Patients using AKLIEF Cream may experience erythema, </tspan>
+            <tspan x="0" y="529" xml:space="preserve">     scaling, dryness, and stinging/burning. Maximum severity </tspan>
+            <tspan x="0" y="548" xml:space="preserve">     of these reactions typically occurred within the first 4 weeks </tspan>
+            <tspan x="0" y="567" xml:space="preserve">     of treatment, and severity decreased with continued use of </tspan>
+            <tspan x="0" y="586" xml:space="preserve">     the medication. Depending upon the severity of these </tspan>
+            <tspan x="0" y="605" xml:space="preserve">     adverse reactions, instruct patients to use a moisturizer, </tspan>
+            <tspan x="0" y="624" xml:space="preserve">     reduce the frequency of application of AKLIEF Cream, or </tspan>
+            <tspan x="0" y="643" xml:space="preserve">     suspend use temporarily. If severe reactions persist the </tspan>
+            <tspan x="0" y="662" xml:space="preserve">     treatment may be discontinued.</tspan>
+            <tspan x="0" y="681" xml:space="preserve">     Avoid application of AKLIEF Cream to cuts, abrasions, or </tspan>
+            <tspan x="0" y="700" xml:space="preserve">     eczematous or sunburned skin. Use of “waxing” as a </tspan>
+            <tspan x="0" y="719" xml:space="preserve">     depilatory method should be avoided on skin treated with </tspan>
+            <tspan x="0" y="738" xml:space="preserve">     AKLIEF Cream.</tspan>
+        </tspan>
+        <tspan x="0" y="757" xml:space="preserve">     5.2   Ultraviolet Light and Environmental Exposure</tspan>
+        <tspan font-family="SofiaProCondensed-Light, Sofia Pro Condensed" font-weight="300">
+            <tspan x="0" y="776" xml:space="preserve">     Minimize unprotected exposure to ultraviolet rays </tspan>
+            <tspan x="0" y="795" xml:space="preserve">     (including sunlight and sunlamps) during treatment with </tspan>
+            <tspan x="0" y="814" xml:space="preserve">     AKLIEF Cream. Warn patients who normally experience </tspan>
+            <tspan x="0" y="833" xml:space="preserve">     high levels of sun exposure and those with inherent </tspan>
+            <tspan x="0" y="852" xml:space="preserve">     sensitivity to sun to exercise caution. Use of sunscreen </tspan>
+            <tspan x="0" y="871" xml:space="preserve">     products and protective clothing over treated areas is </tspan>
+            <tspan x="0" y="890" xml:space="preserve">     recommended when exposure cannot be avoided.</tspan>
+        </tspan>
+        <tspan x="0" y="909" xml:space="preserve">6   ADVERSE REACTIONS</tspan>
+        <tspan x="0" y="928" xml:space="preserve">     6.1   Clinical trials experience</tspan>
+        <tspan font-family="SofiaProCondensed-Light, Sofia Pro Condensed" font-weight="300">
+            <tspan x="0" y="947" xml:space="preserve">     Because clinical trials are conducted under widely varying </tspan>
+            <tspan x="0" y="966" xml:space="preserve">     conditions, adverse reaction rates observed in the clinical </tspan>
+            <tspan x="0" y="985" xml:space="preserve">     trials of a drug cannot be directly compared with rates in </tspan>
+            <tspan x="0" y="1004" xml:space="preserve">     the clinical trials of another drug and may not reflect rates </tspan>
+            <tspan x="0" y="1023" xml:space="preserve">     observed in practice. In the three Phase 3 clinical trials, a </tspan>
+            <tspan x="0" y="1042" xml:space="preserve">     total of 1673 subjects with acne vulgaris on the face and </tspan>
+            <tspan x="0" y="1061" xml:space="preserve">     trunk, 9 years and older were exposed to AKLIEF Cream. </tspan>
+            <tspan x="0" y="1080" xml:space="preserve">     Of these, 1220 subjects were treated once daily for up to 12 </tspan>
+            <tspan x="0" y="1099" xml:space="preserve">     weeks and 453 were treated once daily for up to 1 year.</tspan>
+            <tspan x="0" y="1118"></tspan>
+            <tspan x="0" y="1137" xml:space="preserve">     Adverse reactions reported in the 2 randomized, double-</tspan>
+            <tspan x="0" y="1156" xml:space="preserve">     blind, vehicle-controlled 12-week clinical trials in ≥1.0% of </tspan>
+            <tspan x="0" y="1175" xml:space="preserve">     subjects treated with AKLIEF Cream (and for which the rate </tspan>
+            <tspan x="0" y="1194" xml:space="preserve">     exceeded the rate for vehicle), as well as the corresponding </tspan>
+            <tspan x="0" y="1213" xml:space="preserve">     rates reported in subjects treated with the vehicle cream </tspan>
+            <tspan x="0" y="1232" xml:space="preserve">     are presented in Table 1.</tspan>
+        </tspan>
+    </text>
+    <text id="FULL_PRESCRIBING_INFORMATION" data-name="FULL PRESCRIBING INFORMATION" transform="translate(0 1686)" font-size="16" font-family="SofiaProCondensed-Bold, Sofia Pro Condensed" font-weight="700">
+        <tspan x="120.496" y="16">FULL PRESCRIBING INFORMATION</tspan>
+    </text>
+    <text id="Table_1._Adverse_Reactions_Occurring_in_1.0_of_Subjects_with_Acne_Vulgaris_of_the_Face_and_Trunk_in_the_Two_12-week_Phase_3_Clinical_Trials" data-name="Table 1. Adverse Reactions Occurring in ≥ 1.0% of Subjects with Acne Vulgaris of the Face and Trunk in the Two 12-week Phase 3 Clinical Trials" transform="translate(45 2975)" fill="#1a1818" font-size="16" font-family="SofiaProCondensed-Bold, Sofia Pro Condensed" font-weight="700">
+        <tspan x="0" y="16">Table 1. Adverse Reactions Occurring in ≥ 1.0% of Subjects </tspan>
+        <tspan x="0" y="35">with Acne Vulgaris of the Face and Trunk in the Two 12-week </tspan>
+        <tspan x="0" y="54">Phase 3 Clinical Trials</tspan>
+    </text>
+    <text id="Table_2._Application_Site_Tolerability_Reactions_at_Any_Post_Baseline_Visit" data-name="Table 2. Application Site Tolerability Reactions at Any Post Baseline Visit" transform="translate(45 3735.074)" fill="#1a1818" font-size="16" font-family="SofiaProCondensed-Bold, Sofia Pro Condensed" font-weight="700" letter-spacing="-0.01em">
+        <tspan x="0" y="16">Table 2. Application Site Tolerability Reactions at Any Post </tspan>
+        <tspan x="0" y="35">Baseline Visit</tspan>
+    </text>
+    <text id="Table_3._Acne_of_the_Face_Efficacy_Results_at_Week_12_Intent-to-Treat_Multiple_Imputation_" data-name="Table 3. Acne of the Face Efficacy Results at Week 12 (Intent-to-Treat; Multiple Imputation)" transform="translate(45 9101)" font-size="16" font-family="SofiaProCondensed-Bold, Sofia Pro Condensed" font-weight="700">
+        <tspan x="0" y="16">Table 3. Acne of the Face Efficacy Results at Week 12 </tspan>
+        <tspan x="0" y="35">(Intent-to-Treat; Multiple Imputation)</tspan>
+    </text>
+    <text id="Table_4._Acne_of_the_Trunk_Efficacy_Results_at_Week_12_Intent-to-Treat_on_the_Trunk_Multiple_Imputation_" data-name="Table 4. Acne of the Trunk Efficacy Results at Week 12 (Intent-to-Treat on the Trunk; Multiple Imputation)" transform="translate(45 9516)" font-size="16" font-family="SofiaProCondensed-Bold, Sofia Pro Condensed" font-weight="700">
+        <tspan x="0" y="16">Table 4. Acne of the Trunk Efficacy Results at Week 12 </tspan>
+        <tspan x="0" y="35">(Intent-to-Treat on the Trunk; Multiple Imputation)</tspan>
+    </text>
+    <text id="Important:_AKLIEF_Cream_is_for_use_on_the_skin_only._Do_not_use_AKLIEF_Cream_in_your_mouth_eyes_or_vagina._What_is_AKLIEF_Cream_AKLIEF_Cream_is_a_prescription_medicine_used_on_the_skin_topical_to_treat_acne_vulgaris_in_people_9_years_of_age_and_olde" data-name="Important: AKLIEF Cream is for use on the skin only.  Do not use AKLIEF Cream in your mouth, eyes, or vagina. What is AKLIEF Cream?AKLIEF Cream is a prescription medicine used on the skin (topical) to treat acne vulgaris in people 9 years of age and olde" transform="translate(45 10860)" font-size="16" font-family="SofiaProCondensed-Bold, Sofia Pro Condensed" font-weight="700">
+        <tspan x="0" y="16">Important:</tspan>
+        <tspan y="16" xml:space="preserve" font-family="SofiaProCondensed-Light, Sofia Pro Condensed" font-weight="300"> AKLIEF Cream is for use on the skin only.  Do not </tspan>
+        <tspan x="0" y="35" font-family="SofiaProCondensed-Light, Sofia Pro Condensed" font-weight="300">use AKLIEF Cream in your mouth, eyes, or vagina.</tspan>
+        <tspan font-family="SofiaProCondensed-Light, Sofia Pro Condensed" font-weight="300">
+            <tspan x="0" y="54"></tspan>
+        </tspan>
+        <tspan x="0" y="73">What is AKLIEF Cream?</tspan>
+        <tspan font-family="SofiaProCondensed-Light, Sofia Pro Condensed" font-weight="300">
+            <tspan x="0" y="92">AKLIEF Cream is a prescription medicine used on the skin </tspan>
+            <tspan x="0" y="111">(topical) to treat acne vulgaris in people 9 years of age and </tspan>
+            <tspan x="0" y="130">older.</tspan><tspan x="0" y="149">It is not known if AKLIEF Cream is safe and effective in children </tspan>
+            <tspan x="0" y="168">younger than 9 years old.</tspan>
+            <tspan x="0" y="187"></tspan>
+        </tspan>
+        <tspan x="0" y="206">Before using AKLIEF Cream, tell your healthcare provider </tspan>
+        <tspan x="0" y="225">about all of your medical conditions, including if you:</tspan>
+        <tspan font-family="SofiaProCondensed-Light, Sofia Pro Condensed" font-weight="300">
+            <tspan x="0" y="244" xml:space="preserve">•   have skin problems, including eczema, cuts or sunburn</tspan>
+            <tspan x="0" y="263" xml:space="preserve">•   are pregnant or planning to become pregnant. It is not </tspan>
+            <tspan x="0" y="282" xml:space="preserve">     known if AKLIEF Cream will harm your unborn baby.</tspan>
+            <tspan x="0" y="301" xml:space="preserve">•   are breastfeeding or plan to breastfeed. It is not known if </tspan>
+            <tspan x="0" y="320" xml:space="preserve">     AKLIEF Cream passes into your breast milk. Breastfeeding </tspan>
+            <tspan x="0" y="339" xml:space="preserve">     women should use AKLIEF Cream on the smallest area of </tspan>
+            <tspan x="0" y="358" xml:space="preserve">     skin and for the shortest time needed while breastfeeding. </tspan>
+            <tspan x="0" y="377" xml:space="preserve">     Do not apply AKLIEF Cream to the nipple and areola to </tspan>
+            <tspan x="0" y="396" xml:space="preserve">     avoid contact with your baby.</tspan>
+        </tspan>
+        <tspan x="0" y="415">Tell your healthcare provider about all the medicines you </tspan>
+        <tspan x="0" y="434">take,</tspan>
+        <tspan y="434" xml:space="preserve" font-family="SofiaProCondensed-Light, Sofia Pro Condensed" font-weight="300"> including prescription and over-the-counter medicines, </tspan>
+        <tspan x="0" y="453" font-family="SofiaProCondensed-Light, Sofia Pro Condensed" font-weight="300">vitamins and herbal supplements.</tspan>
+        <tspan font-family="SofiaProCondensed-Light, Sofia Pro Condensed" font-weight="300">
+            <tspan x="0" y="472">Especially tell your healthcare provider if you use any other </tspan>
+            <tspan x="0" y="491">medicine for acne.</tspan>
+            <tspan x="0" y="510"></tspan>
+        </tspan>
+        <tspan x="0" y="529">How should I use AKLIEF Cream?</tspan>
+        <tspan font-family="SofiaProCondensed-Light, Sofia Pro Condensed" font-weight="300">
+            <tspan x="0" y="548" xml:space="preserve">•   Use AKLIEF Cream exactly as your healthcare provider tells </tspan>
+            <tspan x="0" y="567" xml:space="preserve">     you to use it. Apply a thin layer of AKLIEF Cream over the </tspan>
+            <tspan x="0" y="586" xml:space="preserve">     affected areas 1 time each day, in the evening.</tspan>
+        </tspan>
+        <tspan x="0" y="605">Applying AKLIEF Cream:</tspan>
+        <tspan font-family="SofiaProCondensed-Light, Sofia Pro Condensed" font-weight="300">
+            <tspan x="0" y="624" xml:space="preserve">•   Wash the area where the cream will be applied and pat </tspan>
+            <tspan x="0" y="643" xml:space="preserve">     dry.</tspan>
+            <tspan x="0" y="662" xml:space="preserve">•   If you receive a sample tube of AKLIEF Cream, follow your </tspan>
+            <tspan x="0" y="681" xml:space="preserve">     healthcare provider’s instructions about how much to </tspan>
+            <tspan x="0" y="700" xml:space="preserve">     apply.</tspan>
+            <tspan x="0" y="719" xml:space="preserve">•   AKLIEF Cream comes in a pump.</tspan>
+            <tspan x="0" y="738" xml:space="preserve">    -   Press down on (depress) the pump 1 time to dispense a </tspan>
+            <tspan x="0" y="757" xml:space="preserve">         small amount of AKLIEF Cream and spread a thin layer </tspan>
+            <tspan x="0" y="776" xml:space="preserve">         over your face (forehead, cheeks, nose, and chin). Avoid </tspan>
+            <tspan x="0" y="795" xml:space="preserve">         contact with your eyes, lips, mouth, and the corners of </tspan>
+            <tspan x="0" y="814" xml:space="preserve">         your nose.</tspan>
+            <tspan x="0" y="833" xml:space="preserve">    -   Press down on the pump 2 times to dispense enough </tspan>
+            <tspan x="0" y="852" xml:space="preserve">         AKLIEF Cream to apply a thin layer to cover your upper </tspan>
+            <tspan x="0" y="871" xml:space="preserve">         trunk (the area of your upper back that you can reach, </tspan>
+            <tspan x="0" y="890" xml:space="preserve">         shoulders, and chest). One more pump may be used to </tspan>
+            <tspan x="0" y="909" xml:space="preserve">         apply a thin layer of AKLIEF Cream to your middle and </tspan>
+            <tspan x="0" y="928" xml:space="preserve">         lower back, if acne is present.</tspan>
+            <tspan x="0" y="947" xml:space="preserve">•   When you begin treatment with AKLIEF Cream, you should </tspan>
+            <tspan x="0" y="966" xml:space="preserve">     begin applying a moisturizer on your skin as often as </tspan>
+            <tspan x="0" y="985" xml:space="preserve">     needed. </tspan>
+            <tspan y="985" font-family="SofiaProCondensed-Bold, Sofia Pro Condensed" font-weight="700">See “Local skin irritation”</tspan>
+            <tspan y="985" xml:space="preserve"> below.</tspan>
+            <tspan x="0" y="1004"></tspan>
+        </tspan>
+        <tspan x="0" y="1023">What should I avoid while using AKLIEF Cream?</tspan>
+        <tspan font-family="SofiaProCondensed-Light, Sofia Pro Condensed" font-weight="300">
+            <tspan x="0" y="1042" xml:space="preserve">•   Minimize exposure to sunlight. You should avoid using </tspan>
+            <tspan x="0" y="1061" xml:space="preserve">     sunlamps, tanning beds, and ultraviolet light during </tspan>
+            <tspan x="0" y="1080" xml:space="preserve">     treatment with AKLIEF Cream. </tspan>
+            <tspan x="0" y="1099" xml:space="preserve">     If you have to be in sunlight or are sensitive to sunlight, use </tspan>
+            <tspan x="0" y="1118" xml:space="preserve">     a sunscreen with a SPF (sun protection factor) of 15 or </tspan>
+            <tspan x="0" y="1137" xml:space="preserve">     more, and wear protective clothing and a wide-brimmed </tspan>
+            <tspan x="0" y="1156" xml:space="preserve">     hat to cover the treated areas.</tspan>
+            <tspan x="0" y="1175" xml:space="preserve">•   Avoid using AKLIEF Cream on skin areas with cuts, </tspan>
+            <tspan x="0" y="1194" xml:space="preserve">    abrasions, eczema, or on sunburned skin.</tspan>
+            <tspan x="0" y="1213" xml:space="preserve">•   Avoid using skin products that may dry or irritate your skin, </tspan>
+            <tspan x="0" y="1232" xml:space="preserve">    such as: </tspan>
+            <tspan x="0" y="1251" xml:space="preserve">    -   medicated or abrasive soaps and cleansers</tspan>
+            <tspan x="0" y="1270" xml:space="preserve">    -   soaps, cleansers, and cosmetics that have strong skin </tspan>
+            <tspan x="0" y="1289" xml:space="preserve">         drying effects</tspan>
+            <tspan x="0" y="1308" xml:space="preserve">    -   products that contain high amounts of alcohol</tspan>
+            <tspan x="0" y="1327" xml:space="preserve">•   Avoid the use of “waxing” as a hair removal method on skin </tspan>
+            <tspan x="0" y="1346" xml:space="preserve">    treated with AKLIEF Cream.</tspan>
+            <tspan x="0" y="1365"></tspan>
+        </tspan>
+        <tspan x="0" y="1384">What are the possible side effects of AKLIEF Cream?</tspan>
+        <tspan font-family="SofiaProCondensed-Light, Sofia Pro Condensed" font-weight="300">
+            <tspan x="0" y="1403">AKLIEF Cream may cause serious side effects including:</tspan>
+            <tspan x="0" y="1422" xml:space="preserve">•   </tspan>
+            <tspan y="1422" font-family="SofiaProCondensed-Bold, Sofia Pro Condensed" font-weight="700">Local skin irritation.</tspan>
+            <tspan y="1422" xml:space="preserve"> Local skin reactions are common with </tspan>
+            <tspan x="0" y="1441" xml:space="preserve">     AKLIEF Cream, are most likely to happen during the first 4 </tspan>
+            <tspan x="0" y="1460" xml:space="preserve">     weeks of treatment and may decrease with continued use </tspan>
+            <tspan x="0" y="1479" xml:space="preserve">     of AKLIEF Cream. Signs and symptoms of local skin </tspan>
+            <tspan x="0" y="1498" xml:space="preserve">     reactions include:</tspan>
+            <tspan x="0" y="1517" xml:space="preserve">      -   redness      - dryness</tspan>
+            <tspan x="0" y="1536" xml:space="preserve">      -   scaling       - stinging or burning</tspan>
+            <tspan x="0" y="1555" xml:space="preserve">     To help reduce your risk of developing these local skin </tspan>
+            <tspan x="0" y="1574" xml:space="preserve">     reactions, when you begin treatment with AKLIEF Cream, </tspan>
+            <tspan x="0" y="1593" xml:space="preserve">     you should begin applying a moisturizer on your skin as </tspan>
+            <tspan x="0" y="1612" xml:space="preserve">     often as needed. </tspan>
+            <tspan x="0" y="1631" xml:space="preserve">     Tell your healthcare provider if you develop symptoms of a </tspan>
+            <tspan x="0" y="1650" xml:space="preserve">     local skin reaction. Your doctor may tell you to use AKLIEF </tspan>
+            <tspan x="0" y="1669" xml:space="preserve">     Cream less often, or temporarily, or permanently stop your </tspan>
+            <tspan x="0" y="1688" xml:space="preserve">     treatment with AKLIEF Cream.</tspan>
+            <tspan x="0" y="1707" xml:space="preserve">     The most common side effects of AKLIEF Cream include: </tspan>
+            <tspan x="0" y="1726" xml:space="preserve">     itching and sunburn. </tspan>
+            <tspan y="1726" font-family="SofiaProCondensed-Bold, Sofia Pro Condensed" font-weight="700">See “What should I avoid while using </tspan>
+        </tspan>
+        <tspan x="0" y="1745" xml:space="preserve">      AKLIEF Cream”.</tspan>
+        <tspan font-family="SofiaProCondensed-Light, Sofia Pro Condensed" font-weight="300">
+            <tspan x="0" y="1764" xml:space="preserve">     These are not all the possible side effects of AKLIEF Cream. </tspan>
+            <tspan x="0" y="1783" xml:space="preserve">     For more information, ask your healthcare provider or </tspan>
+            <tspan x="0" y="1802" xml:space="preserve">     pharmacist.</tspan>
+            <tspan x="0" y="1821" xml:space="preserve">     Call your doctor for medical advice about side effects. You </tspan>
+            <tspan x="0" y="1840" xml:space="preserve">     may report side effects to FDA at 1-800-FDA-1088.</tspan>
+            <tspan x="0" y="1859" xml:space="preserve">     You may also report side effects to GALDERMA </tspan>
+            <tspan x="0" y="1878" xml:space="preserve">     LABORATORIES, L.P. at 1-866-735-4137.</tspan>
+            <tspan x="0" y="1897"></tspan>
+        </tspan>
+        <tspan x="0" y="1916">How should I store AKLIEF Cream?</tspan>
+        <tspan font-family="SofiaProCondensed-Light, Sofia Pro Condensed" font-weight="300">
+            <tspan x="0" y="1935">• Store AKLIEF Cream at room temperature, 68° to 77° F (20° to </tspan>
+            <tspan x="0" y="1954" xml:space="preserve">   25°C).</tspan>
+            <tspan x="0" y="1973">• Keep AKLIEF Cream away from heat.</tspan>
+            <tspan x="0" y="1992">• If you receive a sample tube of AKLIEF Cream from your </tspan>
+            <tspan x="0" y="2011">healthcare provider, keep the tube tightly closed.</tspan>
+        </tspan>
+        <tspan x="0" y="2030">Keep AKLIEF Cream and all medicines out of the reach of </tspan>
+        <tspan x="0" y="2049">children.</tspan>
+        <tspan font-family="SofiaProCondensed-Light, Sofia Pro Condensed" font-weight="300">
+            <tspan x="0" y="2068"></tspan>
+        </tspan>
+        <tspan x="0" y="2087">General information about the safe and effective use of </tspan>
+        <tspan x="0" y="2106">AKLIEF Cream.</tspan>
+        <tspan font-family="SofiaProCondensed-Light, Sofia Pro Condensed" font-weight="300">
+            <tspan x="0" y="2125">Medicines are sometimes prescribed for purposes other than </tspan>
+            <tspan x="0" y="2144">those listed in a Patient Information Leaflet. Do not use AKLIEF </tspan>
+            <tspan x="0" y="2163">Cream for a condition for which it was not prescribed. Do not </tspan>
+            <tspan x="0" y="2182">give AKLIEF Cream to other people, even if they have the </tspan>
+            <tspan x="0" y="2201">same symptoms you have. It may harm them. You can ask </tspan>
+            <tspan x="0" y="2220">your pharmacist or healthcare provider for information about </tspan>
+            <tspan x="0" y="2239">AKLIEF Cream that is written for health professionals.</tspan>
+            <tspan x="0" y="2258"></tspan>
+        </tspan>
+        <tspan x="0" y="2277">What are the ingredients in AKLIEF Cream?</tspan>
+        <tspan x="0" y="2296">Active ingredient: </tspan>
+        <tspan y="2296" font-family="SofiaProCondensed-Light, Sofia Pro Condensed" font-weight="300">trifarotene</tspan>
+        <tspan x="0" y="2315">Inactive ingredients:</tspan>
+        <tspan y="2315" xml:space="preserve" font-family="SofiaProCondensed-Light, Sofia Pro Condensed" font-weight="300"> allantoin, copolymer of acrylamide and </tspan>
+        <tspan x="0" y="2334" font-family="SofiaProCondensed-Light, Sofia Pro Condensed" font-weight="300">sodium acryloyldimethyltaurate, dispersion 40% in </tspan>
+        <tspan x="0" y="2353" font-family="SofiaProCondensed-Light, Sofia Pro Condensed" font-weight="300">isohexadecane, cyclomethicone, 5% ethanol, medium-chain </tspan>
+        <tspan x="0" y="2372" font-family="SofiaProCondensed-Light, Sofia Pro Condensed" font-weight="300">triglycerides, phenoxyethanol, propylene glycol, purified </tspan>
+        <tspan x="0" y="2391" font-family="SofiaProCondensed-Light, Sofia Pro Condensed" font-weight="300">water.</tspan>
+    </text>
+    <line id="Line_91" data-name="Line 91" x2="340" transform="translate(45.5 10817.026)" fill="none" stroke="#1a1818" stroke-width="1"/>
+    <text id="Patient_Information_AKLIEF_trifarotene_cream" data-name="Patient Information AKLIEF® (trifarotene) cream" transform="translate(66 10820)" font-size="16" font-family="SofiaProCondensed-Bold, Sofia Pro Condensed" font-weight="700">
+        <tspan x="101.416" y="16">Patient Information </tspan>
+        <tspan x="76.088" y="35">AKLIEF® (trifarotene) cream</tspan>
+    </text>
+    <text id="_-_WARNINGS_AND_PRECAUTIONS_-" data-name="——-—————WARNINGS AND PRECAUTIONS————–———-" transform="translate(45 592)" font-size="16" font-family="SofiaProCondensed-Bold, Sofia Pro Condensed" font-weight="700">
+        <tspan x="1.552" y="16">——-—————WARNINGS AND PRECAUTIONS————–———-</tspan>
+    </text>
+    <text id="_Skin_irritation:_Erythema_scaling_dryness_and_stinging_burning_may_be_experienced_with_use_of_AKLIEF_Cream._Use_a_moisturizer_from_the_initiation_of_treatment_and_if_appropriate_reduce_the_frequency_of_application_of_AKLIEF_" data-name="•   Skin irritation: Erythema, scaling, dryness, and stinging/ burning may be experienced with use of AKLIEF Cream.  Use a moisturizer from the initiation of treatment, and, if  appropriate, reduce the frequency of application of AKLIEF " transform="translate(45 624)" font-size="16" font-family="SofiaProCondensed-Light, Sofia Pro Condensed" font-weight="300">
+        <tspan x="0" y="16" xml:space="preserve">•   Skin irritation: Erythema, scaling, dryness, and stinging/</tspan>
+        <tspan x="0" y="35" xml:space="preserve">     burning may be experienced with use of AKLIEF Cream. </tspan>
+        <tspan x="0" y="54" xml:space="preserve">     Use a moisturizer from the initiation of treatment, and, if </tspan>
+        <tspan x="0" y="73" xml:space="preserve">     appropriate, reduce the frequency of application of AKLIEF </tspan>
+        <tspan x="0" y="92" xml:space="preserve">     Cream, suspend or discontinue use. (5.1)</tspan>
+        <tspan x="0" y="111" xml:space="preserve">•   Ultraviolet Light and Environmental Exposure: Minimize </tspan>
+        <tspan x="0" y="130" xml:space="preserve">     exposure to sunlight and sunlamps. Use sunscreen and </tspan>
+        <tspan x="0" y="149" xml:space="preserve">     protective clothing over treated areas when exposure </tspan>
+        <tspan x="0" y="168" xml:space="preserve">     cannot be avoided. (5.2)</tspan>
+        <tspan font-family="SofiaProCondensed-Bold, Sofia Pro Condensed" font-weight="700">
+            <tspan x="0" y="187"></tspan>
+            <tspan x="0" y="206">—————-————ADVERSE REACTIONS——————————</tspan>
+        </tspan>
+        <tspan x="0" y="225">Most common adverse reactions (incidence ≥ 1%) in patients </tspan>
+        <tspan x="0" y="244">treated with AKLIEF Cream were application site irritation, </tspan>
+        <tspan x="0" y="263">application site pruritus, and sunburn (6).</tspan>
+        <tspan x="0" y="282"></tspan>
+        <tspan font-family="SofiaProCondensed-Bold, Sofia Pro Condensed" font-weight="700">
+            <tspan x="0" y="301">To report SUSPECTED ADVERSE REACTIONS, contact </tspan>
+            <tspan x="0" y="320">Galderma Laboratories, L.P. at 1-866-735-4137 or </tspan>
+            <tspan x="0" y="339">FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.</tspan>
+            <tspan x="0" y="358">See 17 for PATIENT COUNSELING INFORMATION </tspan>
+            <tspan x="0" y="377" xml:space="preserve">and FDA-approved patient labeling.                       </tspan>
+            <tspan x="0" y="396">Revised: 10/2019</tspan>
+            <tspan x="0" y="415"></tspan>
+        </tspan>
+    </text>
     <text id="_11_DESCRIPTION_12_CLINICAL_PHARMACOLOGY_12.1_Mechanism_of_Action_12.2_Pharmacodynamics_12.3_Pharmacokinetics_13_NONCLINICAL_TOXICOLOGY_13.1_Carcinogenesis_Mutagenesis_Impairment_of_Fertility_14_CLINICAL_STUDIES_16_HOW_SUPPLIED_STORAGE_AND" data-name="11 DESCRIPTION 12 CLINICAL PHARMACOLOGY 12.1 Mechanism of Action 12.2 Pharmacodynamics 12.3 Pharmacokinetics 13 NONCLINICAL TOXICOLOGY
     13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility 14 CLINICAL STUDIES 16 HOW SUPPLIED/STORAGE AND" transform="translate(45 1402)" font-size="16" font-family="SofiaProCondensed-Bold, Sofia Pro Condensed" font-weight="700"><tspan x="0" y="16">11 DESCRIPTION</tspan><tspan x="0" y="35">12 CLINICAL PHARMACOLOGY</tspan><tspan font-family="SofiaProCondensed-Light, Sofia Pro Condensed" font-weight="300"><tspan x="0" y="54" xml:space="preserve">    12.1 Mechanism of Action</tspan><tspan x="0" y="73" xml:space="preserve">    12.2 Pharmacodynamics</tspan><tspan x="0" y="92" xml:space="preserve">    12.3 Pharmacokinetics</tspan></tspan><tspan x="0" y="111">13 NONCLINICAL TOXICOLOGY</tspan><tspan font-family="SofiaProCondensed-Light, Sofia Pro Condensed" font-weight="300"><tspan x="0" y="130" xml:space="preserve">    13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility</tspan></tspan><tspan x="0" y="149">14 CLINICAL STUDIES</tspan><tspan x="0" y="168">16 HOW SUPPLIED/STORAGE AND HANDLING</tspan><tspan x="0" y="187">17 PATIENT COUNSELING INFORMATION</tspan><tspan font-family="SofiaProCondensed-Light, Sofia Pro Condensed" font-weight="300"><tspan x="0" y="206">*Sections or subsections omitted from the</tspan><tspan x="0" y="225">full prescribing information are not listed.</tspan></tspan></text>
     <g id="Group_28" data-name="Group 28" transform="translate(28 -5)">
@@ -1317,40 +1951,10 @@
       <text id="Vehicle_Cream_N_596_" data-name="Vehicle  Cream(N= 596)" transform="translate(173.252 9279.47)" fill="#1a1818" font-size="12" font-family="SofiaProCondensed-Light, Sofia Pro Condensed" font-weight="300"><tspan x="14.854" y="12">Vehicle </tspan><tspan x="15.388" y="24">Cream</tspan><tspan x="11.722" y="36">(N= 596)</tspan></text>
       <text id="_19.5_-15.4_-44.8_-17.9_-35.7_" data-name="19.5% -15.4  (-44.8%) -17.9  (-35.7%)" transform="translate(173.252 9358)" fill="#1a1818" font-size="12" font-family="SofiaProCondensed-Light, Sofia Pro Condensed" font-weight="300"><tspan x="18.892" y="12">19.5%</tspan><tspan x="29.374" y="26"></tspan><tspan x="29.374" y="40"></tspan><tspan x="29.374" y="54"></tspan><tspan x="29.374" y="68"></tspan><tspan x="19.828" y="82">-15.4 </tspan><tspan x="12.958" y="96">(-44.8%)</tspan><tspan x="29.374" y="110"></tspan><tspan x="29.374" y="124"></tspan><tspan x="29.374" y="138"></tspan><tspan x="29.374" y="152"></tspan><tspan x="20.548" y="166">-17.9 </tspan><tspan x="13.498" y="180">(-35.7%)</tspan></text>
       <text id="Study_2" data-name="Study 2" transform="translate(298.577 9267.337)" font-size="12" font-family="SofiaProCondensed-Bold, Sofia Pro Condensed" font-weight="700"><tspan x="-15.744" y="0">Study 2</tspan></text>
-      <text id="AKLIEF_Cream_N_602_" data-name="AKLIEF 
-Cream 
-(N= 602)
-" transform="translate(232.245 9279.47)" fill="#1a1818" font-size="12" font-family="SofiaProCondensed-Light, Sofia Pro Condensed" font-weight="300"><tspan x="17.82" y="12">AKLIEF </tspan><tspan x="17.388" y="24">Cream </tspan><tspan x="13.878" y="36">(N= 602)</tspan><tspan x="31.374" y="48"></tspan></text>
-      <text id="_42.3_-24.2_-66.2_-30.1_-57.7_" data-name=" 42.3%
-
-
-
-
--24.2 
-(-66.2%)
-
-
-
-
--30.1 
-(-57.7%)" transform="translate(232.245 9358)" fill="#1a1818" font-size="12" font-family="SofiaProCondensed-Light, Sofia Pro Condensed" font-weight="300"><tspan x="19.17" y="12" xml:space="preserve"> 42.3%</tspan><tspan x="31.374" y="26"></tspan><tspan x="31.374" y="40"></tspan><tspan x="31.374" y="54"></tspan><tspan x="31.374" y="68"></tspan><tspan x="21.414" y="82">-24.2 </tspan><tspan x="15.192" y="96">(-66.2%)</tspan><tspan x="31.374" y="110"></tspan><tspan x="31.374" y="124"></tspan><tspan x="31.374" y="138"></tspan><tspan x="31.374" y="152"></tspan><tspan x="22.056" y="166">-30.1 </tspan><tspan x="16.164" y="180">(-57.7%)</tspan></text>
-      <text id="Vehicle_Cream_N_610_" data-name="Vehicle 
-Cream
-(N=610)
-" transform="translate(295 9279.47)" fill="#1a1818" font-size="12" font-family="SofiaProCondensed-Light, Sofia Pro Condensed" font-weight="300"><tspan x="16.354" y="12">Vehicle </tspan><tspan x="16.888" y="24">Cream</tspan><tspan x="15.298" y="36">(N=610)</tspan></text>
-      <text id="_25.7_-18.7_-51.2_-21.6_-43.9_" data-name=" 25.7%
-
-
-
-
--18.7 
-(-51.2%)
-
-
-
-
--21.6 
-(-43.9%)" transform="translate(295 9358)" fill="#1a1818" font-size="12" font-family="SofiaProCondensed-Light, Sofia Pro Condensed" font-weight="300"><tspan x="18.754" y="12" xml:space="preserve"> 25.7%</tspan><tspan x="30.874" y="26"></tspan><tspan x="30.874" y="40"></tspan><tspan x="30.874" y="54"></tspan><tspan x="30.874" y="68"></tspan><tspan x="21.652" y="82">-18.7 </tspan><tspan x="15.826" y="96">(-51.2%)</tspan><tspan x="30.874" y="110"></tspan><tspan x="30.874" y="124"></tspan><tspan x="30.874" y="138"></tspan><tspan x="30.874" y="152"></tspan><tspan x="21.616" y="166">-21.6 </tspan><tspan x="14.65" y="180">(-43.9%)</tspan></text>
+      <text id="AKLIEF_Cream_N_602_" data-name="AKLIEF Cream (N= 602)" transform="translate(232.245 9279.47)" fill="#1a1818" font-size="12" font-family="SofiaProCondensed-Light, Sofia Pro Condensed" font-weight="300"><tspan x="17.82" y="12">AKLIEF </tspan><tspan x="17.388" y="24">Cream </tspan><tspan x="13.878" y="36">(N= 602)</tspan><tspan x="31.374" y="48"></tspan></text>
+      <text id="_42.3_-24.2_-66.2_-30.1_-57.7_" data-name=" 42.3% -24.2 (-66.2%) -30.1  (-57.7%)" transform="translate(232.245 9358)" fill="#1a1818" font-size="12" font-family="SofiaProCondensed-Light, Sofia Pro Condensed" font-weight="300"><tspan x="19.17" y="12" xml:space="preserve"> 42.3%</tspan><tspan x="31.374" y="26"></tspan><tspan x="31.374" y="40"></tspan><tspan x="31.374" y="54"></tspan><tspan x="31.374" y="68"></tspan><tspan x="21.414" y="82">-24.2 </tspan><tspan x="15.192" y="96">(-66.2%)</tspan><tspan x="31.374" y="110"></tspan><tspan x="31.374" y="124"></tspan><tspan x="31.374" y="138"></tspan><tspan x="31.374" y="152"></tspan><tspan x="22.056" y="166">-30.1 </tspan><tspan x="16.164" y="180">(-57.7%)</tspan></text>
+      <text id="Vehicle_Cream_N_610_" data-name="Vehicle Cream(N=610) " transform="translate(295 9279.47)" fill="#1a1818" font-size="12" font-family="SofiaProCondensed-Light, Sofia Pro Condensed" font-weight="300"><tspan x="16.354" y="12">Vehicle </tspan><tspan x="16.888" y="24">Cream</tspan><tspan x="15.298" y="36">(N=610)</tspan></text>
+      <text id="_25.7_-18.7_-51.2_-21.6_-43.9_" data-name=" 25.7% -18.7 (-51.2%) -21.6 (-43.9%)" transform="translate(295 9358)" fill="#1a1818" font-size="12" font-family="SofiaProCondensed-Light, Sofia Pro Condensed" font-weight="300"><tspan x="18.754" y="12" xml:space="preserve"> 25.7%</tspan><tspan x="30.874" y="26"></tspan><tspan x="30.874" y="40"></tspan><tspan x="30.874" y="54"></tspan><tspan x="30.874" y="68"></tspan><tspan x="21.652" y="82">-18.7 </tspan><tspan x="15.826" y="96">(-51.2%)</tspan><tspan x="30.874" y="110"></tspan><tspan x="30.874" y="124"></tspan><tspan x="30.874" y="138"></tspan><tspan x="30.874" y="152"></tspan><tspan x="21.616" y="166">-21.6 </tspan><tspan x="14.65" y="180">(-43.9%)</tspan></text>
     </g>
   </g>
   <g id="Group_40" data-name="Group 40" transform="translate(28 -132)">
@@ -1367,82 +1971,19 @@ Cream
         <line id="Line_79-2" data-name="Line 79" y2="292.523" transform="translate(154.188 26.977)" fill="none" stroke="#1a1818" stroke-miterlimit="10" stroke-width="0.5"/>
         <line id="Line_80-2" data-name="Line 80" y2="319.5" transform="translate(90.875)" fill="none" stroke="#1a1818" stroke-miterlimit="10" stroke-width="0.5"/>
       </g>
-      <text id="PGA_Success_At_least_a_2-grade_improvement_and_Clear_0_or_Almost_Clear_1_" data-name="PGA Success
-At least a 2-grade improvement and “Clear” (0) or “Almost Clear” (1)" transform="translate(22.625 9330.919)" font-size="12" font-family="SofiaProCondensed-Bold, Sofia Pro Condensed" font-weight="700"><tspan x="15.196" y="12">PGA Success</tspan><tspan font-family="SofiaProCondensed-Light, Sofia Pro Condensed" font-weight="300"><tspan x="5.47" y="24">At least a 2-grade </tspan><tspan x="5.566" y="36">improvement and </tspan><tspan x="15.802" y="48">“Clear” (0) or </tspan><tspan x="7.036" y="60">“Almost Clear” (1)</tspan></tspan></text>
-      <text id="Inflammatory_Lesions_Mean_Absolute_Percent_Change_from_Baseline-2" data-name="Inflammatory Lesions
-Mean* Absolute (Percent) 
-Change from Baseline" transform="translate(30.625 9404.919)" font-size="12" font-family="SofiaProCondensed-Bold, Sofia Pro Condensed" font-weight="700"><tspan x="5.252" y="12">Inflammatory </tspan><tspan x="18.47" y="24">Lesions</tspan><tspan font-family="SofiaProCondensed-Light, Sofia Pro Condensed" font-weight="300"><tspan x="1.28" y="36">Mean* Absolute </tspan><tspan x="15.752" y="48">(Percent) </tspan><tspan x="7.166" y="60">Change from </tspan><tspan x="16.772" y="72">Baseline</tspan></tspan></text>
-      <text id="Non-inflammatory_Lesions_Mean_Absolute_Percent_Change_from_Baseline-2" data-name="Non-inflammatory Lesions
-Mean* Absolute (Percent) 
-Change from Baseline" transform="translate(22.625 9488.919)" font-size="12" font-family="SofiaProCondensed-Bold, Sofia Pro Condensed" font-weight="700"><tspan x="3.004" y="12">Non-inflammatory </tspan><tspan x="26.47" y="24">Lesions</tspan><tspan font-family="SofiaProCondensed-Light, Sofia Pro Condensed" font-weight="300"><tspan x="9.28" y="36">Mean* Absolute </tspan><tspan x="23.752" y="48">(Percent) </tspan><tspan x="15.166" y="60">Change from </tspan><tspan x="24.772" y="72">Baseline</tspan></tspan></text>
-      <text id="AKLIEF_Cream_N_600_" data-name="AKLIEF 
-Cream 
-(N= 600)" transform="translate(110 9279.47)" fill="#1a1818" font-size="12" font-family="SofiaProCondensed-Light, Sofia Pro Condensed" font-weight="300"><tspan x="16.82" y="12">AKLIEF </tspan><tspan x="16.388" y="24">Cream </tspan><tspan x="12.614" y="36">(N= 600)</tspan></text>
-      <text id="_35.7_-21.4_-57.4_-21.9_-49.1_" data-name="35.7%
-
-
-
-
--21.4 
-(-57.4%)
-
-
-
-
--21.9 
-(-49.1%)" transform="translate(110 9358)" fill="#1a1818" font-size="12" font-family="SofiaProCondensed-Light, Sofia Pro Condensed" font-weight="300"><tspan x="19.274" y="12">35.7%</tspan><tspan x="30.374" y="26"></tspan><tspan x="30.374" y="40"></tspan><tspan x="30.374" y="54"></tspan><tspan x="30.374" y="68"></tspan><tspan x="21.05" y="82">-21.4 </tspan><tspan x="14.834" y="96">(-57.4%)</tspan><tspan x="30.374" y="110"></tspan><tspan x="30.374" y="124"></tspan><tspan x="30.374" y="138"></tspan><tspan x="30.374" y="152"></tspan><tspan x="21.008" y="166">-21.9 </tspan><tspan x="15.38" y="180">(-49.1%)</tspan></text>
+      <text id="PGA_Success_At_least_a_2-grade_improvement_and_Clear_0_or_Almost_Clear_1_" data-name="PGA SuccessAt least a 2-grade improvement and “Clear” (0) or “Almost Clear” (1)" transform="translate(22.625 9330.919)" font-size="12" font-family="SofiaProCondensed-Bold, Sofia Pro Condensed" font-weight="700"><tspan x="15.196" y="12">PGA Success</tspan><tspan font-family="SofiaProCondensed-Light, Sofia Pro Condensed" font-weight="300"><tspan x="5.47" y="24">At least a 2-grade </tspan><tspan x="5.566" y="36">improvement and </tspan><tspan x="15.802" y="48">“Clear” (0) or </tspan><tspan x="7.036" y="60">“Almost Clear” (1)</tspan></tspan></text>
+      <text id="Inflammatory_Lesions_Mean_Absolute_Percent_Change_from_Baseline-2" data-name="Inflammatory LesionsMean* Absolute (Percent) Change from Baseline" transform="translate(30.625 9404.919)" font-size="12" font-family="SofiaProCondensed-Bold, Sofia Pro Condensed" font-weight="700"><tspan x="5.252" y="12">Inflammatory </tspan><tspan x="18.47" y="24">Lesions</tspan><tspan font-family="SofiaProCondensed-Light, Sofia Pro Condensed" font-weight="300"><tspan x="1.28" y="36">Mean* Absolute </tspan><tspan x="15.752" y="48">(Percent) </tspan><tspan x="7.166" y="60">Change from </tspan><tspan x="16.772" y="72">Baseline</tspan></tspan></text>
+      <text id="Non-inflammatory_Lesions_Mean_Absolute_Percent_Change_from_Baseline-2" data-name="Non-inflammatory LesionsMean* Absolute (Percent) Change from Baseline" transform="translate(22.625 9488.919)" font-size="12" font-family="SofiaProCondensed-Bold, Sofia Pro Condensed" font-weight="700"><tspan x="3.004" y="12">Non-inflammatory </tspan><tspan x="26.47" y="24">Lesions</tspan><tspan font-family="SofiaProCondensed-Light, Sofia Pro Condensed" font-weight="300"><tspan x="9.28" y="36">Mean* Absolute </tspan><tspan x="23.752" y="48">(Percent) </tspan><tspan x="15.166" y="60">Change from </tspan><tspan x="24.772" y="72">Baseline</tspan></tspan></text>
+      <text id="AKLIEF_Cream_N_600_" data-name="AKLIEF Cream (N= 600)" transform="translate(110 9279.47)" fill="#1a1818" font-size="12" font-family="SofiaProCondensed-Light, Sofia Pro Condensed" font-weight="300"><tspan x="16.82" y="12">AKLIEF </tspan><tspan x="16.388" y="24">Cream </tspan><tspan x="12.614" y="36">(N= 600)</tspan></text>
+      <text id="_35.7_-21.4_-57.4_-21.9_-49.1_" data-name="35.7% -21.4 (-57.4%) -21.9 (-49.1%)" transform="translate(110 9358)" fill="#1a1818" font-size="12" font-family="SofiaProCondensed-Light, Sofia Pro Condensed" font-weight="300"><tspan x="19.274" y="12">35.7%</tspan><tspan x="30.374" y="26"></tspan><tspan x="30.374" y="40"></tspan><tspan x="30.374" y="54"></tspan><tspan x="30.374" y="68"></tspan><tspan x="21.05" y="82">-21.4 </tspan><tspan x="14.834" y="96">(-57.4%)</tspan><tspan x="30.374" y="110"></tspan><tspan x="30.374" y="124"></tspan><tspan x="30.374" y="138"></tspan><tspan x="30.374" y="152"></tspan><tspan x="21.008" y="166">-21.9 </tspan><tspan x="15.38" y="180">(-49.1%)</tspan></text>
       <text id="Study_1-2" data-name="Study 1" transform="translate(186.326 9267.337)" font-size="12" font-family="SofiaProCondensed-Bold, Sofia Pro Condensed" font-weight="700"><tspan x="-15.15" y="0">Study 1</tspan></text>
-      <text id="Vehicle_Cream_N_585" data-name="Vehicle 
-Cream
-(N= 585" transform="translate(173.252 9279.47)" fill="#1a1818" font-size="12" font-family="SofiaProCondensed-Light, Sofia Pro Condensed" font-weight="300"><tspan x="14.854" y="12">Vehicle </tspan><tspan x="15.388" y="24">Cream</tspan><tspan x="13.174" y="36">(N= 585</tspan></text>
-      <text id="_25.0_-18.8_-50.0_-17.8_-40.3_" data-name="25.0%
-
-
-
-
--18.8 
-(-50.0%)
-
-
-
-
--17.8 
-(-40.3%)" transform="translate(173.252 9358)" fill="#1a1818" font-size="12" font-family="SofiaProCondensed-Light, Sofia Pro Condensed" font-weight="300"><tspan x="18.076" y="12">25.0%</tspan><tspan x="29.374" y="26"></tspan><tspan x="29.374" y="40"></tspan><tspan x="29.374" y="54"></tspan><tspan x="29.374" y="68"></tspan><tspan x="19.792" y="82">-18.8 </tspan><tspan x="13.084" y="96">(-50.0%)</tspan><tspan x="29.374" y="110"></tspan><tspan x="29.374" y="124"></tspan><tspan x="29.374" y="138"></tspan><tspan x="29.374" y="152"></tspan><tspan x="20.56" y="166">-17.8 </tspan><tspan x="13.198" y="180">(-40.3%)</tspan></text>
+      <text id="Vehicle_Cream_N_585" data-name="Vehicle Cream(N= 585" transform="translate(173.252 9279.47)" fill="#1a1818" font-size="12" font-family="SofiaProCondensed-Light, Sofia Pro Condensed" font-weight="300"><tspan x="14.854" y="12">Vehicle </tspan><tspan x="15.388" y="24">Cream</tspan><tspan x="13.174" y="36">(N= 585</tspan></text>
+      <text id="_25.0_-18.8_-50.0_-17.8_-40.3_" data-name="25.0% -18.8 (-50.0%) -17.8  (-40.3%)" transform="translate(173.252 9358)" fill="#1a1818" font-size="12" font-family="SofiaProCondensed-Light, Sofia Pro Condensed" font-weight="300"><tspan x="18.076" y="12">25.0%</tspan><tspan x="29.374" y="26"></tspan><tspan x="29.374" y="40"></tspan><tspan x="29.374" y="54"></tspan><tspan x="29.374" y="68"></tspan><tspan x="19.792" y="82">-18.8 </tspan><tspan x="13.084" y="96">(-50.0%)</tspan><tspan x="29.374" y="110"></tspan><tspan x="29.374" y="124"></tspan><tspan x="29.374" y="138"></tspan><tspan x="29.374" y="152"></tspan><tspan x="20.56" y="166">-17.8 </tspan><tspan x="13.198" y="180">(-40.3%)</tspan></text>
       <text id="Study_2-2" data-name="Study 2" transform="translate(298.577 9267.337)" font-size="12" font-family="SofiaProCondensed-Bold, Sofia Pro Condensed" font-weight="700"><tspan x="-15.744" y="0">Study 2</tspan></text>
-      <text id="AKLIEF_Cream_N_598_" data-name="AKLIEF 
-Cream 
-(N= 598)
-" transform="translate(232.245 9279.47)" fill="#1a1818" font-size="12" font-family="SofiaProCondensed-Light, Sofia Pro Condensed" font-weight="300"><tspan x="17.82" y="12">AKLIEF </tspan><tspan x="17.388" y="24">Cream </tspan><tspan x="13.746" y="36">(N= 598)</tspan><tspan x="31.374" y="48"></tspan></text>
-      <text id="_42.6_-25.5_-65.4_-25.9_-55.2_" data-name="42.6%
-
-
-
-
--25.5 
-(-65.4%)
-
-
-
-
--25.9 
-(-55.2%)" transform="translate(232.245 9358)" fill="#1a1818" font-size="12" font-family="SofiaProCondensed-Light, Sofia Pro Condensed" font-weight="300"><tspan x="20.178" y="12">42.6%</tspan><tspan x="31.374" y="26"></tspan><tspan x="31.374" y="40"></tspan><tspan x="31.374" y="54"></tspan><tspan x="31.374" y="68"></tspan><tspan x="21.096" y="82">-25.5 </tspan><tspan x="14.952" y="96">(-65.4%)</tspan><tspan x="31.374" y="110"></tspan><tspan x="31.374" y="124"></tspan><tspan x="31.374" y="138"></tspan><tspan x="31.374" y="152"></tspan><tspan x="21.042" y="166">-25.9 </tspan><tspan x="15.27" y="180">(-55.2%)</tspan></text>
-      <text id="Vehicle_Cream_N_609_" data-name="Vehicle 
-Cream
-(N=609)
-" transform="translate(295 9279.47)" fill="#1a1818" font-size="12" font-family="SofiaProCondensed-Light, Sofia Pro Condensed" font-weight="300"><tspan x="16.354" y="12">Vehicle </tspan><tspan x="16.888" y="24">Cream</tspan><tspan x="14.272" y="36">(N=609)</tspan></text>
-      <text id="_29.9_-19.8_-51.1_-20.8_-45.1_" data-name="29.9%
-
-
-
-
--19.8 
-(-51.1%)
-
-
-
-
--20.8 
-(-45.1%)" transform="translate(295 9358)" fill="#1a1818" font-size="12" font-family="SofiaProCondensed-Light, Sofia Pro Condensed" font-weight="300"><tspan x="19.618" y="12">29.9%</tspan><tspan x="30.874" y="26"></tspan><tspan x="30.874" y="40"></tspan><tspan x="30.874" y="54"></tspan><tspan x="30.874" y="68"></tspan><tspan x="21.424" y="82">-19.8 </tspan><tspan x="16.786" y="96">(-51.1%)</tspan><tspan x="30.874" y="110"></tspan><tspan x="30.874" y="124"></tspan><tspan x="30.874" y="138"></tspan><tspan x="30.874" y="152"></tspan><tspan x="20.584" y="166">-20.8 </tspan><tspan x="15.718" y="180">(-45.1%)</tspan></text>
+      <text id="AKLIEF_Cream_N_598_" data-name="AKLIEF Cream (N= 598)" transform="translate(232.245 9279.47)" fill="#1a1818" font-size="12" font-family="SofiaProCondensed-Light, Sofia Pro Condensed" font-weight="300"><tspan x="17.82" y="12">AKLIEF </tspan><tspan x="17.388" y="24">Cream </tspan><tspan x="13.746" y="36">(N= 598)</tspan><tspan x="31.374" y="48"></tspan></text>
+      <text id="_42.6_-25.5_-65.4_-25.9_-55.2_" data-name="42.6%-25.5 (-65.4%) -25.9 (-55.2%)" transform="translate(232.245 9358)" fill="#1a1818" font-size="12" font-family="SofiaProCondensed-Light, Sofia Pro Condensed" font-weight="300"><tspan x="20.178" y="12">42.6%</tspan><tspan x="31.374" y="26"></tspan><tspan x="31.374" y="40"></tspan><tspan x="31.374" y="54"></tspan><tspan x="31.374" y="68"></tspan><tspan x="21.096" y="82">-25.5 </tspan><tspan x="14.952" y="96">(-65.4%)</tspan><tspan x="31.374" y="110"></tspan><tspan x="31.374" y="124"></tspan><tspan x="31.374" y="138"></tspan><tspan x="31.374" y="152"></tspan><tspan x="21.042" y="166">-25.9 </tspan><tspan x="15.27" y="180">(-55.2%)</tspan></text>
+      <text id="Vehicle_Cream_N_609_" data-name="Vehicle Cream(N=609)" transform="translate(295 9279.47)" fill="#1a1818" font-size="12" font-family="SofiaProCondensed-Light, Sofia Pro Condensed" font-weight="300"><tspan x="16.354" y="12">Vehicle </tspan><tspan x="16.888" y="24">Cream</tspan><tspan x="14.272" y="36">(N=609)</tspan></text>
+      <text id="_29.9_-19.8_-51.1_-20.8_-45.1_" data-name="29.9%-19.8 (-51.1%)-20.8 (-45.1%)" transform="translate(295 9358)" fill="#1a1818" font-size="12" font-family="SofiaProCondensed-Light, Sofia Pro Condensed" font-weight="300"><tspan x="19.618" y="12">29.9%</tspan><tspan x="30.874" y="26"></tspan><tspan x="30.874" y="40"></tspan><tspan x="30.874" y="54"></tspan><tspan x="30.874" y="68"></tspan><tspan x="21.424" y="82">-19.8 </tspan><tspan x="16.786" y="96">(-51.1%)</tspan><tspan x="30.874" y="110"></tspan><tspan x="30.874" y="124"></tspan><tspan x="30.874" y="138"></tspan><tspan x="30.874" y="152"></tspan><tspan x="20.584" y="166">-20.8 </tspan><tspan x="15.718" y="180">(-45.1%)</tspan></text>
     </g>
   </g>
 </svg>
